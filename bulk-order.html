@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
+<title>Bulk Order by SKU | Tillman Tough</title><meta name="description" content="Paste multiple SKUs and quantities to prepare a Tillman Tough bulk order or commercial quote."></head>
+<body><div id="siteHeader"></div>
+<main><section class="page-hero"><div class="container"><div class="eyebrow">Commercial ordering</div><h1>Build an order by SKU.</h1><p>Paste several SKUs and quantities. Exact and partial matches are identified instantly, helping repeat and professional buyers avoid searching one product at a time.</p></div></section>
+<section class="section"><div class="container tool-layout"><div class="panel"><h3>Paste your order list</h3><p class="muted">Use one item per line. Accepted examples: <strong>SOLJNC4000, 2</strong> or <strong>MKXFD131 x 4</strong>.</p><textarea id="bulkText" rows="12" placeholder="SOLJNC4000, 2&#10;MKXFD131 x 4&#10;SS4WS075 12"></textarea><button class="primary" id="matchBulk">Match products</button></div><div><div class="panel"><h3>Matched items</h3><div id="bulkResults" class="bulk-results"><div class="empty">Your matched products will appear here.</div></div><div id="bulkTotal" style="font-size:1.4rem;font-weight:950;margin-top:18px"></div><button class="dark-btn" id="bulkQuote" style="margin-top:14px">Prepare quote request</button></div></div></div></section></main>
+<div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
+document.addEventListener('DOMContentLoaded',()=>{
+ let matched=[];
+ $('#matchBulk').onclick=()=>{
+  matched=$('#bulkText').value.split(/\n+/).map(line=>{
+   const parts=line.trim().split(/[,x×\s]+/).filter(Boolean); const query=parts[0]||''; const qty=Number(parts.find((x,i)=>i>0&&/^\d+$/.test(x)))||1; const product=findProducts(query,1)[0]; return {line,query,qty,product};
+  }).filter(x=>x.line.trim());
+  $('#bulkResults').innerHTML=matched.map(x=>x.product?`<div class="bulk-row"><img src="${x.product.image}" alt=""><div><b>${x.product.name}</b><small style="display:block">SKU ${x.product.sku} · ${money(x.product.price)} each</small></div><strong>Qty ${x.qty}</strong></div>`:`<div class="bulk-row"><div></div><div><b>No match: ${x.query}</b><small style="display:block">This item can be added to a sourcing request.</small></div><strong>Qty ${x.qty}</strong></div>`).join('')||'<div class="empty">Enter at least one SKU.</div>';
+  const total=matched.reduce((s,x)=>s+(x.product?x.product.price*x.qty:0),0); $('#bulkTotal').textContent=`Matched subtotal: ${money(total)}`;
+ };
+ $('#bulkQuote').onclick=()=>{
+  const lines=matched.map(x=>`${x.product?x.product.sku:x.query} — Qty ${x.qty}${x.product?` — ${x.product.name}`:' — sourcing needed'}`).join('\n');
+  location.href='quote.html?items='+encodeURIComponent(lines);
+ };
+});
+</script></body></html>

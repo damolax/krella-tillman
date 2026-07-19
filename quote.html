@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
+<title>Request a Commercial Quote | Tillman Tough</title><meta name="description" content="Request quantity pricing, sourcing, delivery review and a commercial quote from Tillman Tough."></head>
+<body><div id="siteHeader"></div>
+<main><section class="page-hero"><div class="container"><div class="eyebrow">Commercial and quantity pricing</div><h1>Request a quote.</h1><p>Share the products, quantities, delivery location and deadline. This creates a more useful enquiry for commercial, workshop and repeat orders.</p></div></section>
+<section class="section"><div class="container tool-layout"><form class="panel" id="quoteForm"><label>Name</label><input name="name" required><label>Company</label><input name="company"><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><label>Products / SKUs and quantities</label><textarea name="items" id="quoteItems" rows="9" required></textarea><label>Delivery ZIP / location</label><input name="location"><label>Required date</label><input name="date" type="date"><label>Additional details</label><textarea name="notes" rows="5"></textarea><button class="primary">Prepare email request</button></form><aside class="panel"><h3>Why this is useful</h3><p>Large or repeat purchases often need quantity confirmation, shipping review or sourcing before payment.</p><ul><li>Organized SKU list</li><li>Requested quantities</li><li>Delivery requirements</li><li>Project deadline</li><li>Clear contact details</li></ul><div class="note">The final Wix version will save the enquiry, notify the sales team and send the buyer a branded confirmation automatically.</div></aside></div></section></main>
+<div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
+document.addEventListener('DOMContentLoaded',()=>{
+ const params=new URLSearchParams(location.search); $('#quoteItems').value=params.get('items')||params.get('sku')||'';
+ $('#quoteForm').onsubmit=e=>{e.preventDefault();const fd=new FormData(e.target);const body=[...fd.entries()].map(([k,v])=>`${k.toUpperCase()}\n${v}`).join('\n\n');location.href=`mailto:info@tillmantough.com?subject=${encodeURIComponent('Tillman Tough quote request')}&body=${encodeURIComponent(body)}`};
+});
+</script></body></html>
