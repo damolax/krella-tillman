@@ -1,38 +1,53 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
-<title>Shop Professional Tools | Tillman Tough</title><meta name="description" content="Search Tillman Tough products by SKU, part number, brand, category and application."></head>
-<body><div id="siteHeader"></div>
-<main><section class="page-hero"><div class="container"><div class="eyebrow">Tillman Tough catalogue</div><h1>Find what you need—without digging.</h1><p>Search by SKU, manufacturer part number, brand, product name or use. Filters and instant suggestions help professional buyers reach the right item faster.</p></div></section>
-<section class="section"><div class="container shop-layout">
-<aside class="filters">
- <h3>Filter products</h3>
- <div class="filter-group"><label for="shopSearch">Search</label><input id="shopSearch" placeholder="SKU, name, brand..."></div>
- <div class="filter-group"><label for="categoryFilter">Category</label><select id="categoryFilter"><option value="">All categories</option></select></div>
- <div class="filter-group"><label for="brandFilter">Brand</label><select id="brandFilter"><option value="">All brands</option></select></div>
- <div class="filter-group"><label><input id="stockFilter" type="checkbox"> In-stock products only</label></div>
- <a class="secondary" href="source-item.html" style="display:block;text-align:center">Cannot find it?</a>
-</aside>
-<div><div class="results-head"><div><div class="eyebrow">Catalogue results</div><h3 id="resultCount">Products</h3></div><select id="sortFilter"><option value="relevance">Best match</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="name">Name</option></select></div><div class="product-grid" id="shopGrid"></div><div class="pagination" id="pagination"></div></div>
-</div></section></main>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Shop All Products | Tillman Tough</title><meta name="description" content="Browse Tillman Tough products or search by SKU, part number, brand and product name."></head><body><div id="siteHeader"></div>
+<main>
+<section class="page-hero"><div class="container">
+  <div class="breadcrumb">Home › Shop All</div><div class="kicker light">Tillman Tough Catalogue</div>
+  <h1>Shop All Products</h1>
+  <p>Browse the catalogue as before, or reach an exact item faster by searching its SKU, manufacturer part number, product name or brand.</p>
+</div></section>
+<section class="page-intro"><div class="container page-intro-grid">
+  <strong>Two clear ways to find a product</strong>
+  <p>Use the filters when you want to browse. Use the search box when you already know the exact item, product name or part number.</p>
+</div></section>
+<section class="section off"><div class="container shop-layout">
+  <aside class="filters">
+    <h3>Filter Products</h3>
+    <div class="filter-group"><label for="shopSearch">Search the Catalogue</label><input id="shopSearch" placeholder="SKU, product name or brand"><small class="muted">Spaces, hyphens and capitalization are optional.</small></div>
+    <div class="filter-group"><label for="categoryFilter">Category</label><select id="categoryFilter"><option value="">All Categories</option></select></div>
+    <div class="filter-group"><label for="brandFilter">Brand</label><select id="brandFilter"><option value="">All Brands</option></select></div>
+    <div class="filter-group"><label><input id="stockFilter" type="checkbox" style="width:auto;margin-right:7px"> Available Products Only</label></div>
+    <a class="btn btn-yellow" style="width:100%" href="source-item.html">Cannot Find It?</a>
+  </aside>
+  <div>
+    <div class="results-head"><div><div class="kicker">Catalogue Results</div><h3 id="resultCount">Products</h3></div>
+      <select id="sortFilter"><option value="relevance">Best Match</option><option value="price-asc">Price: Low to High</option><option value="price-desc">Price: High to Low</option><option value="name">Product Name</option></select>
+    </div>
+    <div class="product-grid" id="shopGrid"></div><div class="pagination" id="pagination"></div>
+  </div>
+</div></section>
+</main>
 <div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
 document.addEventListener('DOMContentLoaded',()=>{
- const search=$('#shopSearch'), cat=$('#categoryFilter'), brand=$('#brandFilter'), stock=$('#stockFilter'), sort=$('#sortFilter'), grid=$('#shopGrid'), pager=$('#pagination');
- const params=new URLSearchParams(location.search); search.value=params.get('q')||''; 
- const cats=[...new Set(PRODUCTS.map(p=>p.category))].sort(); const brands=[...new Set(PRODUCTS.map(p=>p.brand))].sort();
- cat.innerHTML+=[...cats].map(x=>`<option>${x}</option>`).join(''); brand.innerHTML+=[...brands].map(x=>`<option>${x}</option>`).join('');
+ const search=$('#shopSearch'),cat=$('#categoryFilter'),brand=$('#brandFilter'),stock=$('#stockFilter'),sort=$('#sortFilter'),grid=$('#shopGrid'),pager=$('#pagination');
+ const params=new URLSearchParams(location.search);search.value=params.get('q')||'';
+ const cats=[...new Set(PRODUCTS.map(p=>p.category))].sort(),brands=[...new Set(PRODUCTS.map(p=>p.brand))].sort();
+ cat.innerHTML+=cats.map(x=>`<option>${x}</option>`).join('');brand.innerHTML+=brands.map(x=>`<option>${x}</option>`).join('');
  if(params.get('category'))cat.value=params.get('category');
- let pageNo=1; const per=20;
+ let pageNo=1,per=20;
  function render(){
-  const q=search.value.trim(); let rows=PRODUCTS.filter(p=>(!cat.value||p.category===cat.value)&&(!brand.value||p.brand===brand.value)&&(!stock.checked||p.inStock));
-  if(q) rows=rows.map(p=>({p,score:productScore(p,q)})).filter(x=>x.score).sort((a,b)=>b.score-a.score).map(x=>x.p);
-  if(sort.value==='price-asc')rows.sort((a,b)=>a.price-b.price); if(sort.value==='price-desc')rows.sort((a,b)=>b.price-a.price); if(sort.value==='name')rows.sort((a,b)=>a.name.localeCompare(b.name));
-  const pages=Math.max(1,Math.ceil(rows.length/per)); pageNo=Math.min(pageNo,pages); const slice=rows.slice((pageNo-1)*per,pageNo*per);
-  $('#resultCount').textContent=`${rows.length} product${rows.length===1?'':'s'} found`;
-  grid.innerHTML=slice.length?slice.map(productCard).join(''):`<div class="empty" style="grid-column:1/-1"><h3>No exact match</h3><p>Send the SKU or manufacturer part number and request sourcing.</p><a class="primary" href="source-item.html?q=${encodeURIComponent(q)}">Request this item</a></div>`;
-  pager.innerHTML=Array.from({length:pages},(_,i)=>`<button class="${i+1===pageNo?'active':''}" data-page="${i+1}">${i+1}</button>`).join('');
-  $$('[data-page]',pager).forEach(b=>b.onclick=()=>{pageNo=Number(b.dataset.page);render();scrollTo({top:document.querySelector('.section').offsetTop-90,behavior:'smooth'})});
+   const q=search.value.trim();let rows=PRODUCTS.filter(p=>(!cat.value||p.category===cat.value)&&(!brand.value||p.brand===brand.value)&&(!stock.checked||p.inStock));
+   if(q)rows=rows.map(p=>({p,score:productScore(p,q)})).filter(x=>x.score).sort((a,b)=>b.score-a.score).map(x=>x.p);
+   if(sort.value==='price-asc')rows.sort((a,b)=>a.price-b.price);
+   if(sort.value==='price-desc')rows.sort((a,b)=>b.price-a.price);
+   if(sort.value==='name')rows.sort((a,b)=>a.name.localeCompare(b.name));
+   const pages=Math.max(1,Math.ceil(rows.length/per));pageNo=Math.min(pageNo,pages);const slice=rows.slice((pageNo-1)*per,pageNo*per);
+   $('#resultCount').textContent=`${rows.length} product${rows.length===1?'':'s'} found`;
+   grid.innerHTML=slice.length?slice.map(productCard).join(''):`<div class="no-result"><div class="kicker">No Exact Match</div><h3>Keep the search from becoming a dead end.</h3><p>Send the SKU or manufacturer part number and ask Tillman Tough to check whether it can be sourced.</p><a class="btn btn-dark" href="source-item.html?q=${encodeURIComponent(q)}">Request This Item</a></div>`;
+   pager.innerHTML=Array.from({length:pages},(_,i)=>`<button class="${i+1===pageNo?'active':''}" data-page="${i+1}">${i+1}</button>`).join('');
+   $$('[data-page]',pager).forEach(b=>b.onclick=()=>{pageNo=Number(b.dataset.page);render();scrollTo({top:document.querySelector('.section').offsetTop-100,behavior:'smooth'})});
  }
- [search,cat,brand,stock,sort].forEach(el=>el.addEventListener(el.type==='checkbox'?'change':'input',()=>{pageNo=1;render()})); sort.addEventListener('change',()=>{pageNo=1;render()}); cat.addEventListener('change',()=>{pageNo=1;render()}); brand.addEventListener('change',()=>{pageNo=1;render()});
+ search.addEventListener('input',()=>{pageNo=1;render()});
+ [cat,brand,stock,sort].forEach(el=>el.addEventListener('change',()=>{pageNo=1;render()}));
  render();
 });
 </script></body></html>

@@ -1,9 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
-<title>Request a Commercial Quote | Tillman Tough</title><meta name="description" content="Request quantity pricing, sourcing, delivery review and a commercial quote from Tillman Tough."></head>
-<body><div id="siteHeader"></div>
-<main><section class="page-hero"><div class="container"><div class="eyebrow">Commercial and quantity pricing</div><h1>Request a quote.</h1><p>Share the products, quantities, delivery location and deadline. This creates a more useful enquiry for commercial, workshop and repeat orders.</p></div></section>
-<section class="section"><div class="container tool-layout"><form class="panel" id="quoteForm"><label>Name</label><input name="name" required><label>Company</label><input name="company"><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><label>Products / SKUs and quantities</label><textarea name="items" id="quoteItems" rows="9" required></textarea><label>Delivery ZIP / location</label><input name="location"><label>Required date</label><input name="date" type="date"><label>Additional details</label><textarea name="notes" rows="5"></textarea><button class="primary">Prepare email request</button></form><aside class="panel"><h3>Why this is useful</h3><p>Large or repeat purchases often need quantity confirmation, shipping review or sourcing before payment.</p><ul><li>Organized SKU list</li><li>Requested quantities</li><li>Delivery requirements</li><li>Project deadline</li><li>Clear contact details</li></ul><div class="note">The final Wix version will save the enquiry, notify the sales team and send the buyer a branded confirmation automatically.</div></aside></div></section></main>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Request a Commercial Quote | Tillman Tough</title><meta name="description" content="Request quantity pricing, sourcing and delivery review from Tillman Tough."></head><body><div id="siteHeader"></div>
+<main>
+<section class="page-hero"><div class="container">
+  <div class="breadcrumb">Home › Buying Support › Request Quote</div><div class="kicker light">Quantity and Commercial Orders</div>
+  <h1>Request a Quote</h1><p>Provide the products, quantities, delivery location and deadline once, so the Tillman Tough team receives a complete enquiry.</p>
+</div></section>
+<section class="page-intro"><div class="container page-intro-grid"><strong>Use this when checkout alone is not enough</strong><p>This route is for quantity pricing, availability confirmation, delivery review, sourcing and purchase-order discussions.</p></div></section>
+<section class="section off"><div class="container tool-layout">
+  <form class="panel" id="quoteForm"><div class="kicker">Your Request</div><h3>Tell Us What You Need</h3><label>Name</label><input name="name" required><label>Company</label><input name="company"><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><label>Products / SKUs and Quantities</label><textarea name="items" id="quoteItems" rows="9" required></textarea><label>Delivery ZIP / Location</label><input name="location"><label>Required Date</label><input name="date" type="date"><label>Additional Details</label><textarea name="notes" rows="5"></textarea><button class="btn btn-yellow">Prepare Email Request</button></form>
+  <aside class="panel"><div class="kicker">What Happens Next</div><h3>A Complete Sales Enquiry</h3>
+    <div class="flow-steps"><div class="flow-step"><span>1</span><div><b>Products are identified</b><p>SKUs and quantities are grouped in one request.</p></div></div><div class="flow-step"><span>2</span><div><b>Availability is reviewed</b><p>The team checks stock, sourcing and timing.</p></div></div><div class="flow-step"><span>3</span><div><b>Pricing and delivery are confirmed</b><p>The buyer receives what is needed to proceed.</p></div></div></div>
+    <div class="note">The final Wix version will save the enquiry, notify the sales team and send a branded confirmation.</div>
+  </aside>
+</div></section>
+</main>
 <div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
 document.addEventListener('DOMContentLoaded',()=>{
  const params=new URLSearchParams(location.search); $('#quoteItems').value=params.get('items')||params.get('sku')||'';

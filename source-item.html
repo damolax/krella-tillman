@@ -1,9 +1,18 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
-<title>Request Product Sourcing | Tillman Tough</title><meta name="description" content="Send a SKU, manufacturer part number or product specification and ask Tillman Tough to source the item."></head>
-<body><div id="siteHeader"></div>
-<main><section class="page-hero"><div class="container"><div class="eyebrow">Product sourcing</div><h1>Cannot find it? Send the part number.</h1><p>An unsuccessful catalogue search should not end the sale. Share the SKU, manufacturer part number, brand or a photograph and ask Tillman Tough to check availability.</p></div></section>
-<section class="section"><div class="container tool-layout"><form class="panel" id="sourceForm"><label>SKU or manufacturer part number</label><input id="sourceSku" name="part_number" required><label>Brand</label><input name="brand"><label>Product description</label><textarea name="description" rows="5"></textarea><label>Quantity</label><input name="quantity" type="number" min="1" value="1"><label>When do you need it?</label><input name="deadline" type="date"><label>Your name</label><input name="name" required><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><button class="primary">Prepare sourcing request</button></form><aside class="panel"><h3>Turn missing products into opportunities.</h3><p>This route is especially useful when a customer has:</p><ul><li>An exact manufacturer part number</li><li>A discontinued or replacement item</li><li>A specification but no product name</li><li>A large quantity requirement</li><li>An item that has not been added to the online catalogue</li></ul><div class="note">Inside Wix, this would create a tagged sourcing lead and alert the appropriate sales contact.</div></aside></div></section></main>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Request Product Sourcing | Tillman Tough</title><meta name="description" content="Send a SKU, part number or product description and ask Tillman Tough to source the item."></head><body><div id="siteHeader"></div>
+<main>
+<section class="page-hero"><div class="container">
+  <div class="breadcrumb">Home › Buying Support › Source an Item</div><div class="kicker light">Cannot Find the Exact Product?</div>
+  <h1>Send the Part Number</h1><p>A missing search result should not send a customer away. Submit the SKU, manufacturer part number, brand or description and ask Tillman Tough to check availability.</p>
+</div></section>
+<section class="page-intro"><div class="container page-intro-grid"><strong>The safety net for the catalogue</strong><p>This captures demand for unavailable, newly released, hard-to-identify or not-yet-listed products.</p></div></section>
+<section class="section off"><div class="container tool-layout">
+  <form class="panel" id="sourceForm"><div class="kicker">Product Details</div><h3>What Should We Look For?</h3><label>SKU or Manufacturer Part Number</label><input id="sourceSku" name="part_number" required><label>Brand</label><input name="brand"><label>Product Description</label><textarea name="description" rows="5"></textarea><label>Quantity</label><input name="quantity" type="number" min="1" value="1"><label>When Do You Need It?</label><input name="deadline" type="date"><label>Your Name</label><input name="name" required><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><button class="btn btn-yellow">Prepare Sourcing Request</button></form>
+  <aside class="panel"><div class="kicker">Useful For</div><h3>Products That Do Not Fit a Normal Search</h3>
+    <div class="flow-steps"><div class="flow-step"><span>1</span><div><b>Exact part numbers</b><p>The buyer knows the SKU but the store has no match.</p></div></div><div class="flow-step"><span>2</span><div><b>Replacement products</b><p>An older product may have a current alternative.</p></div></div><div class="flow-step"><span>3</span><div><b>Commercial quantities</b><p>Supplier confirmation may be required.</p></div></div><div class="flow-step"><span>4</span><div><b>Unlisted products</b><p>The item may exist before it reaches the website.</p></div></div></div>
+    <div class="note">Inside Wix, this will create a tagged sourcing lead and alert the appropriate sales contact.</div>
+  </aside>
+</div></section>
+</main>
 <div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
 document.addEventListener('DOMContentLoaded',()=>{
  $('#sourceSku').value=new URLSearchParams(location.search).get('q')||'';

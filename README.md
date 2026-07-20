@@ -1,36 +1,35 @@
-# Tillman Tough Phase Two Mockup
+# Tillman Tough — Current Brand Enhanced Mockup
 
-This client-facing front-end build contains:
+This version preserves the existing Tillman Tough identity and familiar store language.
 
-- Advanced search by exact/partial SKU, product name, brand and description
-- Instant search suggestions
-- Product catalogue, filters, pagination and product pages
-- Local cart demonstration
-- Bulk-order-by-SKU workflow
-- Commercial quote workflow
-- Product-sourcing request workflow
-- Responsive desktop and mobile design
-- SEO-ready page titles and descriptions
+## Clear homepage flow
 
-## Catalogue included
+1. Existing Tillman Tough brand promise and hero
+2. Prominent search by SKU, part number, product name or brand
+3. Four simple ways to shop
+4. Promotion, New Products and Editors Pick
+5. Familiar product categories
+6. Featured products
+7. Bulk ordering, quantity quotes and product sourcing
+8. Expert help and trust information
 
-The supplied Wix page snapshot contained **100 complete product records**. Those 100 products and their Wix-hosted images are included.
+## Functional demonstrations
 
-The full store is reported to contain more than 2,800 products, but those records were not present in the supplied attachment. To import the full catalogue without fabricating data, obtain a Wix Stores CSV export or authorized Wix API access, then run:
+- Exact and partial SKU search
+- Product-name, brand and description search
+- Instant suggestions
+- Product filters and pagination
+- Individual product pages
+- Cart demonstration
+- Bulk-order SKU matching
+- Commercial quote request
+- Missing-product sourcing request
+- Responsive desktop and mobile layouts
 
-```bash
-python import_wix_catalog.py products.csv
-```
+## Catalogue
 
-## Deploy
+The supplied Wix snapshot contained 100 complete product records. All 100 are included to demonstrate the functionality.
 
-Static deployment: no build command and no environment variables are required.
+## Review status
 
-For Vercel:
-- Framework: Other
-- Root directory: repository root
-- Output directory: leave blank
-
-## Review limitations
-
-Forms currently prepare a structured email on the visitor's device. In the approved Wix implementation they should be connected to Wix Forms, Contacts, Automations and the live store.
+The forms currently prepare structured email messages. In the approved Wix implementation they should connect to Wix Forms, Contacts, Automations and the live Wix Stores catalogue.

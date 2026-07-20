@@ -1,9 +1,22 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
-<title>Bulk Order by SKU | Tillman Tough</title><meta name="description" content="Paste multiple SKUs and quantities to prepare a Tillman Tough bulk order or commercial quote."></head>
-<body><div id="siteHeader"></div>
-<main><section class="page-hero"><div class="container"><div class="eyebrow">Commercial ordering</div><h1>Build an order by SKU.</h1><p>Paste several SKUs and quantities. Exact and partial matches are identified instantly, helping repeat and professional buyers avoid searching one product at a time.</p></div></section>
-<section class="section"><div class="container tool-layout"><div class="panel"><h3>Paste your order list</h3><p class="muted">Use one item per line. Accepted examples: <strong>SOLJNC4000, 2</strong> or <strong>MKXFD131 x 4</strong>.</p><textarea id="bulkText" rows="12" placeholder="SOLJNC4000, 2&#10;MKXFD131 x 4&#10;SS4WS075 12"></textarea><button class="primary" id="matchBulk">Match products</button></div><div><div class="panel"><h3>Matched items</h3><div id="bulkResults" class="bulk-results"><div class="empty">Your matched products will appear here.</div></div><div id="bulkTotal" style="font-size:1.4rem;font-weight:950;margin-top:18px"></div><button class="dark-btn" id="bulkQuote" style="margin-top:14px">Prepare quote request</button></div></div></div></section></main>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Bulk Order by SKU | Tillman Tough</title><meta name="description" content="Match several SKUs and quantities and prepare a commercial Tillman Tough order request."></head><body><div id="siteHeader"></div>
+<main>
+<section class="page-hero"><div class="container">
+  <div class="breadcrumb">Home › Buying Support › Bulk Order</div><div class="kicker light">For Repeat and Commercial Buyers</div>
+  <h1>Bulk Order by SKU</h1><p>Enter several product codes and quantities in one place. The system matches the catalogue and prepares one organized request.</p>
+</div></section>
+<section class="page-intro"><div class="container page-intro-grid"><strong>Best for buyers who already have a list</strong><p>Use this route for repeat orders, supply lists and commercial purchases. Normal shoppers can continue using Shop All.</p></div></section>
+<section class="section off"><div class="container tool-layout">
+  <div class="panel"><div class="kicker">Step 1</div><h3>Paste Your Product List</h3>
+    <div class="flow-steps">
+      <div class="flow-step"><span>1</span><div><b>Enter one SKU per line</b><p>Examples: SOLJNC4000, 2 or MKXFD131 x 4.</p></div></div>
+      <div class="flow-step"><span>2</span><div><b>Match the catalogue</b><p>Exact and partial matches are identified immediately.</p></div></div>
+      <div class="flow-step"><span>3</span><div><b>Prepare one request</b><p>Matched and missing items move into a single quote.</p></div></div>
+    </div>
+    <textarea id="bulkText" rows="12" placeholder="SOLJNC4000, 2&#10;MKXFD131 x 4&#10;SS4WS075 12"></textarea><button class="btn btn-yellow" id="matchBulk">Match Products</button>
+  </div>
+  <div class="panel"><div class="kicker">Step 2</div><h3>Review Matched Products</h3><div id="bulkResults" class="bulk-results"><div class="empty">Your matched products will appear here.</div></div><div id="bulkTotal" style="font-size:1.35rem;font-weight:950;margin-top:18px"></div><button class="btn btn-dark" id="bulkQuote" style="margin-top:14px">Prepare Quote Request</button></div>
+</div></section>
+</main>
 <div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
 document.addEventListener('DOMContentLoaded',()=>{
  let matched=[];
