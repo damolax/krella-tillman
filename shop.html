@@ -1,49 +1,18 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Shop All Products | Tillman Tough</title>
-<meta name="description" content="Search and filter Tillman Tough products by SKU, brand, category, price and availability.">
-<meta name="robots" content="noindex,nofollow">
-<meta name="theme-color" content="#090909">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Tillman Tough">
-<meta property="og:title" content="Shop All Products | Tillman Tough">
-<meta property="og:description" content="Search and filter Tillman Tough products by SKU, brand, category, price and availability.">
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="assets/styles.css">
-<script defer src="data/site.js"></script>
-<script defer src="data/products.js"></script>
-<script defer src="scripts/app.js"></script>
-</head>
-<body data-page="shop">
-<div id="siteHeader"></div>
-<main id="main">
-<section class="page-hero"><div class="container">
-<div class="breadcrumb"><a href="index.html">Home</a> › Shop All</div>
-<div class="kicker light">Tillman Tough Catalogue</div>
-<h1>Shop All Products</h1>
-<p>Browse the catalogue or reach an exact item faster by searching its SKU, manufacturer part number, product name, brand or application.</p>
-</div></section>
-<section class="page-intro"><div class="container page-intro-grid"><strong>Two clear ways to find a product</strong><p>Use filters when you want to browse. Use catalogue search when you already know the exact item, model or part number.</p></div></section>
-<section class="section off" id="catalogue"><div class="container shop-layout">
-<aside class="filters" aria-label="Product filters">
-<h2>Filter Products</h2>
-<div class="filter-group"><label for="shopSearch">Search the catalogue</label><input id="shopSearch" placeholder="SKU, product, brand or application"><div class="field-help">Spaces, hyphens and capitalization are optional.</div></div>
-<div class="filter-group"><label for="categoryFilter">Category</label><select id="categoryFilter"></select></div>
-<div class="filter-group"><label for="brandFilter">Brand</label><select id="brandFilter"></select></div>
-<div class="filter-group"><label>Price range</label><div class="price-row"><input id="minPrice" type="number" min="0" placeholder="Min" aria-label="Minimum price"><input id="maxPrice" type="number" min="0" placeholder="Max" aria-label="Maximum price"></div></div>
-<div class="filter-group"><label><input id="stockFilter" type="checkbox" style="width:auto;margin-right:7px"> Available products only</label></div>
-<a class="btn btn-yellow" style="width:100%" href="source-item.html">Cannot Find It?</a>
-</aside>
-<div>
-<div id="activeFilters" class="active-filters" aria-live="polite"></div>
-<div class="results-head"><div><div class="kicker">Catalogue Results</div><h2 id="resultCount" style="font-size:1.55rem">Products</h2></div>
-<div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><label class="sr-only" for="sortFilter">Sort products</label><select id="sortFilter"><option value="relevance">Best Match</option><option value="new">Newest First</option><option value="price-asc">Price: Low to High</option><option value="price-desc">Price: High to Low</option><option value="name">Product Name</option></select><div class="view-toggle" aria-label="Product view"><button type="button" data-view="grid" class="active">Grid</button><button type="button" data-view="list">List</button></div></div>
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Shop Professional Tools | Tillman Tough</title><meta content="noindex,nofollow" name="robots"/><link href="assets/css/main.css" rel="stylesheet"/><link href="assets/css/public.css" rel="stylesheet"/><script defer="" src="data/products.js"></script><script defer="" src="data/config.js"></script><script defer="" src="assets/js/app.js"></script><meta content="Search and filter tools by product, brand, model, SKU or manufacturer part number." name="description"/></head><body><a class="tt-skip" href="#main">Skip to content</a>
+<div class="tt-topbar"><div class="tt-container tt-topbar__inner"><div class="tt-topbar__group"><span>Professional tools &amp; equipment</span><span>Fast support for commercial orders</span></div><div class="tt-topbar__group"><a href="review.html">Private buyer review</a></div></div></div>
+<header class="tt-header">
+<div class="tt-container tt-header__main">
+<a aria-label="Tillman Tough home" class="tt-logo" href="index.html"><img alt="Tillman Tough — Krella Tillman Sales Group" height="120" src="assets/images/logo.svg" width="720"/></a>
+<div class="tt-header-search tt-search" data-tt-search="">
+<form class="tt-search__box"><label class="tt-sr-only" for="tt-global-search">Search products</label><input id="tt-global-search" placeholder="Search product, brand, model or part number"/><button>Search</button></form><div class="tt-suggestions"></div>
 </div>
-<div class="product-grid" id="shopGrid"></div>
-<nav class="pagination" id="pagination" aria-label="Product pages"></nav>
+<div class="tt-actions"><a class="tt-action" href="compare.html">Compare <span class="tt-badge" data-tt-compare-count="">0</span></a><button class="tt-action tt-action--cart" data-tt-open-cart="">Cart <span class="tt-badge" data-tt-cart-count="">0</span></button><button aria-controls="tt-mobile-menu" aria-expanded="false" class="tt-mobile-toggle" data-tt-menu="" type="button">Menu</button></div>
 </div>
-</div></section>
-</main><div id="siteFooter"></div></body></html>
+<div class="tt-nav-shell"><div class="tt-container tt-nav-row">
+<details class="tt-mega"><summary>Shop Products</summary><div class="tt-mega__panel"><div><span class="tt-mega__label">Departments</span><a href="shop.html?category=Power%20Tools">Power Tools</a><a href="shop.html?category=Hand%20Tools">Hand Tools</a><a href="shop.html?category=Electronics%20%26%20Diagnostics">Electronics &amp; Diagnostics</a></div><div><span class="tt-mega__label">Specialist</span><a href="shop.html?category=Welding%20Tools%20%26%20Equipment">Welding</a><a href="shop.html?category=Abrasives">Abrasives</a><a href="shop.html?category=PPE%2C%20Safety%20%26%20Apparel">Safety &amp; Apparel</a></div><div><span class="tt-mega__label">Buying tools</span><a href="finder.html">Product Finder</a><a href="compare.html">Compare Products</a><a href="shop.html">Shop All Products</a></div></div></details>
+<nav aria-label="Product categories" class="tt-category-menu"><a href="shop.html?category=Power%20Tools">Power Tools</a><a href="shop.html?category=Hand%20Tools">Hand Tools</a><a href="shop.html?category=Electronics%20%26%20Diagnostics">Diagnostics</a><a href="shop.html?category=Welding%20Tools%20%26%20Equipment">Welding</a><a href="shop.html?category=Abrasives">Abrasives</a></nav>
+<nav aria-label="Business buying" class="tt-support-menu"><a href="bulk-order.html">Bulk Order</a><a href="quote.html">Request Quote</a><a href="source-item.html">Source an Item</a><a class="tt-review-link" href="review.html">Buyer Review</a></nav>
+</div></div>
+</header>
+<nav aria-label="Mobile navigation" class="tt-mobile-menu" id="tt-mobile-menu"><a href="shop.html">Shop All Products</a><a href="finder.html">Product Finder</a><a href="compare.html">Compare Products</a><a href="bulk-order.html">Bulk Order</a><a href="quote.html">Request Quote</a><a href="source-item.html">Source an Item</a><a href="about.html">About</a><a href="review.html">Buyer Review</a></nav><main id="main"><section class="tt-page-hero"><div class="tt-container"><div class="tt-kicker tt-kicker--light">Professional catalogue</div><h1 class="tt-h1">Find the exact product.</h1><p>Search by SKU, product, brand or application, then narrow results with professional buying filters.</p></div></section><section class="tt-section tt-section--soft"><div class="tt-container"><div class="tt-catalog"><aside class="tt-filters"><div class="tt-filter"><label>Search catalogue</label><input id="tt-catalog-search" placeholder="SKU, product, brand or application"/></div><div class="tt-filter"><label>Category</label><select id="tt-category"></select></div><div class="tt-filter"><label>Brand</label><select id="tt-brand"></select></div><div class="tt-filter"><label>Price</label><div style="display:grid;grid-template-columns:1fr 1fr;gap:7px"><input id="tt-min-price" placeholder="Min" type="number"/><input id="tt-max-price" placeholder="Max" type="number"/></div></div><div class="tt-filter"><label><input id="tt-stock" style="width:auto" type="checkbox"/> Available only</label></div><a class="tt-btn tt-btn--yellow" href="source-item.html">Cannot find it?</a></aside><div><div data-tt-active=""></div><div class="tt-results-head"><div><div class="tt-kicker">Catalogue results</div><h2 class="tt-h3" data-tt-count="">Products</h2></div><select id="tt-sort"><option value="relevance">Best match</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="name">Name</option></select></div><div class="tt-product-grid" data-tt-catalog-grid=""></div><div class="tt-pagination" data-tt-pagination=""></div></div></div></div></section></main><footer class="tt-footer"><div class="tt-container"><div class="tt-footer__grid"><div><img alt="Tillman Tough" class="tt-footer__logo" src="assets/images/logo.svg"/><p>Professional tools, equipment and practical buying support for exact, repeat and commercial orders.</p></div><div><h2>Shop</h2><a href="shop.html">Shop All</a><a href="finder.html">Product Finder</a><a href="compare.html">Compare Products</a></div><div><h2>Business Buying</h2><a href="bulk-order.html">Bulk Order</a><a href="quote.html">Request Quote</a><a href="source-item.html">Source an Item</a></div><div><h2>Company</h2><a href="about.html">About</a><a href="contact.html">Contact</a><a href="review.html">Buyer Review</a></div></div><div class="tt-footer__bottom"><span>© 2026 Krella Tillman Sales Group</span><span>Interactive WordPress concept preview</span></div></div></footer></body></html>
