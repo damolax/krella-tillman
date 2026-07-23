@@ -1,0 +1,868 @@
+{
+  "engine": "Playwright Chromium in-memory document QA",
+  "layout_tests": [
+    {
+      "viewport": 1440,
+      "page": "index.html",
+      "passed": true,
+      "title": "Tillman Tough | Professional Tools, Equipment & SKU Search",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 6022
+    },
+    {
+      "viewport": 1440,
+      "page": "shop.html",
+      "passed": true,
+      "title": "Shop All Products | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 4102
+    },
+    {
+      "viewport": 1440,
+      "page": "product.html",
+      "passed": true,
+      "title": "Clore Automotive Jump-n-Carry 1100 Peak Amp 12 Volt Jump Starter | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 2394
+    },
+    {
+      "viewport": 1440,
+      "page": "compare.html",
+      "passed": true,
+      "title": "Compare Products | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1409
+    },
+    {
+      "viewport": 1440,
+      "page": "bulk-order.html",
+      "passed": true,
+      "title": "Bulk Order by SKU | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1803
+    },
+    {
+      "viewport": 1440,
+      "page": "quote.html",
+      "passed": true,
+      "title": "Request a Commercial Quote | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1881
+    },
+    {
+      "viewport": 1440,
+      "page": "source-item.html",
+      "passed": true,
+      "title": "Request Product Sourcing | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1933
+    },
+    {
+      "viewport": 1440,
+      "page": "finder.html",
+      "passed": true,
+      "title": "Product Finder | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1635
+    },
+    {
+      "viewport": 1440,
+      "page": "faq.html",
+      "passed": true,
+      "title": "FAQs | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1599
+    },
+    {
+      "viewport": 1440,
+      "page": "guides.html",
+      "passed": true,
+      "title": "Buying Guides | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 3285
+    },
+    {
+      "viewport": 1440,
+      "page": "about.html",
+      "passed": true,
+      "title": "About Tillman Tough | Krella Tillman Sales Group",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 2876
+    },
+    {
+      "viewport": 1440,
+      "page": "contact.html",
+      "passed": true,
+      "title": "Contact Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 2044
+    },
+    {
+      "viewport": 1440,
+      "page": "review.html",
+      "passed": true,
+      "title": "Tillman Tough Phase Two Review",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 3369
+    },
+    {
+      "viewport": 1440,
+      "page": "404.html",
+      "passed": true,
+      "title": "Page Not Found | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 1440,
+      "bodyText": 1104
+    },
+    {
+      "viewport": 390,
+      "page": "index.html",
+      "passed": true,
+      "title": "Tillman Tough | Professional Tools, Equipment & SKU Search",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 5865
+    },
+    {
+      "viewport": 390,
+      "page": "shop.html",
+      "passed": true,
+      "title": "Shop All Products | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 3945
+    },
+    {
+      "viewport": 390,
+      "page": "product.html",
+      "passed": true,
+      "title": "Clore Automotive Jump-n-Carry 1100 Peak Amp 12 Volt Jump Starter | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 2271
+    },
+    {
+      "viewport": 390,
+      "page": "compare.html",
+      "passed": true,
+      "title": "Compare Products | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1252
+    },
+    {
+      "viewport": 390,
+      "page": "bulk-order.html",
+      "passed": true,
+      "title": "Bulk Order by SKU | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1646
+    },
+    {
+      "viewport": 390,
+      "page": "quote.html",
+      "passed": true,
+      "title": "Request a Commercial Quote | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1724
+    },
+    {
+      "viewport": 390,
+      "page": "source-item.html",
+      "passed": true,
+      "title": "Request Product Sourcing | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1776
+    },
+    {
+      "viewport": 390,
+      "page": "finder.html",
+      "passed": true,
+      "title": "Product Finder | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1478
+    },
+    {
+      "viewport": 390,
+      "page": "faq.html",
+      "passed": true,
+      "title": "FAQs | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1442
+    },
+    {
+      "viewport": 390,
+      "page": "guides.html",
+      "passed": true,
+      "title": "Buying Guides | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 3128
+    },
+    {
+      "viewport": 390,
+      "page": "about.html",
+      "passed": true,
+      "title": "About Tillman Tough | Krella Tillman Sales Group",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 2719
+    },
+    {
+      "viewport": 390,
+      "page": "contact.html",
+      "passed": true,
+      "title": "Contact Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 1887
+    },
+    {
+      "viewport": 390,
+      "page": "review.html",
+      "passed": true,
+      "title": "Tillman Tough Phase Two Review",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 3212
+    },
+    {
+      "viewport": 390,
+      "page": "404.html",
+      "passed": true,
+      "title": "Page Not Found | Tillman Tough",
+      "mainCount": 1,
+      "h1Count": 1,
+      "footer": true,
+      "overflow": false,
+      "width": 390,
+      "bodyText": 947
+    }
+  ],
+  "functional_tests": [
+    {
+      "name": "Exact SKU search returns expected item",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Keyboard search selection works",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Add to cart opens drawer and persists",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Product can be added to comparison",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Shop search filters catalogue",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "No-result search exposes sourcing",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Comparison table renders selected product",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Bulk SKU matching and subtotal work",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Required form validation is visible",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Quote form completes with valid data",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "Guided finder returns recommendations",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "FAQ search and accordion work",
+      "passed": true,
+      "value": true
+    }
+  ],
+  "console_errors": [],
+  "screenshots": [
+    "screenshots/home_desktop.png",
+    "screenshots/shop_desktop.png",
+    "screenshots/product_desktop.png",
+    "screenshots/bulk_desktop.png",
+    "screenshots/quote_desktop.png",
+    "screenshots/home_mobile.png",
+    "screenshots/shop_mobile.png",
+    "screenshots/product_mobile.png",
+    "screenshots/bulk_mobile.png",
+    "screenshots/quote_mobile.png"
+  ],
+  "responsive_matrix": [
+    {
+      "width": 320,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 320,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 320,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 320,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 320,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 375,
+      "clientWidth": 375,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 390,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 430,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 430,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 430,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 430,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 430,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1024,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1024,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1024,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1024,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1024,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1366,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1366,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1366,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1366,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1366,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1920,
+      "page": "index.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1920,
+      "clientWidth": 1920,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1920,
+      "page": "shop.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1920,
+      "clientWidth": 1920,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1920,
+      "page": "product.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1920,
+      "clientWidth": 1920,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1920,
+      "page": "bulk-order.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1920,
+      "clientWidth": 1920,
+      "main": 1,
+      "h1": 1
+    },
+    {
+      "width": 1920,
+      "page": "quote.html",
+      "passed": true,
+      "overflow": false,
+      "scrollWidth": 1920,
+      "clientWidth": 1920,
+      "main": 1,
+      "h1": 1
+    }
+  ]
+}

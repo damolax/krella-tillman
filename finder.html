@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Product Finder | Tillman Tough</title>
+<meta name="description" content="Use the Tillman Tough guided finder to identify tools by department, budget and job description.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#090909">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tillman Tough">
+<meta property="og:title" content="Product Finder | Tillman Tough">
+<meta property="og:description" content="Use the Tillman Tough guided finder to identify tools by department, budget and job description.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/styles.css">
+<script defer src="data/site.js"></script>
+<script defer src="data/products.js"></script>
+<script defer src="scripts/app.js"></script>
+</head>
+<body data-page="finder">
+<div id="siteHeader"></div>
+<main id="main">
+<section class="page-hero"><div class="container">
+<div class="breadcrumb"><a href="index.html">Home</a> › Product Finder</div>
+<div class="kicker light">Guided Product Finder</div>
+<h1>Find the Right Product</h1>
+<p>Tell us the department, budget and what you are trying to accomplish. The finder recommends relevant products from the preview catalogue.</p>
+</div></section>
+<section class="page-intro"><div class="container page-intro-grid"><strong>Useful when a buyer knows the job but not the product name</strong><p>This guided route reduces category confusion and gives uncertain visitors a useful next step instead of leaving them to guess.</p></div></section>
+<section class="section off"><div class="container">
+<form class="panel narrow" id="finderForm">
+<div class="kicker">Your Requirements</div><h2>What are you working on?</h2>
+<label for="finderCategory">Department</label>
+<select id="finderCategory" name="category"><option value="">Any department</option><option>Power Tools</option><option>Hand Tools</option><option>Electronics &amp; Diagnostics</option><option>Welding Tools &amp; Equipment</option><option>Abrasives</option><option>PPE, Safety &amp; Apparel</option></select>
+<label for="finderKeyword">Product or job description</label><input id="finderKeyword" name="keyword" placeholder="Example: high torque impact wrench, jump starter or grinding wheel">
+<label for="finderBudget">Maximum budget</label>
+<select id="finderBudget" name="budget"><option value="100">Up to $100</option><option value="250">Up to $250</option><option value="500">Up to $500</option><option value="1500">Up to $1,500</option><option value="999999">Any budget</option></select>
+<button class="btn btn-yellow" type="submit" style="margin-top:18px">Show Recommendations</button>
+</form>
+<div id="finderResults" style="margin-top:55px" aria-live="polite"></div>
+</div></section>
+</main><div id="siteFooter"></div></body></html>

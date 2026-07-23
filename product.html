@@ -1,15 +1,32 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css">
-<title>Product | Tillman Tough</title><meta name="description" content="Professional tool and equipment product details."></head>
-<body><div id="siteHeader"></div>
-<main><section class="section"><div class="container"><div id="productHost"></div></div></section>
-<section class="section dark"><div class="container"><div class="section-head"><div><div class="eyebrow">You may also need</div><h2>Related products.</h2></div></div><div class="product-grid" id="relatedGrid"></div></div></section></main>
-<div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
-document.addEventListener('DOMContentLoaded',()=>{
- const id=new URLSearchParams(location.search).get('id'); const p=PRODUCTS.find(x=>x.id===id)||PRODUCTS[0];
- document.title=`${p.name} | Tillman Tough`;
- $('#productHost').innerHTML=`<div class="product-page"><div class="product-gallery"><img src="${p.image}" alt="${p.name}"></div><div class="product-info"><div class="eyebrow">${p.brand} · ${p.category}</div><span class="sku-line">SKU ${p.sku}</span><h1>${p.name}</h1><div class="${p.inStock?'stock':'stock out'}">${p.inStock?'Available to order':'Currently unavailable'}</div><div class="price">${money(p.price)}</div><p>${p.description||'Professional-grade equipment selected for demanding work.'}</p><div class="buy-row"><input id="qty" type="number" min="1" value="1"><button class="primary" id="addProduct">Add to cart</button><a class="secondary" href="quote.html?sku=${encodeURIComponent(p.sku)}">Request quantity quote</a></div><div class="note"><strong>Need a related item or a different quantity?</strong><br>Use the SKU in a commercial quote or sourcing request.</div><div class="details"><h3>Product details</h3><p><strong>Brand:</strong> ${p.brand}</p><p><strong>Category:</strong> ${p.category}</p><p><strong>SKU:</strong> ${p.sku}</p>${p.weight!==null?`<p><strong>Weight:</strong> ${p.weight}</p>`:''}<p><a href="${p.url}" target="_blank"><strong>View the current live product listing ↗</strong></a></p></div></div></div>`;
- $('#addProduct').onclick=()=>addCart(p.id,Math.max(1,Number($('#qty').value)||1));
- const related=PRODUCTS.filter(x=>x.id!==p.id&&(x.category===p.category||x.brand===p.brand)).slice(0,4); $('#relatedGrid').innerHTML=related.map(productCard).join('');
-});
-</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Product Details | Tillman Tough</title>
+<meta name="description" content="View product specifications, SKU, availability, price, related products and ordering options.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#090909">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tillman Tough">
+<meta property="og:title" content="Product Details | Tillman Tough">
+<meta property="og:description" content="View product specifications, SKU, availability, price, related products and ordering options.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/styles.css">
+<script defer src="data/site.js"></script>
+<script defer src="data/products.js"></script>
+<script defer src="scripts/app.js"></script>
+</head>
+<body data-page="product">
+<div id="siteHeader"></div>
+<main id="main">
+<section class="page-hero"><div class="container">
+<div class="breadcrumb"><a href="index.html">Home</a> › Product</div>
+<div class="kicker light">Tillman Tough Catalogue</div>
+<h1>Product Details</h1>
+<p>Review clear product information, specifications, compatibility support and direct paths to cart, quote or sourcing.</p>
+</div></section>
+<section class="section"><div class="container"><div id="productHost"></div></div></section>
+<section class="section off"><div class="container"><div class="section-head"><div><div class="kicker">Related Products</div><h2>You may also need.</h2></div><p>Products are suggested using category and brand relationships from the preview catalogue.</p></div><div class="product-grid" id="relatedGrid"></div></div></section>
+<div class="mobile-buy-bar"><span><strong id="mobileProductPrice"></strong><small style="display:block">Preview price</small></span><button class="btn btn-yellow" type="button" id="mobileAdd">Add to Cart</button></div>
+</main><div id="siteFooter"></div></body></html>

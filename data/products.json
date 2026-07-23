@@ -1,5 +1,35 @@
 [
   {
+    "id": "soljnc4000-preview",
+    "sku": "SOLJNC4000",
+    "name": "Clore Automotive Jump-n-Carry 1100 Peak Amp 12 Volt Jump Starter",
+    "slug": "clore-automotive-jump-n-carry-1100-peak-amp-12-volt-jump-starter",
+    "brand": "Clore Automotive",
+    "category": "Electronics & Diagnostics",
+    "price": 159.99,
+    "originalPrice": 159.99,
+    "currency": "USD",
+    "inStock": true,
+    "ribbon": "",
+    "image": "https://static.wixstatic.com/media/92f580_f16230e50afc49f8b08dc65a0ef0f428~mv2.jpg/v1/fit/w_900,h_900,q_88/file.jpg",
+    "images": [
+      "https://static.wixstatic.com/media/92f580_f16230e50afc49f8b08dc65a0ef0f428~mv2.jpg/v1/fit/w_900,h_900,q_88/file.jpg",
+      "https://static.wixstatic.com/media/92f580_e13b682f0a85467f87f1d0d1b29df7c9~mv2.jpg/v1/fit/w_900,h_900,q_88/file.jpg"
+    ],
+    "description": "A professional 12-volt jump starter with Clore PROFORMER battery technology, a built-in charger, battery status gauge, impact-resistant case and 1100 peak amps of starting power.",
+    "detailsHtml": "",
+    "weight": null,
+    "url": "https://www.tillmantough.com/product-page/clore-automotive-jump-n-carry-1100-peak-amp-12-volt-jump-starter",
+    "updated": "",
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "12V",
+      "Peak Output": "1100 peak amps"
+    },
+    "searchText": "SOLJNC4000 Clore Automotive Jump-n-Carry 1100 Peak Amp 12 Volt Jump Starter Clore Automotive Electronics & Diagnostics professional 12 volt jump starter 1100 peak amps",
+    "duplicateSku": false
+  },
+  {
     "id": "e3efb8b5-2e39-dd3a-1786-91a6f16d774e",
     "sku": "KTI74103",
     "name": "3-Piece Mini Brush Set (Brass/Nylon/Steel Brushes)",
@@ -22,7 +52,12 @@
     "weight": 0.15,
     "url": "https://www.tillmantough.com/product-page/k-tool-international-3-piece-mini-brush-set-brass-nylon-steel-brushes",
     "updated": "2025-07-26T00:52:27.617Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.15 lb"
+    },
+    "searchText": "KTI74103 3-Piece Mini Brush Set (Brass/Nylon/Steel Brushes) K Tool International Abrasives K Tool International 3-Piece Mini Brush Set (Brass/Nylon/Steel Brushes) Features and Benefits: Contains one each of the most popular brushes, brass, nylon and stainless steel Features molded polypropylene handles Overall length of brushes are 7\" Brushes also available individually, ref# KTI74106, KTI74107 and KTI74108 Includes: KTI74106 brass, KTI74107 nylon and KTI74108 stainless steel brushes.",
+    "duplicateSku": false
   },
   {
     "id": "beda7f14-e08d-1681-2527-2ed2738a37c8",
@@ -45,15 +80,22 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-1-8-x-5-8-11-pipeline-aluminum-oxide-grinding-wheel-5-32-sold-by-the",
     "updated": "2025-07-14T19:16:47.787Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "36 Grit",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS35664 4-1/2 X 1/8 X 5/8-11 Aluminum Oxide Grinding Wheel 36 Grit/Typ 27( 1/EA) Sand Star Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 27 Hardness: T Grit: 36 Size/Width (Thickness): 1/8 Max RPM: 13300 Material: Aluminum Oxide Manufactured with Metal Threaded Hub Non-Hubbed Part #: SS35667",
+    "duplicateSku": false
   },
   {
     "id": "d8f748a3-dc22-4a96-a07e-5cc4e22a4063",
     "sku": "DWDCST922B",
-    "name": "20V MAX 14\" Folding String  \tTrimmer (Tool Only)",
+    "name": "20V MAX 14\" Folding String Trimmer (Tool Only)",
     "slug": "20v-max-14-folding-string-trimmer-tool-only",
     "brand": "Tillman Tough",
-    "category": "Abrasives",
+    "category": "Power Tools",
     "price": 155.0,
     "originalPrice": 155.0,
     "currency": "USD",
@@ -68,15 +110,21 @@
     "weight": 11,
     "url": "https://www.tillmantough.com/product-page/20v-max-14-folding-string-trimmer-tool-only",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "11 lb"
+    },
+    "searchText": "DWDCST922B 20V MAX 14\" Folding String Trimmer (Tool Only) Tillman Tough Power Tools The 20V MAX 14\" String Trimmer features an innovative folding hinge mechanism that reduces the length by 40% for accessible storage and quick portability. The QuickLoad Spool allows for fast and easy line replacement of 0.080\" line with 14\" swath. The variable-speed trigger offers precise power control, as well as performance and runtime management with the Hi/Lo speed-control switch. Reduced length when folded for easy transportation Durability even in the thick brush Choose between performance and runtime with variable-speed trigger Wind new line fast with QuickLoad Spool",
+    "duplicateSku": false
   },
   {
     "id": "cad5b35c-b726-47ba-ab51-eca069feb619",
     "sku": "EL655",
-    "name": "1000 AMP AC/DC Probe Digital  \tMultimeter",
+    "name": "1000 AMP AC/DC Probe Digital Multimeter",
     "slug": "1000-amp-ac-dc-probe-digital-multimeter",
     "brand": "Tillman Tough",
-    "category": "Automotive & Diagnostics",
+    "category": "Electronics & Diagnostics",
     "price": 140.0,
     "originalPrice": 140.0,
     "currency": "USD",
@@ -91,15 +139,22 @@
     "weight": 1.66,
     "url": "https://www.tillmantough.com/product-page/1000-amp-ac-dc-probe-digital-multimeter",
     "updated": "2025-09-06T16:45:10.578Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Peak Output": "1000 AMP",
+      "Weight": "1.66 lb"
+    },
+    "searchText": "EL655 1000 AMP AC/DC Probe Digital Multimeter Tillman Tough Electronics & Diagnostics High quality unit with 37 test ranges and 10 testing functions - high current capability, good for starting/charging diagnostics Auto power-off, Auto-ranging, Data Hold - Built-in Temp readings Temp probe and carrying case included - full function Digital Mutimeter built-in Clamp opening 1.5 inches - good choice for heavy-duty troubleshooting Backlit LCD display",
+    "duplicateSku": false
   },
   {
     "id": "718f8e82-0e7a-4c18-b64b-9032ca3f6455",
     "sku": "AOPRN2",
-    "name": "1/2\" Capacity Automatic Rivet  \tNut Setting Kit",
+    "name": "1/2\" Capacity Automatic Rivet Nut Setting Kit",
     "slug": "1-2-capacity-automatic-rivet-nut-setting-kit",
     "brand": "Tillman Tough",
-    "category": "Paint & Body",
+    "category": "Paint & Body Equipment",
     "price": 522.0,
     "originalPrice": 522.0,
     "currency": "USD",
@@ -114,7 +169,13 @@
     "weight": 9,
     "url": "https://www.tillmantough.com/product-page/1-2-capacity-automatic-rivet-nut-setting-kit",
     "updated": "2025-06-14T19:17:37.236Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Weight": "9 lb"
+    },
+    "searchText": "AOPRN2 1/2\" Capacity Automatic Rivet Nut Setting Kit Tillman Tough Paint & Body Equipment The PRN2 1/2\" Capacity Automatic Rivet Nut Setting Kit - Metric & SAE is designed with an instant air-hydraulic pulling force of 4270 lbs. making it fully automated in operation. With only one pull of the trigger, this tool can set and unthread rivet nuts up to M12 and 1/2\". The simple mandrel thread size changes in this tool allow the user to push back the spring-loaded roll pin hex retainer under the nose cover to unlock and unthread mandrels by hand. In addition, this tool allows up to 7mm of adjustable stroke length, set by rotating the rear drum to your desired stroke setting. This set includes 10 mandrels and nosepieces in the following sizes: M5, M6, M8, M10, M12, 10-24, 1/4\", 5/16\", 3/8\", 1/2\". Traction Power: 4270 lbs. of force Tool Stroke: 7mm max Work Capacity: 1/2\" Air Inlet: 1/4\" PT",
+    "duplicateSku": false
   },
   {
     "id": "8592d4d3-12f8-279e-4b6f-3b03122f6fba",
@@ -137,7 +198,13 @@
     "weight": 5.3,
     "url": "https://www.tillmantough.com/product-page/1-2-drive-compact-impact-wrench",
     "updated": "2025-07-27T21:42:33.350Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\" Drive",
+      "Weight": "5.3 lb"
+    },
+    "searchText": "CPT7748 1/2\" Drive Compact Impact Wrench Chicago Pneumatic Power Tools 1/2\" Drive Compact Impact Wrench Features and Benefits: 960 ft.lbs of max torque in reverse One-hand reverse system (Ring system) Hard anodized end plates / Hard chromium aluminum cylinder / Twin hammer mechanism 6.89 in. in length 4.4 lbs in weight thanks to its composite motor housing",
+    "duplicateSku": false
   },
   {
     "id": "9e814911-2074-41b9-edc1-f595b511d775",
@@ -145,7 +212,7 @@
     "name": "1/2 Inch Air Impact Wrench, Super Duty, 600 ft-lb Torque",
     "slug": "ingersoll-rand-1-2-inch-air-impact-wrench-super-duty-600-ft-lb-torque-frictio-1",
     "brand": "Ingersoll Rand",
-    "category": "Power Tools",
+    "category": "Air Tools",
     "price": 198.0,
     "originalPrice": 198.0,
     "currency": "USD",
@@ -160,7 +227,14 @@
     "weight": 6.53,
     "url": "https://www.tillmantough.com/product-page/ingersoll-rand-1-2-inch-air-impact-wrench-super-duty-600-ft-lb-torque-frictio-1",
     "updated": "2025-07-26T01:08:14.540Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2 Inch",
+      "Torque": "600 ft-lb",
+      "Weight": "6.53 lb"
+    },
+    "searchText": "IRT231C 1/2 Inch Air Impact Wrench, Super Duty, 600 ft-lb Torque Ingersoll Rand Air Tools Ingersoll Rand 1/2 Inch Air Impact Wrench, Super Duty, 600 ft-lb Torque, Friction Ring Retainer, Pistol Grip Features and Benefits: The heavy duty 231C impact wrench has the reliability and durability you've come to expect from the Ingersoll Rand name. The powerful tool provides an even impact and is durable enough to last through the toughest work environments. Performance: Delivers a max. torque of 600 ft.-lbs. and offers enough power to install and remove stubborn bolts, lug nuts, and other hardy fasteners. Reliable Choice: Lightweight and easy to maintain, this impact wrench is a reliable choice for auto hobbyists and professional mechanics alike. Built to withstand harsh environments and repeated drops, this impact wrench won�t let you down. Adjustable Power: Its adjustable power regulator lets you easily adjust power output needed for your task at hand The twin hammer mechanism helps ensure efficient performance with impressive rotational speeds of up to 8,000 rpm. Comfort and Control: At 7.3 inches in length and weighing only 5.8 lbs, its compact, ergonomic design minimizes stress on your wrists and hands The contoured handle makes it easy to carry and control. Ready to Use: For added convenience, this impact wrench arrives fully lubricated, so its ready to use out of the box. Exclusive impact mechanism Pressure-feed lubrication. Bare Tool",
+    "duplicateSku": false
   },
   {
     "id": "3d11a852-4350-f0f9-04d5-69369c385f51",
@@ -168,7 +242,7 @@
     "name": "3/4\" (19 mm) Concrete Hole Anchor",
     "slug": "peakworks-peakworks-3-4-19-mm-concrete-hole-anchor",
     "brand": "Peakworks",
-    "category": "Power Tools",
+    "category": "PPE, Safety & Apparel",
     "price": 178.99,
     "originalPrice": 178.99,
     "currency": "USD",
@@ -183,12 +257,18 @@
     "weight": 0.9,
     "url": "https://www.tillmantough.com/product-page/peakworks-peakworks-3-4-19-mm-concrete-hole-anchor",
     "updated": "2025-07-22T17:40:07.818Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "3/4",
+      "Weight": "0.9 lb"
+    },
+    "searchText": "SRWV8222120 3/4\" (19 mm) Concrete Hole Anchor Peakworks PPE, Safety & Apparel SPECIAL ORDER - PEAKWORKS $350 MIN ORDER May take extra time to receive PeakWorks - 3/4\" (19 mm) Concrete Hole Anchor Features and Benefits: Product Type: Anchor Anchor Sling Length (ft.): N/A Application: Concrete Category: Temporary Certification: ANSI Z359.18 End Configuration: D-Ring Material: Steel Minimum Tensile Strength: 5,000 lbs. Total Weight Capacity (lb.): 310 lbs. Ease of Use: This temporary concrete anchor has a hole size opening diameter (Install Thru) of 3/4\" (19 mm) Simply drill the proper size hole into the concrete, blow the dust out with compressed air and insert the unit Reusable: When your job is done, simple fill in the drill hole and reuse at your new desired location Device can be removed and simply re-installed in a new location for added jobsite flexibility Certified: The removable anchor has multi-directional attributes and works in horizontal, vertical and overhead surfaces OSHA compliant, this product meets ANSI Z359.7 standards",
+    "duplicateSku": false
   },
   {
     "id": "ea8b7fd6-53d4-4a81-94e8-0679b30208b7",
     "sku": "DWDCK211S2",
-    "name": "12V Lithium Ion Drill/Impact  \tCombo Kit",
+    "name": "12V Lithium Ion Drill/Impact Combo Kit",
     "slug": "12v-lithium-ion-drill-impact-combo-kit",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -206,12 +286,19 @@
     "weight": 7.45,
     "url": "https://www.tillmantough.com/product-page/12v-lithium-ion-drill-impact-combo-kit",
     "updated": "2025-06-14T18:44:35.516Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "12V",
+      "Drive Size": "3/8\"",
+      "Weight": "7.45 lb"
+    },
+    "searchText": "DWDCK211S2 12V Lithium Ion Drill/Impact Combo Kit Tillman Tough Power Tools DCD710 12V MAX* 3/8\" drill/driver features two speed transmission (0-400 / 0-1,500), and DCF815 12V MAX* 1/4\" impact driver. Tools feature 3 LED lights to provide visibility without shadows (2) 12V MAX* Li-Ion batteries, fast charger, bit tip, (2) belt hooks Contractor bag",
+    "duplicateSku": false
   },
   {
     "id": "85d090cc-4239-4702-b7a5-2a7ff2c87e93",
     "sku": "DWDCD701F2",
-    "name": "12V MAX XTREME Drill/Driver  \tKit",
+    "name": "12V MAX XTREME Drill/Driver Kit",
     "slug": "12v-max-xtreme-drill-driver-kit",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -229,12 +316,19 @@
     "weight": 4.72,
     "url": "https://www.tillmantough.com/product-page/12v-max-xtreme-drill-driver-kit",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "12V",
+      "Drive Size": "3/8 in.",
+      "Weight": "4.72 lb"
+    },
+    "searchText": "DWDCD701F2 12V MAX XTREME Drill/Driver Kit Tillman Tough Power Tools This cordless kit includes one 3/8 in. drill/driver, two 12V MAX* 2Ah batteries, charger, and tool bag . This drill is compact and performance packed, ideal for precision applications like drilling small pilot holes. It can also can accept up to a ½ in. spade bit. At only 5.97 in. long, it is packed to perform with a 2-speed transmission. It also features a bright LED positioned light on the foot to illuminate work areas. DCD701 12V MAX* Brushless 3/8 in. Drill Driver has 32% more power** DCD701 12V MAX* Brushless 3/8 in.Drill Driver is 20% shorter** Brushless motor for efficient performance and runtime 3/8 in. ratcheting chuck for a wide variety of bits 2-Speed transmission and 15 clutch settings for a variety of applications LED foot light for superiror visibility Lightweight at 1.9 lbs (Tool Only) Kitted with 2.0 Ah batteries with state of charge indicator Includes: (1) DCD701B - 12V MAX* Brushless 3/8 in. Drill Driver, (2) DCB122 - 12V MAX* batteries with state of charge indicator, (1) DCB112 - 12V and 20V MAX* charger, (1) Belt Clip, (1) Tool Bag",
+    "duplicateSku": false
   },
   {
     "id": "80aed689-cbf8-41ab-916b-84d0825b2217",
     "sku": "HA4935104",
-    "name": "150 Piece Screwdriver Bit  \tBox",
+    "name": "150 Piece Screwdriver Bit Box",
     "slug": "150-piece-screwdriver-bit-box",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -252,12 +346,18 @@
     "weight": 10,
     "url": "https://www.tillmantough.com/product-page/150-piece-screwdriver-bit-box",
     "updated": "2025-06-21T20:02:39.582Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/4\"",
+      "Weight": "10 lb"
+    },
+    "searchText": "HA4935104 150 Piece Screwdriver Bit Box Tillman Tough Power Tools 1/4\" Shank Size for use in driving screws and other fasteners by hand tool application or with corded cordless drills and impact drivers. Includes: Multiples of each 1/4\" Hex bits 3\" Magnetic Bit Holders 1/4\", 5/16\" 3/8\" Nut Driver Bits #2 Phillips x 2\" Long Bits #1, #2, #3 x 1\" Long Bits T25 Torx x 2\" Long Bits T20, T25, and T27 x 1\" Long Bits #2 Square Recess and 8-10 Slotted x 2\" Long Bits #2 Square Recess and 8-10 Slotted x 1\" Long Bits",
+    "duplicateSku": false
   },
   {
     "id": "93613ae6-6cbb-46eb-8ffd-aa095ca3d89d",
     "sku": "MKXFD131",
-    "name": "18V LXT® Brushless Cordless  \t1/2\" Driver-Drill Kit",
+    "name": "18V LXT® Brushless Cordless 1/2\" Driver-Drill Kit",
     "slug": "18v-lxt-brushless-cordless-1-2-driver-drill-kit",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -275,7 +375,14 @@
     "weight": 7.2,
     "url": "https://www.tillmantough.com/product-page/18v-lxt-brushless-cordless-1-2-driver-drill-kit",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "18V",
+      "Drive Size": "1/2\"",
+      "Weight": "7.2 lb"
+    },
+    "searchText": "MKXFD131 18V LXT® Brushless Cordless 1/2\" Driver-Drill Kit Tillman Tough Power Tools Mechanical 2-speed transmission (0-500 & 0-1,900 RPM) for a wide range of drilling and fastening applications BL™ Brushless motor delivers 440 in.lbs.. of Max Torque Efficient BL™ Brushless Motor is electronically controlled to optimize battery energy use for up to 50% longer run time per charge The BL™ Brushless Motor eliminates carbon brushes, enabling the BL™ Motor to run cooler and more efficiently for longer life The electronically-controlled BL™ Brushless Motor efficiently uses energy to match torque and RPM to the changing demands of the application Rubberized soft grip handle provides increased comfort on the job Built-in dual L.E.D. lights with afterglow illuminate the work area",
+    "duplicateSku": false
   },
   {
     "id": "bc8991be-05be-45c7-8a95-92f355bcf43c",
@@ -283,7 +390,7 @@
     "name": "2-Speed 20V Grease Gun Kit",
     "slug": "2-speed-20v-grease-gun-kit",
     "brand": "Tillman Tough",
-    "category": "Power Tools",
+    "category": "PPE, Safety & Apparel",
     "price": 342.0,
     "originalPrice": 342.0,
     "currency": "USD",
@@ -298,12 +405,18 @@
     "weight": 17,
     "url": "https://www.tillmantough.com/product-page/2-speed-20v-grease-gun-kit",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "17 lb"
+    },
+    "searchText": "LN1886 2-Speed 20V Grease Gun Kit Tillman Tough PPE, Safety & Apparel The grease gun features a stable, three-point stance to keep the tool upright. Its LED work light illuminates fitting locations, and a premium grease follower prevents bypass to keep the tool clean. Like all Lincoln lithium-ion PowerLuber models, the 1886 provides longer battery life, faster charge time, zero memory effect, no-fade output and lower self-discharge, when compared to NiCad battery tools. Engineered to withstand harsh environments LED indicators identify loss of prime, empty cartridge or blocked fittings High-torque motor develops pressure up to 10,000 psi Battery energy gauge Two-speed transmission delivers 3.5 oz./min on low and 10 oz./min on high Heavy-duty composite body with protective rubber overmold Balanced, ergonomic design weighing 7.5 lbs. 48-inch, high-pressure hose",
+    "duplicateSku": false
   },
   {
     "id": "946b31fb-eaff-4a16-b6e2-5c19c30e8b25",
     "sku": "NKAX65",
-    "name": "2000A Jump Starter and 22A Air  \tInflator",
+    "name": "2000A Jump Starter and 22A Air Inflator",
     "slug": "2000a-jump-starter-and-22a-air-inflator",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -321,12 +434,19 @@
     "weight": 9.79,
     "url": "https://www.tillmantough.com/product-page/2000a-jump-starter-and-22a-air-inflator",
     "updated": "2025-05-21T16:34:39.640Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Peak Output": "2000 amps",
+      "Weight": "9.79 lb"
+    },
+    "searchText": "NKAX65 2000A Jump Starter and 22A Air Inflator Tillman Tough Power Tools Introducing the next generation of air compressors ? an all new design that offers ultrafast, automatic inflation - combined with the extreme jump starting power of BoostX. All in one lithium powered air compressor and jump starter. Extreme jump starting power - 2000 amps - for fast and powerful engine starts for up to 8.0-liter gasoline and 6.0-liter diesel engines. Inflate tires astonishingly fast in 1.5 minutes. A pressure sensor and smart tech pause inflation at the set pressure and shut it off for precise accuracy. Designed for rugged environments with rubberized port covers and anti-vibration feet for uncompromising operation - zero movement. With its rugged portable design, integrated cord management, dedicated slots for accessories, and ultra-compact size, it can easily be stored - and ready to take on anything. Starts gas engines up to 7.5L and diesel engines up to 5.0L Max Pressure: 100 PSI Peak Current: 2000 amps Includes: Booster/Inflator, USB-C cable, user guide, HD battery clamps, 3 inflator adapters, storage bag",
+    "duplicateSku": false
   },
   {
     "id": "10ae14d2-1a64-40d5-bd94-043e3371157c",
     "sku": "DWDCK248D2",
-    "name": "20V MAX 1/2\" Drill & 1/4\" Hex  \tImpact Driver Combo Kit",
+    "name": "20V MAX 1/2\" Drill & 1/4\" Hex Impact Driver Combo Kit",
     "slug": "20v-max-1-2-drill-1-4-hex-impact-driver-combo-kit-1",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -344,15 +464,22 @@
     "weight": 9.5,
     "url": "https://www.tillmantough.com/product-page/20v-max-1-2-drill-1-4-hex-impact-driver-combo-kit-1",
     "updated": "2025-05-20T19:32:37.052Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "9.5 lb"
+    },
+    "searchText": "DWDCK248D2 20V MAX 1/2\" Drill & 1/4\" Hex Impact Driver Combo Kit Tillman Tough Power Tools 20V MAX XR Brushless 2-Tool Kit includes one drill/driver, impact driver, two 2Ah batteries, a charger, and kit bag. Both tools are equipped with a high-output brushless motors to help you tackle demanding projects. The DCD800 Drill/Driver is equipped with a 3-position, pivoting LED for enhanced visibility in dimly lit work areas. The DCF887 delivers up to 1,825 in-lbs of torque at only 5.3 in. front to back. Both tools are compatible with all DEWALT 20V MAX batteries.",
+    "duplicateSku": false
   },
   {
     "id": "b4923bf7-7e84-4cb9-9623-766d847867a6",
     "sku": "DWDCD797D2",
-    "name": "20V MAX Compact BTC Drill  \tDriver Kit",
+    "name": "20V MAX Compact BTC Drill Driver Kit",
     "slug": "20v-max-compact-btc-drill-driver-kit",
     "brand": "Tillman Tough",
-    "category": "Power Tools",
+    "category": "Electronics & Diagnostics",
     "price": 254.0,
     "originalPrice": 254.0,
     "currency": "USD",
@@ -367,7 +494,13 @@
     "weight": 8,
     "url": "https://www.tillmantough.com/product-page/20v-max-compact-btc-drill-driver-kit",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "8 lb"
+    },
+    "searchText": "DWDCD797D2 20V MAX Compact BTC Drill Driver Kit Tillman Tough Electronics & Diagnostics Blue Tooth Connect - LAST SEEN feature helps reduce wasted time and money by providing the street address of where your compact hammerdrill was last in range of your Tool Connect™-enabled device Easily and quickly assign tools to jobsites and users on the Tool Connect™ Inventory Manager software, increasing accountability and reducing lost tools Receive diagnostics on the tool like internal coin cell battery life, temperature, number of trigger pulls, and how long the tool has been running Set \"disable when out of range\" alerts to help deter unauthorized use or theft Once you've downloaded the Tool Connect™ app, easily pair with the app by holding down the pair button on the tool foot for 3-5 seconds Program 3 customized RPM settings for precise speed of application Customize the brightness and delay of the integrated LED light Integrated blue LED light indicates when your hammerdrill is paired with your Tool Connect™ app DEWALT brushless motor delivers up to 75% more runtime vs. 18V NiCad brushed motors Ergonomic comfort grip handle provides ideal balance and comfort Max rpm 0-2000 rpm # of Speed Settings 3, 13 clutch settings Includes: (2) DCB203 2Ah XR® Brushless Batteries, Charger, Kit Box",
+    "duplicateSku": false
   },
   {
     "id": "7a0f19f9-6681-4566-b70f-f3a4c3e9c0e7",
@@ -390,12 +523,18 @@
     "weight": 14,
     "url": "https://www.tillmantough.com/product-page/20v-max-string-trimmer-kit",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "14 lb"
+    },
+    "searchText": "DWDCST922P1 20V MAX String Trimmer Kit Tillman Tough Power Tools This 20V MAX* 14-inch String Trimmer features an innovative folding hinge mechanism that reduces the length by 40%** for accessible storage and quick portability. The QuickLoad Spool of the the edge trimmer allows for fast and easy line replacement of the DEWALT 0.080-inch line. The 14-inch swath gives a large cutting radius for knocking down wide sections of overgrowth in one pass. The variable speed trigger of the grass cutter offers precise power control, as well as performance and runtime management with the Hi/Lo speed control switch. Edger/trimmer has a folding hinge to fit into small storage spaces** Reduced length when folded for easy transportation of the cordless grass trimmer 14-inch swath of the lawn trimmer is designed for a wide cutting area Durability even in the thick brush Choose between performance and runtime with variable-speed trigger Wind new line fast with QuickLoad Spool Control power level with Hi/Lo speed control switch",
+    "duplicateSku": false
   },
   {
     "id": "b0325af4-7d5d-432e-8639-132c24df7cae",
     "sku": "IRW3131-K22",
-    "name": "20V MAX XR 3/8\" & 1/2\" Sealed  \tHead Ratchet (Tool Only)",
+    "name": "20V MAX XR 3/8\" & 1/2\" Sealed Head Ratchet (Tool Only)",
     "slug": "20v-max-xr-3-8-1-2-sealed-head-ratchet-tool-only",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -413,12 +552,19 @@
     "weight": 2.6,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-3-8-1-2-sealed-head-ratchet-tool-only",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "3/8",
+      "Weight": "2.6 lb"
+    },
+    "searchText": "IRW3131-K22 20V MAX XR 3/8\" & 1/2\" Sealed Head Ratchet (Tool Only) Tillman Tough Power Tools Engineered with the professional in mind, the 20V MAX XR 3/8\" & 1/2\" Sealed Head Ratchet has the power, versatility, and durability, needed on the job. This cordless ratchet has a brushless motor that delivers 75 ft-lbs. of max torque and a no-load speed of 0-300 RPM to fasten and remove stubborn nuts and bolts. Maximize versatility with the ability to quickly swap between interchangeable 3/8\" and 1/2\" square drive anvils for a variety of applications, as well as quickly change from forward/reverse for efficient working. The sealed head design and glass-filled nylon tool housing is designed to help prevent damage from automotive oils and solvents found on the job. Brighten your workspace with the integrated LED light and prevent accidental tool activation using the tool's trigger lock.",
+    "duplicateSku": false
   },
   {
     "id": "62baeca3-1481-482a-b3a6-867aadab2390",
     "sku": "DWDCS367P1",
-    "name": "20V Max Brushless Compact  \tReciprocating Saw Kit (5.0 Ah)",
+    "name": "20V Max Brushless Compact Reciprocating Saw Kit (5.0 Ah)",
     "slug": "20v-max-brushless-compact-reciprocating-saw-kit-5-0-ah",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -436,12 +582,19 @@
     "weight": 9.3,
     "url": "https://www.tillmantough.com/product-page/20v-max-brushless-compact-reciprocating-saw-kit-5-0-ah",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1",
+      "Weight": "9.3 lb"
+    },
+    "searchText": "DWDCS367P1 20V Max Brushless Compact Reciprocating Saw Kit (5.0 Ah) Tillman Tough Power Tools The DCS367P1 20V MAX* XR® COMPACT Reciprocating Saw has a compact and lightweight design for making cuts in confined spaces like in between studs. Brushless motor helps to provide up to 2.5x more run time** to get the job done. 1-1/8\" Stroke length and a variable speed trigger delivering up to 2,900 strokes per minute Keyless, lever-action 4-position blade clamp for quick and easy blade changes in four directions for a variety of applications including flush cutting. LED light is included to illuminate dark work areas. Single 5 amp battery, bag and charger",
+    "duplicateSku": false
   },
   {
     "id": "486ea403-e0ac-4a31-bca4-49b9e459e53f",
     "sku": "DWDCK280C2",
-    "name": "20V Max Li-Ion Compact Drill  \tand Impact Combo Kit",
+    "name": "20V Max Li-Ion Compact Drill and Impact Combo Kit",
     "slug": "20v-max-li-ion-compact-drill-and-impact-combo-kit",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -459,7 +612,14 @@
     "weight": 10,
     "url": "https://www.tillmantough.com/product-page/20v-max-li-ion-compact-drill-and-impact-combo-kit",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "10 lb"
+    },
+    "searchText": "DWDCK280C2 20V Max Li-Ion Compact Drill and Impact Combo Kit Tillman Tough Power Tools Two Tools- Great Value: DCD780 20V MAX* 1/2\" drill/driver features two speed transmission (0-600 / 0-2,000) DCF885 20V MAX* 1/4\" impact driver features 3 LED lights with 20 second delay to provide visibility without shadows Includes DCD780 1/2\" Drill/Driver DCF885 1/4\" Impact Driver (2) 20V MAX* Lithium Ion 1.5 Ah Battery Packs Fast Charger (2) Belt Hooks, Bit Holder, and contractors bag",
+    "duplicateSku": false
   },
   {
     "id": "f55d23b2-765e-4895-9251-3667dead8b91",
@@ -482,12 +642,18 @@
     "weight": 2,
     "url": "https://www.tillmantough.com/product-page/20v-max-powerstack-starter-kit-1",
     "updated": "2025-05-20T18:41:10.230Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "2 lb"
+    },
+    "searchText": "DWDCBP034C 20V Max Powerstack Starter Kit Tillman Tough Power Tools Compact Battery is 50% more powerful, 25% more compact, and 15% lighter This battery features an impact-resistant, rubber overmild base and utilizes revolutionary pouch cell battery technology to provide twice the lifetime 50% more power in a 25% more compact battery DESIGNED TO RESIST WEAR-AND-TEAR: Durable, over molded base provides impact resistance LONG-LASTING: Battery provides 2X lifetime AVOID UNPLANNED WORK STOPPAGES: LED fuel gauge displays state-of-charge 20V MAX SYSTEM COMPATIBILITY: Battery works with all 20V MAX tools and chargers Compact Battery and Charger Kit . This battery has 50% more power with a 25% smaller footprint and works with the 20V MAX tools you already have",
+    "duplicateSku": false
   },
   {
     "id": "5f3f56e8-44c2-4840-819e-4852f0f11b0f",
     "sku": "DWDCD991P2",
-    "name": "20V Max XR Brushless 3-Speed  \tDrill / Driver Kit (5.0 Ah)",
+    "name": "20V Max XR Brushless 3-Speed Drill / Driver Kit (5.0 Ah)",
     "slug": "20v-max-xr-brushless-3-speed-drill-driver-kit-5-0-ah",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -505,12 +671,19 @@
     "weight": 11.2,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-brushless-3-speed-drill-driver-kit-5-0-ah",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "11.2 lb"
+    },
+    "searchText": "DWDCD991P2 20V Max XR Brushless 3-Speed Drill / Driver Kit (5.0 Ah) Tillman Tough Power Tools DEWALT-built high power, high efficiency brushless motor delivers up to 57% more run time over brushed XR Li-Ion batteries with fuel gauge provide 33% more capacity over standard packs 3-speed, high performance (0-2,000 RPM) all-metal transmission optimizes tool-to-task for fast application speeds and improved run time Heavy-duty 1/2\" ratcheting nitro-carburized metal chuck with carbide inserts for superior bit gripping strength 3-Mode LED provides lighting in dark or confined spaces up to 20X brighter than previous model LED Spotlight Mode features 20 minute shutoff function allowing for extended work time in dark or confined spaces (2) DCB205 - 20V MAX* XR High Capacity Li-Ion Batteries (5.0Ah), Charger, Belt hook, 360° side handle, Kitbox",
+    "duplicateSku": false
   },
   {
     "id": "c44b4ae4-b1b4-4a26-88c8-adc967469a1a",
     "sku": "DWDCBL722P1",
-    "name": "20V Max XR Brushless Handheld  \tBlower",
+    "name": "20V Max XR Brushless Handheld Blower",
     "slug": "20v-max-xr-brushless-handheld-blower",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -528,12 +701,18 @@
     "weight": 10,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-brushless-handheld-blower",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "10 lb"
+    },
+    "searchText": "DWDCBL722P1 20V Max XR Brushless Handheld Blower Tillman Tough Power Tools Up to 450 CFM of air volume and up to 125 Mph with concentrator Innovative axial fan design that maximizes on air output and run time Low noise during operation - 66 dB(A), ideal for noise sensitive regions and properties High-efficiency brushless motor helps extend run time and motor life Lightweight and ergonomic design allows for easy control and arm movement Variable trigger and speed lock for precise power control Air Speed 125 mph Air Volume (cubic feet per minute) 450 CFM Decibel 66 dBA System 20V MAX* Weight 5.43 lbs Includes: DCB205 (XR5 amp battery), DCB115 (Charger) and Concentrator Nozzle",
+    "duplicateSku": false
   },
   {
     "id": "5f31b6d1-0c30-42a2-9fca-f6ddda709d5f",
     "sku": "DWDCSNP2142Y2",
-    "name": "21\" 60V MAX Single-Stage Snow  \tBlower Kit",
+    "name": "21\" 60V MAX Single-Stage Snow Blower Kit",
     "slug": "21-60v-max-single-stage-snow-blower-kit",
     "brand": "Tillman Tough",
     "category": "Power Tools",
@@ -551,7 +730,13 @@
     "weight": 88,
     "url": "https://www.tillmantough.com/product-page/21-60v-max-single-stage-snow-blower-kit",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "60V",
+      "Weight": "88 lb"
+    },
+    "searchText": "DWDCSNP2142Y2 21\" 60V MAX Single-Stage Snow Blower Kit Tillman Tough Power Tools Clear up to 16 parking spaces with the 60V MAX Single-Stage Snow Blower. Engineered to throw snow up to 40 ft, this single-stage machine has a 7\" steel auger to break down heavy, wet, or packed snow. Powered by (2) FLEXVOLT DCB612 12.0Ah batteries, this snow blower is equipped with an LED dashboard for instantaneous readouts of battery levels, 2-way electric chute controls for directional command, and single-touch dashboard-mounted paddles. Featuring Max Power Mode to help maximize performance on big jobs and Eco Mode to help prolong battery life, this electric snow blower is designed for tough demands. 80% quieter than comparable gas snow blower 25% lighter weight than comparable gas snow blower Brushless auger motor for optimal runtime and performance Work in tough conditions for up to 45 minutes Two-way electric chute rotation helps provide directional command with the touch of a paddle Easy-to-read led dashboard displays battery state-of-charge, current operation mode, high-load indicator, and fault indicator while unit is in use Max Power Mode allows for quick driveway clearings and more power when needed compared to Eco Mode Eco Mode allows for prolonged snow blower battery life compared to Max Power Mode Quick-fold handles offer efficient snow blower storage and transportation Dual-LED headlights help provide visibility in low light conditions Includes snow blower, (2) 12 Amp Batteries, (2) Chargers, Discharge Chute assembly",
+    "duplicateSku": false
   },
   {
     "id": "a62e1190-554d-423c-afd0-97a034c61277",
@@ -574,7 +759,13 @@
     "weight": 0.6,
     "url": "https://www.tillmantough.com/product-page/3pc-power-tool-brush-set",
     "updated": "2025-05-20T19:08:32.629Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Weight": "0.6 lb"
+    },
+    "searchText": "PMW4991 3pc Power Tool Brush set Tillman Tough Power Tools These cleaning brushes are great for tile, grout, fiberglass, home, auto, boat, and RV interiors 3 pc kit contains 2\" and 4\" round flat brushes and one 3-1/2\" dome shaped brush with medium stiffness polypropylene all-purpose bristles Standard 1/4\" quick connect shaft molded to each brush for secure attachment to your power drill or driver (power tool not included)",
+    "duplicateSku": false
   },
   {
     "id": "176d6ef7-bc4a-f10c-20cd-4f4d9c7bc75f",
@@ -582,7 +773,7 @@
     "name": "30-06 SAFETY READERS BLK/CLR LENS 1.5 MAG 19878",
     "slug": "30-06-safety-readers-blk-clr-lens-1-5-mag-19878",
     "brand": "Jackson Safety",
-    "category": "Safety & Apparel",
+    "category": "PPE, Safety & Apparel",
     "price": 123.99,
     "originalPrice": 123.99,
     "currency": "USD",
@@ -597,7 +788,12 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/30-06-safety-readers-blk-clr-lens-1-5-mag-19878",
     "updated": "2025-06-18T12:35:34.090Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1"
+    },
+    "searchText": "KIM19878 30-06 SAFETY READERS BLK/CLR LENS 1.5 MAG 19878 Jackson Safety PPE, Safety & Apparel 6 Pairs Jackson Safety 30-06 Readers Safety Glasses with +1.5 Diopters. Clear lenses are ideal for indoor use. Stylish nylon frames, hard coated lenses and self-adjusting rubber nose pad for comfort and fit. Meets ANSI Z87.1+ standards for personal eye protection. Polycarbonate lenses provide 99.9% UVA/ UVB/UVC protection and are hard coated for scratch resistance. Black Frame",
+    "duplicateSku": false
   },
   {
     "id": "aa6c0007-dedd-5431-5a40-838401e558ba",
@@ -605,7 +801,7 @@
     "name": "18\" D-Ring Extender",
     "slug": "peakworks-peakworks-18-d-ring-extender-1",
     "brand": "Peakworks",
-    "category": "Safety & Apparel",
+    "category": "PPE, Safety & Apparel",
     "price": 38.99,
     "originalPrice": 38.99,
     "currency": "USD",
@@ -620,7 +816,12 @@
     "weight": 0.38,
     "url": "https://www.tillmantough.com/product-page/peakworks-peakworks-18-d-ring-extender-1",
     "updated": "2025-07-21T18:37:35.570Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.38 lb"
+    },
+    "searchText": "SRWV860302 18\" D-Ring Extender Peakworks PPE, Safety & Apparel SPECIAL ORDER - PEAKWORKS $350 MIN ORDER May take extra time to receive PeakWorks - 18\" D-Ring Extender Features and Benefits: Product Type: Back D-ring Extender with soft loop and small D-ring. breaking strength 5,000 lbs. 18\" D-Ring extender with connection loop Made with abrasion resistant polyester webbing - high strength Extends dorsal harness D-Ring allowing easier connection to an anchor point Not to be used as a safety shock absorbing lanyard only as a D-Ring extension OSHA / ANSI Compliant",
+    "duplicateSku": false
   },
   {
     "id": "c7671877-63e7-41a0-bcfb-db7a1c1e0e43",
@@ -628,7 +829,7 @@
     "name": "308LFCO-030-01",
     "slug": "308lfco-030-01",
     "brand": "Blue Demon",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 45.34,
     "originalPrice": 45.34,
     "currency": "USD",
@@ -643,7 +844,12 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/308lfco-030-01",
     "updated": "2025-05-04T23:41:29.792Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1"
+    },
+    "searchText": "172143 308LFCO-030-01 Blue Demon Welding Tools & Equipment 308LFC-O X .030 X 1 lb Spool stainless steel flux cored gasless welding wire (10/EA Master)",
+    "duplicateSku": false
   },
   {
     "id": "5b40164d-630f-4e0c-94d5-0adfd90f72fd",
@@ -651,7 +857,7 @@
     "name": "308LFCO-035-01",
     "slug": "308lfco-035-01",
     "brand": "Blue Demon",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 45.34,
     "originalPrice": 45.34,
     "currency": "USD",
@@ -666,7 +872,12 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/308lfco-035-01",
     "updated": "2025-05-04T23:41:24.919Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1"
+    },
+    "searchText": "172146 308LFCO-035-01 Blue Demon Welding Tools & Equipment 308LFC-O X .035 X 1 lb Spool stainless steel flux cored gasless welding wire (10/EA Master)",
+    "duplicateSku": false
   },
   {
     "id": "02a9ec34-0b41-4b42-a916-945972f07e55",
@@ -674,7 +885,7 @@
     "name": "308LFCO-035-10",
     "slug": "308lfco-035-10",
     "brand": "Blue Demon",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 41.7,
     "originalPrice": 41.7,
     "currency": "USD",
@@ -689,7 +900,10 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/308lfco-035-10",
     "updated": "2025-05-04T23:41:24.497Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {},
+    "searchText": "192589 308LFCO-035-10 Blue Demon Welding Tools & Equipment 308LFC-O X .035 X 10 lb Spool stainless steel flux cored gasless welding wire (4/EA Master)",
+    "duplicateSku": false
   },
   {
     "id": "23e24948-3685-4118-a780-3a8984b3f14b",
@@ -697,7 +911,7 @@
     "name": "308LT1-035-11",
     "slug": "308lt1-035-11",
     "brand": "Blue Demon",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 19.76,
     "originalPrice": 19.76,
     "currency": "USD",
@@ -712,7 +926,10 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/308lt1-035-11",
     "updated": "2025-05-04T23:41:24.497Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {},
+    "searchText": "172162 308LT1-035-11 Blue Demon Welding Tools & Equipment 308LT1/4 X .035 X 11 lb Spool stainless steel flux core gas shielded welding wire (4/EA Master)",
+    "duplicateSku": false
   },
   {
     "id": "4b160fe1-a06c-4a28-ba59-f52e4874ed05",
@@ -720,7 +937,7 @@
     "name": "20V MAX 1/2\" Mid-Range Impact Wrench (Tool Only)",
     "slug": "20v-max-1-2-mid-range-impact-wrench-tool-only-1",
     "brand": "DeWalt",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 279.0,
     "originalPrice": 279.0,
     "currency": "USD",
@@ -735,7 +952,14 @@
     "weight": 4,
     "url": "https://www.tillmantough.com/product-page/20v-max-1-2-mid-range-impact-wrench-tool-only-1",
     "updated": "2025-10-12T23:24:58.444Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "4 lb"
+    },
+    "searchText": "DWTDCF892B 20V MAX 1/2\" Mid-Range Impact Wrench (Tool Only) DeWalt Power Tools 20V MAX 1/2\" Mid-Range Impact Wrench (Tool Only) Features and Benefits: TACKLE WIDE RANGE OF FASTENING APPLICATIONS with 600 ft-lbs of max fastening torque and 800 ft-lbs of max breakaway torque CHOOSE THE OUTPUT LEVEL BASED ON THE JOB: Control is in your hands with 4 speed settings and a variable speed trigger HELPS PREVENT OVERTIGHTENING AND FASTENER RUN-OFF with Precision Wrench control ILLUMINATE DARK WORKSPACES using the on-tool LED work light BUILT FOR COMFORTABLE USE when working in tight spaces with compact and lightweight design When you need the perfect balance of high performance and size to get tough jobs done, use this new 20V MAX* XR® Cordless 1/2 in. Mid-Range Impact Wrench with Detent Pin Anvil. This power tool delivers 600 ft-lbs of max fastening torque and 800 ft-lbs. of max breakaway torque for challenging projects. Designed to help prevent overtightening in forward, and run-off in reverse, the wrench integrates a Precision Wrench™ setting to help optimize user control. Utilize the updated 4-mode push button switch to easily transition speeds when needed. This Impact Wrench brings high torque and weighs less than 4 lbs. (Tool only), making it ideal for pipe flanges, grooved couplings, tilt wall braces, wheel lugs, concrete anchor setting and many other applications where high torque is needed in compact spaces. Battery and charger sold separately.",
+    "duplicateSku": false
   },
   {
     "id": "1764a9ce-3dc1-4177-9c22-b50820547bc4",
@@ -743,7 +967,7 @@
     "name": "20V MAX XR 1/2\" High Torque Impact Wrench (Tool Only)",
     "slug": "20v-max-xr-1-2-high-torque-impact-wrench-tool-only-1",
     "brand": "DeWalt",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 439.99,
     "originalPrice": 439.99,
     "currency": "USD",
@@ -759,7 +983,14 @@
     "weight": 8.4,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-1-2-high-torque-impact-wrench-tool-only-1",
     "updated": "2025-08-06T17:16:36.526Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "8.4 lb"
+    },
+    "searchText": "DWDCF961B 20V MAX XR 1/2\" High Torque Impact Wrench (Tool Only) DeWalt Power Tools Complete tough jobs utilizing the power of the 20V MAX XR 1/2 in. High Torque Impact Wrench. The highest rated torque 1/2 in. impact wrench delivers up to 71% more torque than DCF899, making it ideal for large sized pipe flanges, grooved couplings, wheel lugs, concrete anchor bolt setting and many other heavy-duty impact wrench applications. PRECISION WRENCH mode is included to help prevent overtightening in forward, and run-off in reverse, for user control, as well as a 4-mode push button switch to easily change speeds for different applications. THE INDUSTRY'S HIGHEST RATED MAX TORQUE CORDLESS 1/2\" IMPACT WRENCH delivers 1200 ft-lbs of max fastening torque and 1750 ft-lbs of max breakaway torque. 3 SPEED SETTINGS AND PRECISION WRENCH MODE which helps prevent overtightening and fastening run-off. Max Torque: 1750 ft-lbs No Load Speed (RPM): 1200 RPM Impact Rate per Min.: 1890 IPM Number of Speed Settings: 3 + PRECISION WRENCH Led light",
+    "duplicateSku": false
   },
   {
     "id": "0d85cb24-4c8e-466e-928d-9ba132abd0fd",
@@ -767,7 +998,7 @@
     "name": "20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil Extended Kit",
     "slug": "20v-max-xr-1-2-high-torque-impact-wrench-with-hog-ring-anvil-extended-kit-1",
     "brand": "DeWalt",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 709.99,
     "originalPrice": 709.99,
     "currency": "USD",
@@ -783,15 +1014,22 @@
     "weight": 7,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-1-2-high-torque-impact-wrench-with-hog-ring-anvil-extended-kit-1",
     "updated": "2025-10-12T22:58:33.043Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "7 lb"
+    },
+    "searchText": "DWDCF900GP2 20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil Extended Kit DeWalt Power Tools 20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil Extended Kit Features & Benefits: Complete the toughest jobs utilizing the power of the 20V Max XR 1/2 \" High Torque Impact Wrench. Delivering 1030 '-lbs. of Max fastening torque and 1400'-lbs. of Max breakaway torque, making it ideal for large sized pipe flanges, grooved couplings, wheel lugs, concrete anchor bolt setting and many other heavy-duty impact wrench applications. The Precision Wrench mode is included to help prevent overtightening in forward, and run-off in reverse, for additional user control. Utilize the updated 4-mode push button switch to easily transition speeds and adjust LED brightness when needed. Battery and charger sold separately. Includes: (1) DCF900 Impact Wrench, (2) DCB205 20V Max 5.0 AH Battery, (1) DCB115 Charger, (1) Kit Bag",
+    "duplicateSku": false
   },
   {
     "id": "fde717ff-d3cd-f28c-22c0-fd78080c2874",
     "sku": "DWDWE4887",
     "name": "1-1/2-IN",
     "slug": "1-1-2-in",
-    "brand": "Dewalt",
-    "category": "Welding",
+    "brand": "DeWalt",
+    "category": "PPE, Safety & Apparel",
     "price": 402.99,
     "originalPrice": 402.99,
     "currency": "USD",
@@ -806,7 +1044,12 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/1-1-2-in",
     "updated": "2025-06-18T12:16:13.901Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1"
+    },
+    "searchText": "DWDWE4887 1-1/2-IN DeWalt PPE, Safety & Apparel 4.2 Amp, 25,000 rpm motor provides high power and speed for all 1-1/2 In. grinding applications AC/DC capacity works off welding machines and generators for increased productivity and versatility Convenient paddle switch with lock-on button for easy gripping Precision 1/4 In. collet securely holds all proper accessories (1/8 In. reducing sleeve as optional accessory)",
+    "duplicateSku": false
   },
   {
     "id": "6c41a17d-f6a8-47f1-93d1-14bf7ad7b7be",
@@ -814,7 +1057,7 @@
     "name": "250 MP PRO WELDER W / SPOOL GUN / CABINET COMBO",
     "slug": "250-mp-pro-welder-w-spool-gun-cabinet-combo",
     "brand": "Forney Industries",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 4049.99,
     "originalPrice": 4049.99,
     "currency": "USD",
@@ -833,15 +1076,22 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/250-mp-pro-welder-w-spool-gun-cabinet-combo",
     "updated": "2025-05-21T16:38:56.065Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "120V",
+      "Drive Size": "1/2”",
+      "Peak Output": "220 AMPS"
+    },
+    "searchText": "FOR11418 250 MP PRO WELDER W / SPOOL GUN / CABINET COMBO Forney Industries Welding Tools & Equipment Welding Capacity: Up to 1/2” Steel Dual Voltage Input: 120V & 240V Output Range: 5 ‐ 220A Complete with 15' Electrode Holder & Cable, 15' Ground Cable & Clamp, 15' Power Cable Warranty: 3 Year, Front to Back *TIG Torch Sold Separately #85660 The Forney 220 ST PRO Stick/DC TIG welder is built with the professional in mind. Ideal for experienced metalworkers, this powerful machine was designed with a low starting amperage of 5 AMPS, and features pulse controls that allow the operator to regulate welds on thin material. The 220 AMPS of welding power support welds up to 1/2\", and dual-voltage capabilities allow you to take this machine anywhere you need to weld. From farms to construction sites, this Stick and TIG welder will get the job done on solid steel, cast iron, steel, and stainless steel! Stick welding only on aluminum.",
+    "duplicateSku": false
   },
   {
     "id": "da335de8-882c-5016-e4f4-372cbbb21fbe",
     "sku": "SS85056P",
     "name": "3 X 7 Stainless Steel Brush w/ Plastic Handled (Sold 25/Box)",
     "slug": "3-x-7-stainless-steel-toothbrush-plastic-handled-25-box",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Welding Tools & Equipment",
     "price": 30.99,
     "originalPrice": 30.99,
     "currency": "USD",
@@ -856,15 +1106,20 @@
     "weight": 2.75,
     "url": "https://www.tillmantough.com/product-page/3-x-7-stainless-steel-toothbrush-plastic-handled-25-box",
     "updated": "2025-07-19T16:01:16.177Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "2.75 lb"
+    },
+    "searchText": "SS85056P 3 X 7 Stainless Steel Brush w/ Plastic Handled (Sold 25/Box) Techniweld USA Welding Tools & Equipment Solid Wood Handle to hold up against extensive wear Premium Inspected Quality Brushes Ideal for cleaning welds, Barbeques, restaurants, and surfaces exposed to high humidity 3 x 7 wire row design Sold per box, 25 pcs. per box Stainless steel bristles",
+    "duplicateSku": false
   },
   {
     "id": "079e6d69-9677-cbe7-ef97-c6a6a8c72d20",
     "sku": "SS4WS075",
-    "name": "4 X .020 X 5/8-11 Steel Stringer Bead Wire Wheel  (12 /Box)",
+    "name": "4 X .020 X 5/8-11 Steel Stringer Bead Wire Wheel (12 /Box)",
     "slug": "4-x-020-x-5-8-11-carbon-steel-stringer-bead-pipeline-12-box",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 104.99,
     "originalPrice": 139.99,
     "currency": "USD",
@@ -879,15 +1134,20 @@
     "weight": 1.5,
     "url": "https://www.tillmantough.com/product-page/4-x-020-x-5-8-11-carbon-steel-stringer-bead-pipeline-12-box",
     "updated": "2025-07-14T17:22:46.503Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "1.5 lb"
+    },
+    "searchText": "SS4WS075 4 X .020 X 5/8-11 Steel Stringer Bead Wire Wheel (12 /Box) Techniweld USA Abrasives Diameter: 4 Bore/Trim: 5/8-11 Size/Width (Thickness): .020 Max RPM: 20000 Carbon Steel Wire Brush For dry and wet applications",
+    "duplicateSku": false
   },
   {
     "id": "9b8f3687-4a51-7232-31e6-7d03b4ad389f",
     "sku": "SS4CK125",
     "name": "4\" Cup Brush Knotted, 1 1/8 Trim, 5/8-11 Nut (Sold Box of 10)",
     "slug": "4-cup-brush-20-knots-020-carbon-1-1-8-trim-5-8-11-nut-9000-max-rpm",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 159.99,
     "originalPrice": 159.99,
     "currency": "USD",
@@ -902,15 +1162,21 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-cup-brush-20-knots-020-carbon-1-1-8-trim-5-8-11-nut-9000-max-rpm",
     "updated": "2025-07-19T15:44:17.849Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS4CK125 4\" Cup Brush Knotted, 1 1/8 Trim, 5/8-11 Nut (Sold Box of 10) Techniweld USA Abrasives 9,000 Max RPM Premium Inspected Quality Brushes Utilizes State of the Art internal plate to secure everything maximizing safety Compatible with most all angle grinders Designed and Engineered to minimize fatigue during use Designed and Engineered to minimize fatigue during use Single-knot carbon steel wires Cup is 4\" in diameter",
+    "duplicateSku": false
   },
   {
     "id": "a2d14ccc-097d-1068-756c-0434f801b474",
     "sku": "SS42334",
     "name": "4-1/2 X 5/8-11 Flap Disc,60 Grit/Type 29 (Sold 10/Box)",
     "slug": "4-1-2-x-5-8-11-flap-disc-type-29-60-grit",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 66.89,
     "originalPrice": 66.89,
     "currency": "USD",
@@ -925,15 +1191,22 @@
     "weight": 2.25,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-flap-disc-type-29-60-grit",
     "updated": "2025-07-19T16:30:30.362Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "60 Grit",
+      "Weight": "2.25 lb"
+    },
+    "searchText": "SS42334 4-1/2 X 5/8-11 Flap Disc,60 Grit/Type 29 (Sold 10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 60 Max RPM: 13300 Manufactured with quality Zirconium material Non-Hubbed Part #: SS42324",
+    "duplicateSku": false
   },
   {
     "id": "bb68e654-dafd-d8dd-a571-4c6788bf91af",
     "sku": "SS54011",
     "name": "4-1/2 X 7/8 36 Grit - Flap Disc High Density Jumbo Fiberglass Type 29",
     "slug": "4-1-2-x-7-8-36-grit-flap-disc-high-density-jumbo-fiberglass-type-29-1",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 59.99,
     "originalPrice": 59.99,
     "currency": "USD",
@@ -948,15 +1221,21 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-36-grit-flap-disc-high-density-jumbo-fiberglass-type-29-1",
     "updated": "2025-06-23T16:51:45.935Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "36 Grit"
+    },
+    "searchText": "SS54011 4-1/2 X 7/8 36 Grit - Flap Disc High Density Jumbo Fiberglass Type 29 Techniweld USA Abrasives 4-1/2 X 7/8 36 Grit - Flap Disc High Density Jumbo Fiberglass Type 29 (Box of 10 EA) Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 36 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material",
+    "duplicateSku": true
   },
   {
     "id": "c3095da3-c35a-e3d5-503f-439365d9e5b3",
     "sku": "SS42322",
-    "name": "4-1/2 X 7/8 40 Grit - Flap Disc Fiberglass Type 29  (Box of 10)",
+    "name": "4-1/2 X 7/8 40 Grit - Flap Disc Fiberglass Type 29 (Box of 10)",
     "slug": "4-1-2-x-7-8-40-grit-flap-disc-fiberglass-type-29-reg-density-sold-by-the-d",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 28.99,
     "originalPrice": 28.99,
     "currency": "USD",
@@ -971,15 +1250,22 @@
     "weight": 2.2,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-40-grit-flap-disc-fiberglass-type-29-reg-density-sold-by-the-d",
     "updated": "2025-07-14T17:16:13.981Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "40 Grit",
+      "Weight": "2.2 lb"
+    },
+    "searchText": "SS42322 4-1/2 X 7/8 40 Grit - Flap Disc Fiberglass Type 29 (Box of 10) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 40 Max RPM: 13300 Manufactured with quality Zirconium material Hubbed Version Part #: SS42332",
+    "duplicateSku": false
   },
   {
     "id": "07d5130a-2148-ec97-3bc4-3ae4bda34dda",
     "sku": "SS54001",
     "name": "4-1/2 X 7/8 60 Grit - Jumbo Flap Disc Type 27 Reg. Density (Sold By The Disc, 10",
     "slug": "4-1-2-x-7-8-60-grit-jumbo-flap-disc-type-27-reg-density-sold-by-the-disc-10-1",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 59.99,
     "originalPrice": 59.99,
     "currency": "USD",
@@ -994,15 +1280,21 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-60-grit-jumbo-flap-disc-type-27-reg-density-sold-by-the-disc-10-1",
     "updated": "2025-06-23T16:51:25.974Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "60 Grit"
+    },
+    "searchText": "SS54001 4-1/2 X 7/8 60 Grit - Jumbo Flap Disc Type 27 Reg. Density (Sold By The Disc, 10 Techniweld USA Abrasives 4-1/2 X 7/8 60 Grit - Jumbo Flap Disc Type 27 Reg. Density (Box of 10 EA) Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Grit: 60 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material",
+    "duplicateSku": false
   },
   {
     "id": "fe00a529-e33e-dbfb-760f-4b8a62d0e1b4",
     "sku": "SS42366",
     "name": "4-1/2 X 7/8 Type 29, 120 Grit, Jumbo Flap Disc",
     "slug": "4-1-2-x-7-8-type-29-120-grit-jumbo-flap-disc-1",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 59.99,
     "originalPrice": 59.99,
     "currency": "USD",
@@ -1012,20 +1304,26 @@
     "images": [
       "https://static.wixstatic.com/media/b9ac0a_a22287d2a7a446e78545574353e25176~mv2.jpg/v1/fit/w_900,h_900,q_88/file"
     ],
-    "description": "4-1/2 X 7/8 Type 29, 120 Grit, Jumbo Flap Disc  (Box of 10) Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 120 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Hubbed Part #: SS42376",
+    "description": "4-1/2 X 7/8 Type 29, 120 Grit, Jumbo Flap Disc (Box of 10) Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 120 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Hubbed Part #: SS42376",
     "detailsHtml": "<p>4-1/2 X 7/8 Type 29, 120 Grit, Jumbo Flap Disc&nbsp; (Box of 10)</p><ul>\t<li>Diameter: 4-1/2</li>\t<li>Bore/Trim: 7/8</li>\t<li>Type 29</li>\t<li>Grit: 120</li>\t<li>Max RPM: 13300</li>\t<li>Manufactured with high quality VSM® Zirconium material</li>\t<li>Hubbed Part #: SS42376</li></ul>",
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-type-29-120-grit-jumbo-flap-disc-1",
     "updated": "2025-06-23T16:52:01.249Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "120 Grit"
+    },
+    "searchText": "SS42366 4-1/2 X 7/8 Type 29, 120 Grit, Jumbo Flap Disc Techniweld USA Abrasives 4-1/2 X 7/8 Type 29, 120 Grit, Jumbo Flap Disc (Box of 10) Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 120 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Hubbed Part #: SS42376",
+    "duplicateSku": true
   },
   {
     "id": "37f2f52f-2d58-0d32-9b51-4b532fe0e159",
     "sku": "SS42365",
     "name": "4-1/2 X 7/8 Type 29, 80 Grit, Jumbo Flap Disc",
     "slug": "4-1-2-x-7-8-type-29-80-grit-jumbo-flap-disc-1",
-    "brand": "TECHNIWELD USA",
-    "category": "Welding",
+    "brand": "Techniweld USA",
+    "category": "Abrasives",
     "price": 59.99,
     "originalPrice": 59.99,
     "currency": "USD",
@@ -1040,7 +1338,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-type-29-80-grit-jumbo-flap-disc-1",
     "updated": "2025-06-23T16:51:14.102Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "80 Grit"
+    },
+    "searchText": "SS42365 4-1/2 X 7/8 Type 29, 80 Grit, Jumbo Flap Disc Techniweld USA Abrasives 4-1/2 X 7/8 Type 29, 80 Grit, Jumbo Flap Disc (Box of 10 EA) Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 80 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Hubbed Part #: SS42375",
+    "duplicateSku": true
   },
   {
     "id": "ec2f0260-6482-5dc4-8433-0c4f95008c33",
@@ -1048,7 +1352,7 @@
     "name": "1\" End Brush, Crimped (Sold by 1/EA)",
     "slug": "1-end-brush-crimped-014-carbon-1-trim-1-4-stem-20000-max-rpm",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 3.29,
     "originalPrice": 3.29,
     "currency": "USD",
@@ -1063,7 +1367,13 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/1-end-brush-crimped-014-carbon-1-trim-1-4-stem-20000-max-rpm",
     "updated": "2025-07-20T17:07:42.653Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1\"",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS1CC1 1\" End Brush, Crimped (Sold by 1/EA) Techniweld USA Abrasives Mounted knotted power wire end brush for heavy-duty and severe applications, recessed areas and corners such as weld and mold cleaning. Suitable tool drives: straight grinders, flexible shafts. Recommended for use on variable speed tools. Compatible with most all angle grinders Designed and Engineered to minimize fatigue during use Crimped carbon bristles 20,000 Max RPM",
+    "duplicateSku": false
   },
   {
     "id": "c782faca-858e-d31a-c04d-f68cbda2e202",
@@ -1071,7 +1381,7 @@
     "name": "1/2 End Wire Brush Crimped, .014 Carbon ( 1/EA)",
     "slug": "1-2-end-brush-crimped-014-carbon-1-trim-1-4-stem-20000-max-rpm",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 1.29,
     "originalPrice": 1.29,
     "currency": "USD",
@@ -1086,7 +1396,13 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/1-2-end-brush-crimped-014-carbon-1-trim-1-4-stem-20000-max-rpm",
     "updated": "2025-07-14T17:34:31.701Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS05EC1 1/2 End Wire Brush Crimped, .014 Carbon ( 1/EA) Techniweld USA Welding Tools & Equipment 20,000 Max RPM Premium Inspected Quality Brushes Utilizes state of the art internal plate to secure everything maximizing safety. Compatible with most all angle grinders. Designed and engineered to minimize fatigue during use. 0.14 crimpled carbon steel material Can be used on elastomers, cast iron, wood, steel, cast steel",
+    "duplicateSku": false
   },
   {
     "id": "0ce16d91-d61f-91a1-70c8-32e6d0e0d8e2",
@@ -1094,7 +1410,7 @@
     "name": "1/2\" Stainless End Brush, Crimped (Sold 1/EA, 100/Box)",
     "slug": "1-2-end-brush-crimped-014-stainless-1-trim-1-4-stem-20000-max-rpm",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 2.49,
     "originalPrice": 2.49,
     "currency": "USD",
@@ -1104,12 +1420,18 @@
     "images": [
       "https://static.wixstatic.com/media/e17a10_dcd053dd2734479eb31dfd3e0b950e22~mv2.png/v1/fit/w_900,h_900,q_88/file"
     ],
-    "description": "Diameter: 1/2 Bore/Trim: 1 Size/Width (Thickness): .014 Hub: No Material: Stainless Steel RPM Rating: 20000",
+    "description": "Diameter: 1/2 Bore/Trim: 1 Size/Width (Thickness): .014 Hub: No Material: Stainless Steel RPM Rating: 20000",
     "detailsHtml": "<ul>\t<li>Diameter: 1/2</li>\t<li>Bore/Trim: 1</li>\t<li>Size/Width (Thickness): .014</li>\t<li>Hub:&nbsp;No</li>\t<li>Material:&nbsp;Stainless Steel</li>\t<li>RPM Rating:&nbsp;20000</li></ul>",
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/1-2-end-brush-crimped-014-stainless-1-trim-1-4-stem-20000-max-rpm",
     "updated": "2025-07-20T16:06:48.184Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS05EC1SS 1/2\" Stainless End Brush, Crimped (Sold 1/EA, 100/Box) Techniweld USA Abrasives Diameter: 1/2 Bore/Trim: 1 Size/Width (Thickness): .014 Hub: No Material: Stainless Steel RPM Rating: 20000",
+    "duplicateSku": false
   },
   {
     "id": "743c7b63-3640-3ac3-111a-0b60a80b6477",
@@ -1117,7 +1439,7 @@
     "name": "14\" Half Round Bastard File (1/EA or Pack of 5))",
     "slug": "premium-14-half-round-bastard-file-1-unit-is-1-file-sold-by-the-pack-of-5-file",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Hand Tools",
     "price": 16.14,
     "originalPrice": 18.99,
     "currency": "USD",
@@ -1132,7 +1454,13 @@
     "weight": 1.25,
     "url": "https://www.tillmantough.com/product-page/premium-14-half-round-bastard-file-1-unit-is-1-file-sold-by-the-pack-of-5-file",
     "updated": "2025-07-14T17:50:42.686Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Weight": "1.25 lb"
+    },
+    "searchText": "SS14HRB 14\" Half Round Bastard File (1/EA or Pack of 5)) Techniweld USA Hand Tools Size 14-inch Half-round shape for easy maneuvering Ultimate tool for shaping steel Made from a single piece of steel Ideal for dressing castings and steel surfaces Just the right weight for easy handling Creates uniform cuts for easy stock removal Available per piece",
+    "duplicateSku": false
   },
   {
     "id": "01b0b501-7e06-be4c-3c3f-0fcfd47daac3",
@@ -1140,7 +1468,7 @@
     "name": "18\" Green Sleeves (Sold by Pair)",
     "slug": "18-green-sleeves-1",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "PPE, Safety & Apparel",
     "price": 9.99,
     "originalPrice": 9.99,
     "currency": "USD",
@@ -1155,7 +1483,12 @@
     "weight": 0.44,
     "url": "https://www.tillmantough.com/product-page/18-green-sleeves-1",
     "updated": "2025-07-25T16:30:36.976Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.44 lb"
+    },
+    "searchText": "FR9S18 18\" Green Sleeves (Sold by Pair) Techniweld USA PPE, Safety & Apparel 9 Oz/Yard Heavy Duty Construction Fire Resistant Chemical Treated cotton composition Style: FR9S",
+    "duplicateSku": false
   },
   {
     "id": "1b26bdff-5345-46ed-0ba8-e50ae3d23a31",
@@ -1163,7 +1496,7 @@
     "name": "2-3/4 X .020 X 5/8-11 Carbon Steel Cup Brush (1/EA or 6 Per Box)",
     "slug": "2-3-4-x-020-x-5-8-11-carbon-steel-small-diameter-cup-brush",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 7.9,
     "originalPrice": 9.29,
     "currency": "USD",
@@ -1178,7 +1511,13 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/2-3-4-x-020-x-5-8-11-carbon-steel-small-diameter-cup-brush",
     "updated": "2025-07-14T19:13:41.901Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "3/4",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS275CK1 2-3/4 X .020 X 5/8-11 Carbon Steel Cup Brush (1/EA or 6 Per Box) Techniweld USA Abrasives Diameter: 2-3/4 Bore/Trim: 5/8-11 Size/Width (Thickness): .020 Max RPM: 12500 Carbon Steel Wire Brush MADE IN USA",
+    "duplicateSku": false
   },
   {
     "id": "72942381-f7a7-939d-eeb2-633ded626b0c",
@@ -1186,7 +1525,7 @@
     "name": "2-3/4\" Cup Brush Knotted Stainless Steel, 5/8-11 Nut ( Sold 6/Box)",
     "slug": "2-75-cup-brush-20-knot-hurricane-014-stainless-steel-5-8-11-nut-msfs-14-000",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 87.99,
     "originalPrice": 87.99,
     "currency": "USD",
@@ -1201,7 +1540,13 @@
     "weight": 3.6,
     "url": "https://www.tillmantough.com/product-page/2-75-cup-brush-20-knot-hurricane-014-stainless-steel-5-8-11-nut-msfs-14-000",
     "updated": "2025-07-19T16:44:56.858Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "3/4\"",
+      "Weight": "3.6 lb"
+    },
+    "searchText": "SS275CK1SS 2-3/4\" Cup Brush Knotted Stainless Steel, 5/8-11 Nut ( Sold 6/Box) Techniweld USA Abrasives Diameter: 2-3/4 Bore/Trim: 5/8-11 Size/Width (Thickness): .014 Stainless Steel Wire Brush MADE IN USA",
+    "duplicateSku": false
   },
   {
     "id": "31aa0acf-76fd-8a5b-92de-2a8aa679e2a9",
@@ -1209,7 +1554,7 @@
     "name": "23\" Leather Welding Sleeves w/ Straps (Sold by 1/EA)",
     "slug": "23-sleeves-golden-brown-select-split-leather-with-straps",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "PPE, Safety & Apparel",
     "price": 31.99,
     "originalPrice": 31.99,
     "currency": "USD",
@@ -1224,15 +1569,21 @@
     "weight": 1.67,
     "url": "https://www.tillmantough.com/product-page/23-sleeves-golden-brown-select-split-leather-with-straps",
     "updated": "2025-07-22T19:35:07.687Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Weight": "1.67 lb"
+    },
+    "searchText": "AGLS23 23\" Leather Welding Sleeves w/ Straps (Sold by 1/EA) Techniweld USA PPE, Safety & Apparel Heat and abrasion resistant Protects arms from sparks and light spatter Sewn with KEVLAR® thread with riveted seams at major stress points for maximum durability Adjustable shoulder sling strap To be used with cape sleeve (pairs well with AGLCS)",
+    "duplicateSku": false
   },
   {
     "id": "27764b5f-39a4-cd0a-9764-eab32674a84a",
     "sku": "SS85045",
-    "name": "3 X 19 Carbon Steel Scratch Brush, 13-3/4 X 7/8 (Sold 1/EA - 12  Per Box)",
+    "name": "3 X 19 Carbon Steel Scratch Brush, 13-3/4 X 7/8 (Sold 1/EA - 12 Per Box)",
     "slug": "3-x-19-carbon-steel-scratch-brush-13-3-4-x-7-8",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 2.79,
     "originalPrice": 2.79,
     "currency": "USD",
@@ -1247,7 +1598,13 @@
     "weight": 0.27,
     "url": "https://www.tillmantough.com/product-page/3-x-19-carbon-steel-scratch-brush-13-3-4-x-7-8",
     "updated": "2025-07-19T17:02:37.840Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "3/4",
+      "Weight": "0.27 lb"
+    },
+    "searchText": "SS85045 3 X 19 Carbon Steel Scratch Brush, 13-3/4 X 7/8 (Sold 1/EA - 12 Per Box) Techniweld USA Abrasives Solid Wood Handle to hold up against extensive wear Premium Inspected Quality Brushes Multitude of uses Easy to hold and use Lasts longer than other steel brushes of same type Strong steel brush bristles",
+    "duplicateSku": false
   },
   {
     "id": "9a760777-0c15-64c6-6f2e-2ae60e4338ca",
@@ -1255,7 +1612,7 @@
     "name": "3 X 7 Brass Toothbrush Wooden Handled (Sold by1/EA - 25 Per Box)",
     "slug": "3-x-7-brass-toothbrush-wooden-handled",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 1.75,
     "originalPrice": 1.75,
     "currency": "USD",
@@ -1270,7 +1627,12 @@
     "weight": 0.05,
     "url": "https://www.tillmantough.com/product-page/3-x-7-brass-toothbrush-wooden-handled",
     "updated": "2025-07-19T17:17:06.469Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.05 lb"
+    },
+    "searchText": "SS85056 3 X 7 Brass Toothbrush Wooden Handled (Sold by1/EA - 25 Per Box) Techniweld USA Welding Tools & Equipment Solid Wood Handle to hold up against extensive wear Premium Inspected Quality Brushes Ideal for cleaning welds, Barbeques, restaurants, and surfaces exposed to high humidity Slightly angled to clean hard to reach areas Easy to grip and use Ideal for spark sensitive applications",
+    "duplicateSku": false
   },
   {
     "id": "1a6592c9-63a7-13a8-474b-ce594a1b607b",
@@ -1278,7 +1640,7 @@
     "name": "3 X 7 Stainless Steel Toothbrush Wooden Handled (Sold by 25/Box)",
     "slug": "3-x-7-stainless-steel-toothbrush-wooden-handled-25-box-1",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 31.99,
     "originalPrice": 31.99,
     "currency": "USD",
@@ -1293,7 +1655,12 @@
     "weight": 0.05,
     "url": "https://www.tillmantough.com/product-page/3-x-7-stainless-steel-toothbrush-wooden-handled-25-box-1",
     "updated": "2025-07-20T16:44:03.300Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.05 lb"
+    },
+    "searchText": "SS85055 3 X 7 Stainless Steel Toothbrush Wooden Handled (Sold by 25/Box) Techniweld USA Welding Tools & Equipment Solid Wood Handle to hold up against extensive wear Premium Inspected Quality Brushes Ideal for cleaning welds, Barbeques, restaurants, and surfaces exposed to high humidity With 3 x 7 wire row pattern design Available in packs of 25 Bristles are made from strong steel",
+    "duplicateSku": false
   },
   {
     "id": "72e413a8-4343-4ee6-73d9-6a75f51aaf01",
@@ -1301,7 +1668,7 @@
     "name": "3\" Cup Brush, Knotted , 5/8-11 Nut (Sold 1/EA)",
     "slug": "3-cup-brush-20-knots-020-carbon-7-8-trim-5-8-11-nut-12-500-rpm",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 10.99,
     "originalPrice": 10.99,
     "currency": "USD",
@@ -1316,7 +1683,13 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/3-cup-brush-20-knots-020-carbon-7-8-trim-5-8-11-nut-12-500-rpm",
     "updated": "2025-07-19T16:58:10.850Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS3CK875 3\" Cup Brush, Knotted , 5/8-11 Nut (Sold 1/EA) Techniweld USA Abrasives Diameter: 3 Bore/Trim: 7/8 Size/Width (Thickness): .020 Manufactured with Metal Threaded Hub",
+    "duplicateSku": false
   },
   {
     "id": "875a44e2-cf11-5d0f-6520-421b313972fb",
@@ -1324,7 +1697,7 @@
     "name": "3/4 End Brush, Crimped, .014 Carbon (1/EA or 100/Case)",
     "slug": "3-4-end-brush-crimped-014-carbon-7-8-trim-1-4-stem-20000-max-rpm",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 2.39,
     "originalPrice": 2.39,
     "currency": "USD",
@@ -1339,15 +1712,21 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/3-4-end-brush-crimped-014-carbon-7-8-trim-1-4-stem-20000-max-rpm",
     "updated": "2025-07-14T18:12:19.576Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "3/4",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS075CC875 3/4 End Brush, Crimped, .014 Carbon (1/EA or 100/Case) Techniweld USA Abrasives Diameter: 3/4 Bore/Trim: 7/8 Size/Width (Thickness): .014",
+    "duplicateSku": false
   },
   {
     "id": "69aea9ab-3247-7d11-bd67-bf9e45199812",
     "sku": "SS075CC875SS",
-    "name": "3/4\" Stainless End Brush, Crimped (Sold by Each,  10/Box, 100/Case)",
+    "name": "3/4\" Stainless End Brush, Crimped (Sold by Each, 10/Box, 100/Case)",
     "slug": "3-4-end-brush-crimped-014-stainless-7-8-trim-1-4-stem-20000-max-rpm",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 3.09,
     "originalPrice": 3.09,
     "currency": "USD",
@@ -1362,7 +1741,13 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/3-4-end-brush-crimped-014-stainless-7-8-trim-1-4-stem-20000-max-rpm",
     "updated": "2025-07-20T15:32:40.171Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "3/4\"",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS075CC875SS 3/4\" Stainless End Brush, Crimped (Sold by Each, 10/Box, 100/Case) Techniweld USA Abrasives Diameter: 3/4 Bore/Trim: 7/8 Size/Width (Thickness): .014 High-grade stainless steel",
+    "duplicateSku": false
   },
   {
     "id": "bbb915df-0dbd-6c7c-fd30-cd7bb7eefb27",
@@ -1370,7 +1755,7 @@
     "name": "4 X 16 Carbon Steel Scratch Brush (1/EA or 12 Per Box)",
     "slug": "4-x-16-carbon-steel-scratch-brush-shoe-handled",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 3.09,
     "originalPrice": 3.09,
     "currency": "USD",
@@ -1385,7 +1770,12 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-x-16-carbon-steel-scratch-brush-shoe-handled",
     "updated": "2025-07-14T18:46:05.409Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1"
+    },
+    "searchText": "SS85051 4 X 16 Carbon Steel Scratch Brush (1/EA or 12 Per Box) Techniweld USA Abrasives Solid Wood Handle to hold up against extensive wear Premium Inspected Quality Brushes Multitude of uses With a 4 x 16 wire row pattern Durable carbon steel bristles Abrasion-resistant",
+    "duplicateSku": false
   },
   {
     "id": "a14faa5c-24ec-826b-9681-361349a22829",
@@ -1393,7 +1783,7 @@
     "name": "4\" Carbon Steel Twisted Wire Brush (Sold 5/Box)",
     "slug": "4-x-020-x-5-8-11-carbon-steel-regular-twist-wire-brush-5-box",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 73.26,
     "originalPrice": 73.26,
     "currency": "USD",
@@ -1408,7 +1798,12 @@
     "weight": 5,
     "url": "https://www.tillmantough.com/product-page/4-x-020-x-5-8-11-carbon-steel-regular-twist-wire-brush-5-box",
     "updated": "2025-07-19T16:50:40.682Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "5 lb"
+    },
+    "searchText": "SS4WK625 4\" Carbon Steel Twisted Wire Brush (Sold 5/Box) Techniweld USA Welding Tools & Equipment Diameter: 4\" Size/Width (Thickness): .020 Bore/Trim: 5/8-11 Carbon Steel Wire Brush Max RPM: 20000 Premium carbon steel wires Weight: 8.3 oz. Pack price:",
+    "duplicateSku": false
   },
   {
     "id": "4f06caab-97e1-7517-550f-c06b35beaa92",
@@ -1416,7 +1811,7 @@
     "name": "4\" X .020 X 5/8-11 Stainless Steel Stringer Bead Wire Wheel (Sold by 12/Box)",
     "slug": "4-x-020-x-5-8-11-stainless-steel-stringer-bead-pipeline-1",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 139.99,
     "originalPrice": 139.99,
     "currency": "USD",
@@ -1431,7 +1826,12 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-x-020-x-5-8-11-stainless-steel-stringer-bead-pipeline-1",
     "updated": "2025-07-20T16:21:59.867Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS4WS075SS 4\" X .020 X 5/8-11 Stainless Steel Stringer Bead Wire Wheel (Sold by 12/Box) Techniweld USA Abrasives Diameter: 4\" Bore/Trim: 5/8-11 Size/Width (Thickness): .020 Max RPM: 20000 Stainless Steel Wire Brush",
+    "duplicateSku": false
   },
   {
     "id": "f6b8586c-ef5e-33a6-33e1-a3614da100d9",
@@ -1439,7 +1839,7 @@
     "name": "4\" X 5/8-11 Stainless Wheel Brush Knotted (10/Box)",
     "slug": "4-wheel-brush-20-knots-020-stainless-3-4-trim-1-2-face-5-8-11-nut-20000",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Welding Tools & Equipment",
     "price": 104.54,
     "originalPrice": 122.99,
     "currency": "USD",
@@ -1454,15 +1854,20 @@
     "weight": 1.25,
     "url": "https://www.tillmantough.com/product-page/4-wheel-brush-20-knots-020-stainless-3-4-trim-1-2-face-5-8-11-nut-20000",
     "updated": "2025-07-14T18:25:41.074Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "1.25 lb"
+    },
+    "searchText": "SS4WK625SS020 4\" X 5/8-11 Stainless Wheel Brush Knotted (10/Box) Techniweld USA Welding Tools & Equipment Removal of welding and forge scale. Weld cleaning at the tube joins in pipelines Tyre-rubber and glass bottle recovering. The twist knot wire allows: Long working life, high removal capacity and possibility of working at high speed. Max RPM: 20,000 Designed and Engineered to minimize fatigue during use Thick .20-gauge stainless steel bristles",
+    "duplicateSku": false
   },
   {
     "id": "121fa24d-5c16-366b-970c-85fbd9d049f7",
     "sku": "SS4WK625SS",
-    "name": "4\"X 5/8-11  Stainless Wire Wheel Knotted (10/Box))",
+    "name": "4\"X 5/8-11 Stainless Wire Wheel Knotted (10/Box))",
     "slug": "4-wheel-brush-20-knots-014-stainless-3-4-trim-1-2-face-5-8-11-nut-20000",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 101.99,
     "originalPrice": 119.99,
     "currency": "USD",
@@ -1477,7 +1882,12 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-wheel-brush-20-knots-014-stainless-3-4-trim-1-2-face-5-8-11-nut-20000",
     "updated": "2025-07-14T18:19:29.680Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS4WK625SS 4\"X 5/8-11 Stainless Wire Wheel Knotted (10/Box)) Techniweld USA Abrasives Diameter: 4 Bore/Trim: 5/8-11 Size/Width (Thickness): .014 Manufactured with Metal Threaded Hub",
+    "duplicateSku": false
   },
   {
     "id": "09598d4f-be76-a76a-a9f3-720de562047f",
@@ -1485,7 +1895,7 @@
     "name": "4-1/2 X .045 X 7/8 Cut Off Wheel (Sold By Disc, 50/Box, 400/Case)",
     "slug": "4-1-2-x-045-x-7-8-type-27-depressed-center-cut-off-wheel-50-box-sold-by-the",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 1.79,
     "originalPrice": 1.79,
     "currency": "USD",
@@ -1500,7 +1910,13 @@
     "weight": 0.8,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-045-x-7-8-type-27-depressed-center-cut-off-wheel-50-box-sold-by-the",
     "updated": "2025-07-20T15:41:28.087Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Weight": "0.8 lb"
+    },
+    "searchText": "SS45002 4-1/2 X .045 X 7/8 Cut Off Wheel (Sold By Disc, 50/Box, 400/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Size/Width (Thickness): .045 Max RPM: 13300 Cutting High Alloys and Stainless Bore Size:7/8\" Depressed Center",
+    "duplicateSku": false
   },
   {
     "id": "699bdc11-37fd-f6c2-9f27-d65057465811",
@@ -1508,7 +1924,7 @@
     "name": "4-1/2 X .045 X 7/8 Cut Off Wheel - Typ 1 (Sold By Disc, 50/Box, 400/Case)",
     "slug": "4-1-2-x-045-x-7-8-045-cut-off-wheel-type-1-sold-by-the-disc-50-wheels-box",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 1.69,
     "originalPrice": 1.69,
     "currency": "USD",
@@ -1523,7 +1939,13 @@
     "weight": 0.65,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-045-x-7-8-045-cut-off-wheel-type-1-sold-by-the-disc-50-wheels-box",
     "updated": "2025-07-20T15:25:46.517Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Weight": "0.65 lb"
+    },
+    "searchText": "SS35514 4-1/2 X .045 X 7/8 Cut Off Wheel - Typ 1 (Sold By Disc, 50/Box, 400/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 1 Size/Width (Thickness): .045 Max RPM: 13300 Cutting High Alloys and Stainless",
+    "duplicateSku": false
   },
   {
     "id": "316b0a8a-c087-db98-2900-1f744e229e8d",
@@ -1531,7 +1953,7 @@
     "name": "4-1/2 X 1/4 X 7/8 - A24T - Aluminum Oxide Grinding Wheel (25/Box)",
     "slug": "4-1-2-x-1-4-x-7-8-a24t-aluminum-oxide-grinding-wheel-25-box-sold-by-the-d",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 50.99,
     "originalPrice": 59.99,
     "currency": "USD",
@@ -1546,7 +1968,13 @@
     "weight": 1.85,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-1-4-x-7-8-a24t-aluminum-oxide-grinding-wheel-25-box-sold-by-the-d",
     "updated": "2025-07-14T17:28:48.022Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Weight": "1.85 lb"
+    },
+    "searchText": "SS35620 4-1/2 X 1/4 X 7/8 - A24T - Aluminum Oxide Grinding Wheel (25/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Hardness: T Grit: 24 Size/Width (Thickness): 1/4 Max RPM: 13300 Material: Aluminum Oxide ANSI A24T coarse grit, ANSI B7.1 safety standard met Hubbed Version Part #: SS35621",
+    "duplicateSku": false
   },
   {
     "id": "d66709a5-9383-d285-561a-621362f51831",
@@ -1554,7 +1982,7 @@
     "name": "4-1/2 X 1/8 X 7/8 Aluminum Oxide Grinding Wheel A36T (50/Box)",
     "slug": "4-1-2-x-1-8-x-7-8-pipeline-aluminum-oxide-grinding-wheel-a36t-5-32-50-box-de",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 84.99,
     "originalPrice": 99.99,
     "currency": "USD",
@@ -1569,15 +1997,20 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-1-8-x-7-8-pipeline-aluminum-oxide-grinding-wheel-a36t-5-32-50-box-de",
     "updated": "2025-07-14T17:40:32.261Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2"
+    },
+    "searchText": "SS35667 4-1/2 X 1/8 X 7/8 Aluminum Oxide Grinding Wheel A36T (50/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Hardness: T Grit: 36 Size/Width (Thickness): 1/8 Max RPM: 13300 Material: Aluminum Oxide Non-Hubbed Hubbed Part #: SS35664",
+    "duplicateSku": false
   },
   {
     "id": "d4357d42-7be3-5a97-9b71-eb8c7a252a1a",
     "sku": "SS42312",
-    "name": "4-1/2 X 5/8 -11  Fiberglass Flap Disc 40 Grit/ Type 27  (10/Box)",
+    "name": "4-1/2 X 5/8 -11 Fiberglass Flap Disc 40 Grit/ Type 27 (10/Box)",
     "slug": "4-1-2-x-5-8-11-40-grit-type-27-standard-density-fiberglass-backed-flap-disc-so",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 67.14,
     "originalPrice": 78.99,
     "currency": "USD",
@@ -1592,7 +2025,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-40-grit-type-27-standard-density-fiberglass-backed-flap-disc-so",
     "updated": "2025-07-14T17:53:52.786Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "40 Grit"
+    },
+    "searchText": "SS42312 4-1/2 X 5/8 -11 Fiberglass Flap Disc 40 Grit/ Type 27 (10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 27 Grit: 40 Max RPM: 13300 Manufactured with quality Zirconium material Manufactured with Metal Threaded Hub",
+    "duplicateSku": false
   },
   {
     "id": "13f4aa48-0487-25dc-d434-175a11cac8b4",
@@ -1600,7 +2039,7 @@
     "name": "4-1/2 X 5/8-11 Flap Disc 120 Grit / Typ 29",
     "slug": "4-1-2-x-5-8-11-flap-disc-120-grit-type-29-reg-density-w-metal-threaded-hub",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 67.14,
     "originalPrice": 78.99,
     "currency": "USD",
@@ -1615,15 +2054,21 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-flap-disc-120-grit-type-29-reg-density-w-metal-threaded-hub",
     "updated": "2025-07-14T18:51:40.419Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "120 Grit"
+    },
+    "searchText": "SS42336 4-1/2 X 5/8-11 Flap Disc 120 Grit / Typ 29 Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 120 Max RPM: 13300 Metal Threaded Hub Manufactured with quality Zirconium material Non-Hubbed Part #: SS42326",
+    "duplicateSku": false
   },
   {
     "id": "7d3c9e39-25f5-c7e5-0589-f2fafa152f7c",
     "sku": "SS42331",
-    "name": "4-1/2 X 5/8-11 Flap Disc 36 Grit/Type 29  (10/Box)",
+    "name": "4-1/2 X 5/8-11 Flap Disc 36 Grit/Type 29 (10/Box)",
     "slug": "4-1-2-x-5-8-11-flap-disc-type-29-36-grit-sold-by-the-disc-10-discs-box-80-d",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 67.14,
     "originalPrice": 78.99,
     "currency": "USD",
@@ -1638,7 +2083,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-flap-disc-type-29-36-grit-sold-by-the-disc-10-discs-box-80-d",
     "updated": "2025-07-14T17:57:58.422Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "36 Grit"
+    },
+    "searchText": "SS42331 4-1/2 X 5/8-11 Flap Disc 36 Grit/Type 29 (10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 36 Max RPM: 13300 Manufactured with quality Zirconium material Manufactured with Metal Threaded Hub",
+    "duplicateSku": false
   },
   {
     "id": "ae7bbde9-f169-f973-1cd8-a550e1a7af8d",
@@ -1646,7 +2097,7 @@
     "name": "4-1/2 X 5/8-11 Flap Disc 40 Grit / Type 29",
     "slug": "4-1-2-x-5-8-11-flap-disc-40-grit-type-29-reg-density-w-metal-threaded-hub",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 67.14,
     "originalPrice": 78.99,
     "currency": "USD",
@@ -1661,15 +2112,22 @@
     "weight": 3.3,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-flap-disc-40-grit-type-29-reg-density-w-metal-threaded-hub",
     "updated": "2025-07-14T18:05:32.531Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "40 Grit",
+      "Weight": "3.3 lb"
+    },
+    "searchText": "SS42332 4-1/2 X 5/8-11 Flap Disc 40 Grit / Type 29 Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 40 Max RPM: 13300 Manufactured with quality Zirconium material Metal Threaded Hub Non-Hubbed Part #: SS42322",
+    "duplicateSku": false
   },
   {
     "id": "d05f0c4d-939b-1e94-ca6d-e0b38691242c",
     "sku": "SS42335",
-    "name": "4-1/2 X 5/8-11 Flap Disc 80 Grit / Typ 29  (1/EA or 10 Per Box)",
+    "name": "4-1/2 X 5/8-11 Flap Disc 80 Grit / Typ 29 (1/EA or 10 Per Box)",
     "slug": "4-1-2-x-5-8-11-flap-disc-type-29-80-grit-sold-by-the-disc-10-discs-box-80-d",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 6.37,
     "originalPrice": 7.49,
     "currency": "USD",
@@ -1684,7 +2142,14 @@
     "weight": 3.2,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-flap-disc-type-29-80-grit-sold-by-the-disc-10-discs-box-80-d",
     "updated": "2025-07-14T19:00:34.577Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "80 Grit",
+      "Weight": "3.2 lb"
+    },
+    "searchText": "SS42335 4-1/2 X 5/8-11 Flap Disc 80 Grit / Typ 29 (1/EA or 10 Per Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 80 Max RPM: 13300 Manufactured with quality Zirconium material Manufactured with Metal Threaded Hub Non-Hubbed Part #: SS42325",
+    "duplicateSku": false
   },
   {
     "id": "a502895e-4f6a-71af-c272-1c3e699804fa",
@@ -1692,7 +2157,7 @@
     "name": "4-1/2 X 5/8-11 Jumbo Flap Disc 120 Grit /Typ 29",
     "slug": "4-1-2-x-5-8-11-jumbo-flap-disc-120-grit-w-metal-threaded-hub",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 84.99,
     "originalPrice": 99.99,
     "currency": "USD",
@@ -1707,7 +2172,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-jumbo-flap-disc-120-grit-w-metal-threaded-hub",
     "updated": "2025-07-14T18:30:36.960Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "120 Grit"
+    },
+    "searchText": "SS42376 4-1/2 X 5/8-11 Jumbo Flap Disc 120 Grit /Typ 29 Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 120 Max RPM: 13300 W/Metal Threaded Hub Manufactured with high quality VSM® Zirconium material Non-Hubbed Part #: SS42366",
+    "duplicateSku": false
   },
   {
     "id": "39b9c7a9-10ba-b40f-32bd-46f801e13044",
@@ -1715,7 +2186,7 @@
     "name": "4-1/2 X 5/8-11 Jumbo Flap Disc 80 Grit /Typ 29 (10/Box)",
     "slug": "4-1-2-x-5-8-11-jumbo-flap-disc-80-grit-w-metal-threaded-hub",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 89.24,
     "originalPrice": 104.99,
     "currency": "USD",
@@ -1730,7 +2201,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-jumbo-flap-disc-80-grit-w-metal-threaded-hub",
     "updated": "2025-07-14T18:33:08.456Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "80 Grit"
+    },
+    "searchText": "SS42375 4-1/2 X 5/8-11 Jumbo Flap Disc 80 Grit /Typ 29 (10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 80 Max RPM: 13300 Metal Threaded Hub Manufactured with high quality VSM® Zirconium material",
+    "duplicateSku": false
   },
   {
     "id": "3da5bd8f-6f51-d229-5bb8-23bb10e17489",
@@ -1738,7 +2215,7 @@
     "name": "4-1/2 X 5/8-11 Jumbo Flap Disc Type 29 / 40 Grit (Sold By Disc, 10/Box, 80/Case)",
     "slug": "4-1-2-x-5-8-11-jumbo-flap-disc-type-29-40-grit-fiberglass-sold-by-the-disc-1",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 9.69,
     "originalPrice": 9.69,
     "currency": "USD",
@@ -1753,7 +2230,14 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-jumbo-flap-disc-type-29-40-grit-fiberglass-sold-by-the-disc-1",
     "updated": "2025-07-20T16:47:42.764Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "40 Grit",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS42372 4-1/2 X 5/8-11 Jumbo Flap Disc Type 29 / 40 Grit (Sold By Disc, 10/Box, 80/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 40 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Manufactured with Metal Threaded Hub Non-Hubbed Part #: SS42362",
+    "duplicateSku": false
   },
   {
     "id": "34eea7f7-3e3e-64a7-4d7a-a7a95f815a43",
@@ -1761,7 +2245,7 @@
     "name": "4-1/2 X 5/8-11 Jumbo Flap Disc(Fiberglass)60 Grit/Typ 29 (1/EA or 10 Per Box)",
     "slug": "4-1-2-x-5-8-11-jumbo-flap-disc-type-29-60-grit-fiberglass-w-metal-hub",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 8.92,
     "originalPrice": 10.49,
     "currency": "USD",
@@ -1776,7 +2260,14 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-jumbo-flap-disc-type-29-60-grit-fiberglass-w-metal-hub",
     "updated": "2025-07-14T19:22:20.542Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "60 Grit",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS42374 4-1/2 X 5/8-11 Jumbo Flap Disc(Fiberglass)60 Grit/Typ 29 (1/EA or 10 Per Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 29 Grit: 60 Max RPM: 13300 Metal Threaded Hub Manufactured with high quality VSM® Zirconium material Non-Hubbed Part #: SS4236",
+    "duplicateSku": false
   },
   {
     "id": "f99b1975-7585-0128-08b5-08c121a6583c",
@@ -1784,7 +2275,7 @@
     "name": "4-1/2 X 5/8-11 Jumbo Flap Disc(Sold By Disc, 10/Box, 80/Case)",
     "slug": "4-1-2-x-5-8-11-60-grit-jumbo-flap-disc-type-27-reg-density-sold-by-the-disc",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 8.72,
     "originalPrice": 8.72,
     "currency": "USD",
@@ -1799,15 +2290,21 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-60-grit-jumbo-flap-disc-type-27-reg-density-sold-by-the-disc",
     "updated": "2025-07-19T17:08:18.531Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS42354 4-1/2 X 5/8-11 Jumbo Flap Disc(Sold By Disc, 10/Box, 80/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 27 Grit: 60 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Manufactured with Metal Threaded Hub",
+    "duplicateSku": false
   },
   {
     "id": "1e488ef8-d53a-2c4a-e267-969fdd3afde3",
     "sku": "SS42325",
-    "name": "4-1/2 X 7/8  Flap Disc Fiberglass 80 Grit / Type 29 (10/Box)",
+    "name": "4-1/2 X 7/8 Flap Disc Fiberglass 80 Grit / Type 29 (10/Box)",
     "slug": "4-1-2-x-7-8-80-grit-flap-disc-fiberglass-type-29-reg-density",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 29.74,
     "originalPrice": 34.99,
     "currency": "USD",
@@ -1822,7 +2319,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-80-grit-flap-disc-fiberglass-type-29-reg-density",
     "updated": "2025-07-14T17:44:15.005Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "80 Grit"
+    },
+    "searchText": "SS42325 4-1/2 X 7/8 Flap Disc Fiberglass 80 Grit / Type 29 (10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 80 Max RPM: 13300 Non-Hubbed Hubbed Part #: SS42335",
+    "duplicateSku": false
   },
   {
     "id": "281dc45b-2d6f-7ac7-c7a4-bd15b8f2c043",
@@ -1830,7 +2333,7 @@
     "name": "4-1/2 X 7/8 Flap Disc 120 Grit / Typ 29 (10/Box)",
     "slug": "4-1-2-x-7-8-flap-disc-120-grit-type-29-reg-density",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 28.89,
     "originalPrice": 33.99,
     "currency": "USD",
@@ -1845,7 +2348,14 @@
     "weight": 1.25,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-flap-disc-120-grit-type-29-reg-density",
     "updated": "2025-07-14T18:41:42.115Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "120 Grit",
+      "Weight": "1.25 lb"
+    },
+    "searchText": "SS42326 4-1/2 X 7/8 Flap Disc 120 Grit / Typ 29 (10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 120 Max RPM: 13300 Manufactured with quality Zirconium material Hubbed Version Part #: SS42336",
+    "duplicateSku": false
   },
   {
     "id": "d8f70987-89bf-0c9e-6657-c45796292722",
@@ -1853,7 +2363,7 @@
     "name": "4-1/2 X 7/8 Jumbo Flap Disc 80 Grit / Typ 27 Reg. Density (Sold By The Disc, 10",
     "slug": "4-1-2-x-7-8-80-grit-jumbo-flap-disc-type-27-reg-density-sold-by-the-disc-10",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 62.89,
     "originalPrice": 73.99,
     "currency": "USD",
@@ -1868,7 +2378,13 @@
     "weight": 0,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-80-grit-jumbo-flap-disc-type-27-reg-density-sold-by-the-disc-10",
     "updated": "2025-07-14T18:21:25.461Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "80 Grit"
+    },
+    "searchText": "SS54022 4-1/2 X 7/8 Jumbo Flap Disc 80 Grit / Typ 27 Reg. Density (Sold By The Disc, 10 Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Grit: 80 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material",
+    "duplicateSku": false
   },
   {
     "id": "dd0fe2db-fdd2-7162-cb2a-6a6cc5d8dbe2",
@@ -1876,7 +2392,7 @@
     "name": "4-1/2 X 7/8 Jumbo Flap Disc Fiberglass 36 Grit/Typ 29 (Sold by 10/Box)",
     "slug": "4-1-2-x-7-8-36-grit-flap-disc-high-density-jumbo-fiberglass-type-29",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 64.98,
     "originalPrice": 64.98,
     "currency": "USD",
@@ -1891,15 +2407,22 @@
     "weight": 0.1375,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-36-grit-flap-disc-high-density-jumbo-fiberglass-type-29",
     "updated": "2025-07-20T20:47:06.568Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2",
+      "Grit": "36 Grit",
+      "Weight": "0.1375 lb"
+    },
+    "searchText": "SS54011 4-1/2 X 7/8 Jumbo Flap Disc Fiberglass 36 Grit/Typ 29 (Sold by 10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 36 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material",
+    "duplicateSku": true
   },
   {
     "id": "e7b04253-2ac0-141a-6457-566226f05e7a",
     "sku": "SS42314",
-    "name": "4-1/2\" X 5/8-11  Flap Disc - 60 Grit / Typ 27 (Sold By Disc, 10/Box, 80/Case)",
+    "name": "4-1/2\" X 5/8-11 Flap Disc - 60 Grit / Typ 27 (Sold By Disc, 10/Box, 80/Case)",
     "slug": "4-1-2-x-5-8-11-type-27-60-grit-flap-disc-sold-by-the-disc-10-discs-box-80-di",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 7.0,
     "originalPrice": 7.0,
     "currency": "USD",
@@ -1914,7 +2437,14 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-5-8-11-type-27-60-grit-flap-disc-sold-by-the-disc-10-discs-box-80-di",
     "updated": "2025-07-20T15:47:11.833Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Grit": "60 Grit",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS42314 4-1/2\" X 5/8-11 Flap Disc - 60 Grit / Typ 27 (Sold By Disc, 10/Box, 80/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 5/8-11 Type 27 Grit: 60 Max RPM: 13300 Manufactured with quality Zirconium material Manufactured with Metal Threaded Hub",
+    "duplicateSku": false
   },
   {
     "id": "bd036383-2b68-59b9-b504-d26d5c12962a",
@@ -1922,7 +2452,7 @@
     "name": "4-1/2\" X 7/8 Flap Disc 36 Grit/Typ 27(Sold By Disc, 10/Box, 200/Case)",
     "slug": "4-1-2-x-7-8-36-grit-type-27-flap-disc-sold-by-the-disc-10-discs-box-200-discs",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 2.98,
     "originalPrice": 2.98,
     "currency": "USD",
@@ -1932,12 +2462,19 @@
     "images": [
       "https://static.wixstatic.com/media/e17a10_b2be38f86fb8429597be643dc66f48ff~mv2.png/v1/fit/w_900,h_900,q_88/file"
     ],
-    "description": "Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Grit: 36 Max RPM: 13300 Hub: No Manufactured with quality Zirconium Material",
+    "description": "Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Grit: 36 Max RPM: 13300 Hub: No Manufactured with quality Zirconium Material",
     "detailsHtml": "<ul>\t<li>Diameter: 4-1/2</li>\t<li>Bore/Trim: 7/8</li>\t<li>Type 27</li>\t<li>Grit: 36</li>\t<li>Max RPM: 13300</li>\t<li>Hub:&nbsp;No</li>\t<li>Manufactured with quality Zirconium Material</li></ul>",
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-36-grit-type-27-flap-disc-sold-by-the-disc-10-discs-box-200-discs",
     "updated": "2025-07-20T16:58:01.388Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Grit": "36 Grit",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS42301 4-1/2\" X 7/8 Flap Disc 36 Grit/Typ 27(Sold By Disc, 10/Box, 200/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 27 Grit: 36 Max RPM: 13300 Hub: No Manufactured with quality Zirconium Material",
+    "duplicateSku": false
   },
   {
     "id": "7c69e181-879c-75da-8178-eb721ce657ff",
@@ -1945,7 +2482,7 @@
     "name": "4-1/2\" X 7/8 Jumbo Flap Disc - 120 Grit/Typ 29 (Sold by 10/Box)",
     "slug": "4-1-2-x-7-8-type-29-120-grit-jumbo-flap-disc",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 67.52,
     "originalPrice": 67.52,
     "currency": "USD",
@@ -1960,7 +2497,14 @@
     "weight": 0.1375,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-type-29-120-grit-jumbo-flap-disc",
     "updated": "2025-07-20T18:33:37.807Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Grit": "120 Grit",
+      "Weight": "0.1375 lb"
+    },
+    "searchText": "SS42366 4-1/2\" X 7/8 Jumbo Flap Disc - 120 Grit/Typ 29 (Sold by 10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 120 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Hubbed Part #: SS42376",
+    "duplicateSku": true
   },
   {
     "id": "9c18f356-2e71-fac9-e79a-177e1b9017b5",
@@ -1968,7 +2512,7 @@
     "name": "4-1/2\" X 7/8 Jumbo Flap Disc 40 Grit/Typ 29 (Sold By Disc, 10/Box, 200/Case)",
     "slug": "4-1-2-x-7-8-40-grit-flap-disc-high-density-jumbo-fiberglass-type-29-sold-by-1",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 6.79,
     "originalPrice": 6.79,
     "currency": "USD",
@@ -1983,7 +2527,14 @@
     "weight": 2.45,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-40-grit-flap-disc-high-density-jumbo-fiberglass-type-29-sold-by-1",
     "updated": "2025-07-20T16:12:40.165Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Grit": "40 Grit",
+      "Weight": "2.45 lb"
+    },
+    "searchText": "SS42362 4-1/2\" X 7/8 Jumbo Flap Disc 40 Grit/Typ 29 (Sold By Disc, 10/Box, 200/Case) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 40 Max RPM: 13300 Manufactured with high quality VSM® Zirconium Material Non-Hubbed Hubbed Part #: SS42372",
+    "duplicateSku": false
   },
   {
     "id": "ae78b93e-d830-f3ce-636c-05788236b805",
@@ -1991,7 +2542,7 @@
     "name": "4-1/2\" X 7/8 Jumbo Flap Disc- 80 Grit/Typ 29 (Sold by 10/Box)",
     "slug": "4-1-2-x-7-8-type-29-80-grit-jumbo-flap-disc",
     "brand": "Techniweld USA",
-    "category": "Welding",
+    "category": "Abrasives",
     "price": 67.98,
     "originalPrice": 67.98,
     "currency": "USD",
@@ -2006,15 +2557,22 @@
     "weight": 0.125,
     "url": "https://www.tillmantough.com/product-page/4-1-2-x-7-8-type-29-80-grit-jumbo-flap-disc",
     "updated": "2025-07-20T21:03:26.306Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1/2\"",
+      "Grit": "80 Grit",
+      "Weight": "0.125 lb"
+    },
+    "searchText": "SS42365 4-1/2\" X 7/8 Jumbo Flap Disc- 80 Grit/Typ 29 (Sold by 10/Box) Techniweld USA Abrasives Diameter: 4-1/2 Bore/Trim: 7/8 Type 29 Grit: 80 Max RPM: 13300 Manufactured with high quality VSM® Zirconium material Hubbed Part #: SS42375",
+    "duplicateSku": true
   },
   {
     "id": "72e20aa6-7f4c-4b08-9268-103f855cad17",
     "sku": "MKXDT111",
-    "name": "18V LXT 1/4\" Hex Impact Driver  \tKit",
+    "name": "18V LXT 1/4\" Hex Impact Driver Kit",
     "slug": "18v-lxt-1-4-hex-impact-driver-kit",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 144.0,
     "originalPrice": 144.0,
     "currency": "USD",
@@ -2029,15 +2587,22 @@
     "weight": 9.8,
     "url": "https://www.tillmantough.com/product-page/18v-lxt-1-4-hex-impact-driver-kit",
     "updated": "2025-05-20T18:08:08.904Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "18V",
+      "Drive Size": "1/4\"",
+      "Weight": "9.8 lb"
+    },
+    "searchText": "MKXDT111 18V LXT 1/4\" Hex Impact Driver Kit Tillman Tough Power Tools The Makita 18V LXT® Lithium-Ion Cordless Impact Driver (model XDT111) delivers power and speed in a compact size for a full range of driving and fastening tasks, with a fast-charging 18V Lithium-Ion battery for less downtime. It’s part of Makita’s expanding 18V Lithium-Ion series, the world’s largest cordless tool line-up powered by an 18V Lithium-Ion slide-style battery. Makita 18V Lithium-Ion batteries have the fastest charge times in their categories, so they spend more time working and less time sitting on the charger. For improved tool performance and extended battery life, Makita created Star Protection Computer Controls™. Star Protection is communication technology that allows the Star Protection-equipped tool and battery to exchange data in real time and monitor conditions during use to protect against overloading, over-discharging and overheating. For increased versatility, the tool can also be powered by Makita 18V LXT® and Compact Lithium-Ion batteries with the star symbol on the battery indicating Star Protection inside. The XDT111 features a Makita-built 4-pole motor with variable speed (0-2,900 RPM and 0-3,500 IPM) that delivers 1,460 in.lbs. of Max Torque. At only 5-3/8” long and 3.3 pounds (with battery), it has a compact and ergonomic design with less weight for reduced operator fatigue, and a rubberized soft grip for increased comfort on the job. The built-in L.E.D. light illuminates the job area for applications in dark spaces and close quarters. Makita’s entire line-up of impact drivers including the XDT111 is engineered with a proprietary hammer and anvil impact mechanism that is manufactured using the best raw materials with the highest quality steel, as well as a unique heat-hardening process for maximum fastening and driving power. With Extreme Protection Technology (XPT™), the XDT111 is engineered for improved water and dust resistance for operation in harsh job site conditions. Variable speed (0-2,900 RPM & 0-3,500 IPM) and 1,460 in.lbs. of torque for a wide range of fastening applications Makita 4-pole motor with 4-brush design delivers 26% more RPM without decreasing torque All metal gear housing for increased job site durability Compact and ergonomic design at only 5-3/8\" long Weighs only 3.3 lbs. with battery for reduced operator fatigue Convenient one-touch 1/4\" hex chuck for quick bit changes Dual L.E.D. lights with afterglow illuminate the work area Ergonomically designed handle with rubberized soft grip provides increased comfort Makita's proprietary hammer and anvil impact mechanism is manufactured using the best raw materials with the highest quality steel and unique heat hardening process for maximum fastening and driving power. Features Extreme Protection Technology (XPT™) which is engineered to provide increased dust and water resistance in harsh job site conditions Includes (1) 18V LXT® Impact Driver (XDT11Z) (1) 18V LXT® Lithium-Ion 3.0Ah Battery (BL1830) (1) 18V LXT® Lithium-Ion Rapid Optimum Charger (DC18RC) (1) Tool Case",
+    "duplicateSku": false
   },
   {
     "id": "97947ed4-2453-4710-997b-d356dde58df4",
     "sku": "DWDCF891B",
-    "name": "20V 1/2\" Mid-Range Impact  \tWrench w/Hog Ring Anvil (Bare  \tTool)",
+    "name": "20V 1/2\" Mid-Range Impact Wrench w/Hog Ring Anvil (Bare Tool)",
     "slug": "20v-1-2-mid-range-impact-wrench-w-hog-ring-anvil-bare-tool",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 226.0,
     "originalPrice": 226.0,
     "currency": "USD",
@@ -2052,15 +2617,22 @@
     "weight": 4,
     "url": "https://www.tillmantough.com/product-page/20v-1-2-mid-range-impact-wrench-w-hog-ring-anvil-bare-tool",
     "updated": "2025-05-21T15:38:59.503Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "4 lb"
+    },
+    "searchText": "DWDCF891B 20V 1/2\" Mid-Range Impact Wrench w/Hog Ring Anvil (Bare Tool) Tillman Tough Power Tools The perfect balance of high performance and size to get tough jobs done, use this new 20V MAX* XR Cordless 1/2 in. Mid-Range Impact Wrench with Hog Ring Anvil. This power tool delivers 600 ft-lbs. of max fastening torque and 800 ft-lbs. of max breakaway torque for challenging projects. Tackle wide range of fastening applications with 600 ft-lbs. of max fastening torque and 800 ft-lbs. of max breakaway torque Choose the output level based on the job: control is in your hands with 4 speed settings and a variable speed trigger Helps prevent overtightening and fastener run-off with precision wrench control Illuminate dark workspaces using the on-tool led work light Built for comfortable use when working in tight spaces with compact and lightweight design.",
+    "duplicateSku": false
   },
   {
     "id": "ec943943-c122-41e5-b082-910235af9128",
     "sku": "DWDCCS623B",
-    "name": "20V MAX 8\" Pruning Chainsaw  \t(Tool Only)",
+    "name": "20V MAX 8\" Pruning Chainsaw (Tool Only)",
     "slug": "20v-max-8-pruning-chainsaw-tool-only",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 166.0,
     "originalPrice": 166.0,
     "currency": "USD",
@@ -2075,15 +2647,21 @@
     "weight": 5,
     "url": "https://www.tillmantough.com/product-page/20v-max-8-pruning-chainsaw-tool-only",
     "updated": "2025-05-20T18:13:07.339Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "5 lb"
+    },
+    "searchText": "DWDCCS623B 20V MAX 8\" Pruning Chainsaw (Tool Only) Tillman Tough Power Tools Lightweight and compact, the Cordless Pruning Chainsaw has a high-efficiency brushless motor designed to maximize runtime and motor life with up to 70 cuts per charge on a 4\" x 4\" pressure treated pine using DCB230 battery. Weighing just 4.6 lbs (tool only), the Pruning Chainsaw is 61% lighter and 3x more compact than the DCCS620 chainsaw, designed to reduce fatigue while cutting, trimming and pruning. Use it to trim branches from downed trees, cut bundles of wood or branches, and manage thick brush or daily pruning needs. Compact design allows for easy access to tight spaces. Integrated tip guard is designed to provide stability during upcuts, and onboard wrench for fast, easy tensioning. Auto-Oiling for continuous lubrication.",
+    "duplicateSku": false
   },
   {
     "id": "82145f76-1941-4f79-9883-9fe2dd810cab",
     "sku": "DWDCK277D2",
-    "name": "20V MAX Compact Drill/Driver  \tand Impact Driver Combo Kit",
+    "name": "20V MAX Compact Drill/Driver and Impact Driver Combo Kit",
     "slug": "20v-max-compact-drill-driver-and-impact-driver-combo-kit",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 237.0,
     "originalPrice": 237.0,
     "currency": "USD",
@@ -2098,7 +2676,14 @@
     "weight": 8.6,
     "url": "https://www.tillmantough.com/product-page/20v-max-compact-drill-driver-and-impact-driver-combo-kit",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1",
+      "Weight": "8.6 lb"
+    },
+    "searchText": "DWDCK277D2 20V MAX Compact Drill/Driver and Impact Driver Combo Kit Tillman Tough Power Tools Expand your system with versatile 20V MAX tools powered by innovation. Complete a variety of applications with (1) 20V MAX Compact Drill/Driver and (1) 20V MAX Compact 1/4 in. Impact Driver. These tools feature ergonomic and lightweight designs to help you complete jobs in tough spaces. DEWALT brushless motor delivers up to 57% more run time over brushed Compact (5.4 in. front to back), lightweight (2.0 lbs) Impact Driver design fits into tight areas Compact (7.52 in. front to back), lightweight Drill/Driver design fits into tight areas Ergonomic comfort grip handle provides ideal balance and tool control LED light with 20-second trigger release delay provides increased visibility in dark or confined spaces Impact driver's one-handed loading 1/4 in. hex chuck accepts 1 in. bit tips This kit includes (2) 20V MAX batteries, (1) charger, and a durable storage bag for convenient portability",
+    "duplicateSku": false
   },
   {
     "id": "1f2a6c24-b271-40ce-8e99-eeaf9c744b2e",
@@ -2106,7 +2691,7 @@
     "name": "20V MAX DRILL/IMPACT KIT",
     "slug": "20v-max-drill-impact-kit",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 237.0,
     "originalPrice": 237.0,
     "currency": "USD",
@@ -2121,15 +2706,22 @@
     "weight": 8.9,
     "url": "https://www.tillmantough.com/product-page/20v-max-drill-impact-kit",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1 in.",
+      "Weight": "8.9 lb"
+    },
+    "searchText": "DWDCK278C2 20V MAX DRILL/IMPACT KIT Tillman Tough Power Tools The Compact Brushless 2-Tool Kit includes one Drill/Driver, one Impact driver, two 20V MAX* Lithium Ion Batteries, a charger, and a carrying bag. At only 5.1 in. front to back, the Impact Driver features a high-performance brushless motor that delivers 1700 in-lbs of torque and 3 LEDs for optimum illumination as you work. The Drill/Driver’s brushless motor provides 340 unit watts outs (UWO). The LED is positioned on the foot for better visibility. Both tools feature an ergonomic design for balance and easier tool control, along with a removable belt hooks. They are backed by a 3-year, limited warranty so you can buy with confidence. Includes (2) Belt Clip, (1) DCB107 Charger, (2) 20V MAX* Lithium Ion Batteries, (1) Carrying Bag DCD708 - Compact at only 6.3 in. front to back designed to fit in tight spaces, LED foot light for superior visibility, Variable speed trigger allows for control and precision on delicate work surfaces, 1/2 in. ratcheting chuck provides superior bit girpping strength, 340 UWO of power to help get the job done DCF809 - Only 5.1 in. in length to fit in tight spaces, 1700 in-lbs of torque delivering the power you need to get a majority of applications done, Variable speed trigger allows for control and precision on delicate work surfaces, 3 bright LEDs for dimly lit workspaces",
+    "duplicateSku": false
   },
   {
     "id": "13b0d259-b66e-4dfa-929c-9efb63089dba",
     "sku": "DWDCF961GP1",
-    "name": "20V MAX XR 1/2\" High Torque  \tImpact Wrench Kit",
+    "name": "20V MAX XR 1/2\" High Torque Impact Wrench Kit",
     "slug": "20v-max-xr-1-2-high-torque-impact-wrench-kit-1",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 512.0,
     "originalPrice": 512.0,
     "currency": "USD",
@@ -2144,15 +2736,22 @@
     "weight": 12,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-1-2-high-torque-impact-wrench-kit-1",
     "updated": "2025-05-21T15:38:59.503Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "12 lb"
+    },
+    "searchText": "DWDCF961GP1 20V MAX XR 1/2\" High Torque Impact Wrench Kit Tillman Tough Power Tools Complete tough jobs utilizing the power of the 20V MAX XR 1/2 in. High Torque Impact Wrench. The highest rated torque 1/2 in. impact wrench delivers up to 71% more torque than DCF899, making it ideal for large sized pipe flanges, grooved couplings, wheel lugs, concrete anchor bolt setting and many other heavy-duty impact wrench applications. PRECISION WRENCH mode is included to help prevent overtightening in forward, and run-off in reverse, for user control, as well as a 4-mode push button switch to easily change speeds for different applications. THE INDUSTRY'S HIGHEST RATED MAX TORQUE CORDLESS 1/2\" IMPACT WRENCH delivers 1200 ft-lbs of max fastening torque and 1750 ft-lbs of max breakaway torque. 3 SPEED SETTINGS AND PRECISION WRENCH MODE which helps prevent overtightening and fastening run-off. Max Torque: 1750 ft-lbs No Load Speed (RPM): 1200 RPM Impact Rate per Min.: 1890 IPM Number of Speed Settings: 3 + PRECISION WRENCH Led light Kit includes Impact Wrench, (1) 20V MAX Oil-Resistant 5.0 Ah Battery, Charger, Kit Bag",
+    "duplicateSku": false
   },
   {
     "id": "197addf1-c804-44c1-a00f-0688d8d72dcd",
     "sku": "DWDCBL722B",
-    "name": "20V MAX XR Handheld Blower  \tBare Tool",
+    "name": "20V MAX XR Handheld Blower Bare Tool",
     "slug": "20v-max-xr-handheld-blower-bare-tool",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 156.0,
     "originalPrice": 156.0,
     "currency": "USD",
@@ -2167,15 +2766,21 @@
     "weight": 7.43,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-handheld-blower-bare-tool",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Weight": "7.43 lb"
+    },
+    "searchText": "DWDCBL722B 20V MAX XR Handheld Blower Bare Tool Tillman Tough Power Tools The 20V XR brushless handheld blower helps in clearing debris and dust on the jobsite. Lightweight design facilitates the user to manipulate the blower easily in all directions thus minimizing user fatigue. Speed trigger helps in controlling the speed of the blower and the speed lock mechanism gives more operational control. Brushless motor design delivers optimum performance and enhanced runtime. Built-in axial fan design increases the air output and runtime. Low noise rating of 66 dBA makes it ideal to use in noise-sensitive regions. Blower comes with a concentrator nozzle. Up to 450 CFM of air volume and up to 125 Mph with concentrator nozzle",
+    "duplicateSku": false
   },
   {
     "id": "bd95c0fc-c859-4924-8b53-a5c782b81e84",
     "sku": "DWDCCS620B",
-    "name": "20V Max Compact Cordless  \tChainsaw",
+    "name": "20V Max Compact Cordless Chainsaw",
     "slug": "20v-max-compact-cordless-chainsaw",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 186.0,
     "originalPrice": 186.0,
     "currency": "USD",
@@ -2190,15 +2795,22 @@
     "weight": 8.8,
     "url": "https://www.tillmantough.com/product-page/20v-max-compact-cordless-chainsaw",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1",
+      "Weight": "8.8 lb"
+    },
+    "searchText": "DWDCCS620B 20V Max Compact Cordless Chainsaw Tillman Tough Power Tools Low kick back 12 in. Oregon bar and chain for construction and outdoor cutting applications Compact, lightweight design (9 lbs. with battery) for maximum user control High-efficiency brushless motor maximizes runtime and motor life Up to 90 cuts per charge on 4x4 pressure treated wood (using a 20V MAX* 5Ah battery) Tool-free chain tensioning and bar tightening knob for proper bar clamping force Bare Tool: Battery and charger not included DCCS620 Chainsaw, (1) Hard Bar Cover",
+    "duplicateSku": false
   },
   {
     "id": "6b70095f-4397-4e77-9db2-185f25092bcf",
     "sku": "DWDCD771C2",
-    "name": "20V Max Li-Ion Compact Drill  \tDriver Kit",
+    "name": "20V Max Li-Ion Compact Drill Driver Kit",
     "slug": "20v-max-li-ion-compact-drill-driver-kit",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "PPE, Safety & Apparel",
     "price": 156.0,
     "originalPrice": 156.0,
     "currency": "USD",
@@ -2213,15 +2825,22 @@
     "weight": 5.95,
     "url": "https://www.tillmantough.com/product-page/20v-max-li-ion-compact-drill-driver-kit",
     "updated": "2025-06-09T11:18:32.193Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1",
+      "Weight": "5.95 lb"
+    },
+    "searchText": "DWDCD771C2 20V Max Li-Ion Compact Drill Driver Kit Tillman Tough PPE, Safety & Apparel The DCD771C2 20V MAX* Lithium Ion Compact Drill/Driver Kit is lightweight and compact for working in tight spaces for long periods of time. High-speed transmission delivers 2-Speed variations allowing users to choose the level of performance needed for various applications. Compact, lightweight design fits into tight areas High performance motor delivers 300 unit watts out (UWO) of power ability completing a wide range of applications High speed transmission delivers two speeds (0-450 & 1,500 rpm) for a range of fastening and drilling applications 1/2\" single sleeve ratcheting chuck provides tight bit gripping strength Ergonomic handle delivers comfort and control Specifications: 1/2\" Type Keyless Chuck, Clutch Settings 16, Forward and Reverse Switch, No Load Speed 0-450/0-1,500 rpm Includes: DCD771 1/2\" Drill Driver, (2) 20V Max* compact lithium ion battery packs, Compact Charger and Contractor Bag",
+    "duplicateSku": false
   },
   {
     "id": "f371364b-cfde-4127-94d4-a53c930d67ed",
     "sku": "DWDCF900B",
-    "name": "20V Max XR 1/2\" High Torque  \tImpact Wrench with Hog Ring  \tAnvil (Bare Tool)",
+    "name": "20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil (Bare Tool)",
     "slug": "20v-max-xr-1-2-high-torque-impact-wrench-with-hog-ring-anvil-bare-tool",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 293.0,
     "originalPrice": 293.0,
     "currency": "USD",
@@ -2236,15 +2855,22 @@
     "weight": 7,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-1-2-high-torque-impact-wrench-with-hog-ring-anvil-bare-tool",
     "updated": "2025-05-20T18:13:07.339Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "7 lb"
+    },
+    "searchText": "DWDCF900B 20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil (Bare Tool) Tillman Tough Power Tools Complete the toughest jobs utilizing the power of the 20V Max XR 1/2 \" High Torque Impact Wrench. Delivering 1030 '-lbs. of Max fastening torque and 1400'-lbs. of Max breakaway torque, making it ideal for large sized pipe flanges, grooved couplings, wheel lugs, concrete anchor bolt setting and many other heavy-duty impact wrench applications. The Precision Wrench mode is included to help prevent overtightening in forward, and run-off in reverse, for additional user control. Utilize the updated 4-mode push button switch to easily transition speeds and adjust LED brightness when needed. Battery and charger sold separately. Includes: (1) DCF900 Impact Wrench",
+    "duplicateSku": false
   },
   {
     "id": "3d3b541d-bbcf-4aad-adc0-34d6c02ed933",
     "sku": "DWDCF900P1",
-    "name": "20V Max XR 1/2\" High Torque  \tImpact Wrench with Hog Ring  \tAnvil Kit",
+    "name": "20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil Kit",
     "slug": "20v-max-xr-1-2-high-torque-impact-wrench-with-hog-ring-anvil-kit",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Power Tools",
     "price": 316.0,
     "originalPrice": 316.0,
     "currency": "USD",
@@ -2259,15 +2885,22 @@
     "weight": 7,
     "url": "https://www.tillmantough.com/product-page/20v-max-xr-1-2-high-torque-impact-wrench-with-hog-ring-anvil-kit",
     "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Voltage": "20V",
+      "Drive Size": "1/2\"",
+      "Weight": "7 lb"
+    },
+    "searchText": "DWDCF900P1 20V Max XR 1/2\" High Torque Impact Wrench with Hog Ring Anvil Kit Tillman Tough Power Tools Complete the toughest jobs utilizing the power of the 20V Max XR 1/2 \" High Torque Impact Wrench. Delivering 1030 '-lbs. of Max fastening torque and 1400'-lbs. of Max breakaway torque, making it ideal for large sized pipe flanges, grooved couplings, wheel lugs, concrete anchor bolt setting and many other heavy-duty impact wrench applications. The Precision Wrench mode is included to help prevent overtightening in forward, and run-off in reverse, for additional user control. Utilize the updated 4-mode push button switch to easily transition speeds and adjust LED brightness when needed. Battery and charger sold separately. Includes: (1) DCF900 Impact Wrench, (1) DCB205 20V Max 5.0 AH Battery, (1) DCB115 Charger, (1) Kit Bag",
+    "duplicateSku": false
   },
   {
     "id": "ab4206a8-a679-43ea-ad47-3283e5a6b41f",
     "sku": "TA73000",
-    "name": "25 Piece Jobber Essentials  \tPack",
+    "name": "25 Piece Jobber Essentials Pack",
     "slug": "25-piece-jobber-essentials-pack",
     "brand": "Tillman Tough",
-    "category": "Welding",
+    "category": "Electronics & Diagnostics",
     "price": 374.0,
     "originalPrice": 374.0,
     "currency": "USD",
@@ -2282,29 +2915,12 @@
     "weight": 24.5,
     "url": "https://www.tillmantough.com/product-page/25-piece-jobber-essentials-pack",
     "updated": "2025-04-29T19:03:55.378Z",
-    "trackInventory": false
-  },
-  {
-    "id": "bc0a1111-5c69-42d6-a788-2b53dde6cde1",
-    "sku": "IRW3131-K22",
-    "name": "3/8\" IQV 20V Cordless Compact  \tImpact Wrench Two Battery Kit",
-    "slug": "3-8-iqv-20v-cordless-compact-impact-wrench-two-battery-kit",
-    "brand": "Tillman Tough",
-    "category": "Welding",
-    "price": 408.0,
-    "originalPrice": 408.0,
-    "currency": "USD",
-    "inStock": true,
-    "ribbon": "",
-    "image": "https://static.wixstatic.com/media/b66b8f_48fbb75202024129aaf23aa19b8f8ba4~mv2.jpeg/v1/fit/w_900,h_900,q_88/file",
-    "images": [
-      "https://static.wixstatic.com/media/b66b8f_48fbb75202024129aaf23aa19b8f8ba4~mv2.jpeg/v1/fit/w_900,h_900,q_88/file"
-    ],
-    "description": "CORDLESS PERFORMANCE 3/8\" square drive for use with impact rated sockets Efficient brushless motor technology delivers superb power and runtime As powerful as pneumatic or corded Free speed of 2,800 RPM to quickly drive fasteners before impacting stage LIGHTWEIGHT & COMPACT Lightest in its class at 2.3lbs, reduces fatigue and improves tool control Easily access tight spaces with short 5.3\" tip-to-tail length and overall compact size Over molded ergonomic grip provides comfort for extended periods of use VERSATILITY Patented 360° LED shadowless light ring illuminates fastener from all sides 3 speed options with variable speed trigger to cover a wide range of applications Impact resistant bumpers on upper and lower housing to maximize durability Breakaway torque: 400 ft. lbs. BPM: 4,200 Includes: impact wrench, BL2023 battery, BL2012 battery, and battery charger",
-    "detailsHtml": "<ul>\t<li>CORDLESS PERFORMANCE</li>\t<li>3/8\" square drive for use with impact rated sockets</li>\t<li>Efficient brushless motor technology delivers superb power and runtime</li>\t<li>As powerful as pneumatic or corded</li>\t<li>Free speed of 2,800 RPM to quickly drive fasteners before impacting stage</li>\t<li>LIGHTWEIGHT &amp; COMPACT</li>\t<li>Lightest in its class at 2.3lbs, reduces fatigue and improves tool control</li>\t<li>Easily access tight spaces with short 5.3\" tip-to-tail length and overall compact size</li>\t<li>Over molded ergonomic grip provides comfort for extended periods of use</li>\t<li>VERSATILITY</li>\t<li>Patented 360° LED shadowless light ring illuminates fastener from all sides</li>\t<li>3 speed options with variable speed trigger to cover a wide range of applications</li>\t<li>Impact resistant bumpers on upper and lower housing to maximize durability</li>\t<li>Breakaway torque: 400 ft. lbs.</li>\t<li>BPM: 4,200</li>\t<li>Includes: impact wrench, BL2023 battery, BL2012 battery, and battery charger</li></ul>",
-    "weight": 8,
-    "url": "https://www.tillmantough.com/product-page/3-8-iqv-20v-cordless-compact-impact-wrench-two-battery-kit",
-    "updated": "2025-05-21T13:24:58.656Z",
-    "trackInventory": false
+    "trackInventory": false,
+    "specs": {
+      "Drive Size": "1",
+      "Weight": "24.5 lb"
+    },
+    "searchText": "TA73000 25 Piece Jobber Essentials Pack Tillman Tough Electronics & Diagnostics A high value collection of 25 of the most popular Tool Aid stocking items as found on most tool trucks and auto parts stores. The Tool Aid brand features high quality products for general and specialized repair throughout all industry channels. The Essential Pack is a profitable way to add fast selling, high demand items to your display areas. Includes 19000 Wire Stripper, 14300 Mighty Cutter, (3) 15210 1/8\" Double End Drill Bit (Per tube of 10), 17380 Disc Brake Caliper Brush, 18900 Ratcheting Terminal Crimper, 18950 Wire Stripper, Cutter and Terminal Crimper, 19100 Wire Stripper for Recessed Areas, 19400 Plastic Rivet Tool, 21200 Clamp Probe Set, 23210 Heat Shrink Tubes Assortment, 23500 Back Probe Kit, 23970 In-Line Spark Checker Kit, (3) 27000 Heavy Duty Circuit Tester, 65100 Tire Inflator with Pop Up Gage, 65130 Truck Tire Inflator, 65140 Tire Tread Depth Gage, (3) 65150 Tire Valve Core Tool, 65300 In-Line Brake Pad Gauge, 87425 Windshield Cut-Out Wire, 87900 Windshield Removing Tool, 87965 XL Sticker Scraper, (3) 94520 2\" Holding Pad, (3) 94530 3\" Holding Pad, (2) 94950 Cut-Off Wheels Arbor, 99500 4-1/2\" Blow Gun Bonus Items include 66400 Steering Wheel Holder and Pedal Depressor, (2) Window sticker, (2) Clear sticker",
+    "duplicateSku": false
   }
 ]

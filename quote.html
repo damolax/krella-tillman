@@ -1,21 +1,53 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Request a Commercial Quote | Tillman Tough</title><meta name="description" content="Request quantity pricing, sourcing and delivery review from Tillman Tough."></head><body><div id="siteHeader"></div>
-<main>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Request a Commercial Quote | Tillman Tough</title>
+<meta name="description" content="Request quantity pricing, sourcing, delivery review and commercial order support from Tillman Tough.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#090909">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tillman Tough">
+<meta property="og:title" content="Request a Commercial Quote | Tillman Tough">
+<meta property="og:description" content="Request quantity pricing, sourcing, delivery review and commercial order support from Tillman Tough.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/styles.css">
+<script defer src="data/site.js"></script>
+<script defer src="data/products.js"></script>
+<script defer src="scripts/app.js"></script>
+</head>
+<body data-page="quote">
+<div id="siteHeader"></div>
+<main id="main">
 <section class="page-hero"><div class="container">
-  <div class="breadcrumb">Home › Buying Support › Request Quote</div><div class="kicker light">Quantity and Commercial Orders</div>
-  <h1>Request a Quote</h1><p>Provide the products, quantities, delivery location and deadline once, so the Tillman Tough team receives a complete enquiry.</p>
+<div class="breadcrumb"><a href="index.html">Home</a> › Request Quote</div>
+<div class="kicker light">Quantity and Commercial Orders</div>
+<h1>Request a Quote</h1>
+<p>Provide products, quantities, delivery location and deadline once so the Tillman Tough team receives a complete enquiry.</p>
 </div></section>
-<section class="page-intro"><div class="container page-intro-grid"><strong>Use this when checkout alone is not enough</strong><p>This route is for quantity pricing, availability confirmation, delivery review, sourcing and purchase-order discussions.</p></div></section>
+<section class="page-intro"><div class="container page-intro-grid"><strong>Use this when checkout alone is not enough</strong><p>This route is for quantity pricing, availability confirmation, delivery review, product sourcing and purchase-order discussions.</p></div></section>
 <section class="section off"><div class="container tool-layout">
-  <form class="panel" id="quoteForm"><div class="kicker">Your Request</div><h3>Tell Us What You Need</h3><label>Name</label><input name="name" required><label>Company</label><input name="company"><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><label>Products / SKUs and Quantities</label><textarea name="items" id="quoteItems" rows="9" required></textarea><label>Delivery ZIP / Location</label><input name="location"><label>Required Date</label><input name="date" type="date"><label>Additional Details</label><textarea name="notes" rows="5"></textarea><button class="btn btn-yellow">Prepare Email Request</button></form>
-  <aside class="panel"><div class="kicker">What Happens Next</div><h3>A Complete Sales Enquiry</h3>
-    <div class="flow-steps"><div class="flow-step"><span>1</span><div><b>Products are identified</b><p>SKUs and quantities are grouped in one request.</p></div></div><div class="flow-step"><span>2</span><div><b>Availability is reviewed</b><p>The team checks stock, sourcing and timing.</p></div></div><div class="flow-step"><span>3</span><div><b>Pricing and delivery are confirmed</b><p>The buyer receives what is needed to proceed.</p></div></div></div>
-    <div class="note">The final Wix version will save the enquiry, notify the sales team and send a branded confirmation.</div>
-  </aside>
+<form class="panel demo-form" data-form-type="quote" novalidate>
+<div class="kicker">Your Request</div><h2>Tell Us What You Need</h2>
+<label for="quoteName">Name</label><input id="quoteName" name="name" autocomplete="name" required>
+<label for="quoteCompany">Company</label><input id="quoteCompany" name="company" autocomplete="organization">
+<label for="quoteEmail">Email</label><input id="quoteEmail" name="email" type="email" autocomplete="email" required>
+<label for="quotePhone">Phone</label><input id="quotePhone" name="phone" type="tel" autocomplete="tel">
+<label for="quoteItems">Products, SKUs and Quantities</label><textarea id="quoteItems" name="items" rows="9" required></textarea>
+<label for="quoteLocation">Delivery ZIP / Location</label><input id="quoteLocation" name="location" autocomplete="postal-code">
+<label for="quoteDate">Required Date</label><input id="quoteDate" name="date" type="date">
+<label for="quoteNotes">Additional Details</label><textarea id="quoteNotes" name="notes" rows="5"></textarea>
+<button class="btn btn-yellow" type="submit">Submit Quote Request</button>
+</form>
+<aside class="panel">
+<div class="kicker">What Happens Next</div><h2>A Complete Sales Enquiry</h2>
+<div class="flow-steps">
+<div class="flow-step"><span>1</span><div><b>Products are identified</b><p>SKUs and quantities are grouped in one request.</p></div></div>
+<div class="flow-step"><span>2</span><div><b>Availability is reviewed</b><p>The team checks stock, sourcing and timing.</p></div></div>
+<div class="flow-step"><span>3</span><div><b>Pricing and delivery are confirmed</b><p>The buyer receives the information needed to proceed.</p></div></div>
+</div>
+<div class="note">In Wix, this submission will create a contact record, notify the sales team and send the buyer a branded confirmation.</div>
+</aside>
 </div></section>
-</main>
-<div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
-document.addEventListener('DOMContentLoaded',()=>{
- const params=new URLSearchParams(location.search); $('#quoteItems').value=params.get('items')||params.get('sku')||'';
- $('#quoteForm').onsubmit=e=>{e.preventDefault();const fd=new FormData(e.target);const body=[...fd.entries()].map(([k,v])=>`${k.toUpperCase()}\n${v}`).join('\n\n');location.href=`mailto:info@tillmantough.com?subject=${encodeURIComponent('Tillman Tough quote request')}&body=${encodeURIComponent(body)}`};
-});
-</script></body></html>
+</main><div id="siteFooter"></div></body></html>

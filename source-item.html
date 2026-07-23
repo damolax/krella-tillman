@@ -1,21 +1,55 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Request Product Sourcing | Tillman Tough</title><meta name="description" content="Send a SKU, part number or product description and ask Tillman Tough to source the item."></head><body><div id="siteHeader"></div>
-<main>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Request Product Sourcing | Tillman Tough</title>
+<meta name="description" content="Send a SKU, part number, photo or product description and ask Tillman Tough to source the item.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#090909">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tillman Tough">
+<meta property="og:title" content="Request Product Sourcing | Tillman Tough">
+<meta property="og:description" content="Send a SKU, part number, photo or product description and ask Tillman Tough to source the item.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/styles.css">
+<script defer src="data/site.js"></script>
+<script defer src="data/products.js"></script>
+<script defer src="scripts/app.js"></script>
+</head>
+<body data-page="source">
+<div id="siteHeader"></div>
+<main id="main">
 <section class="page-hero"><div class="container">
-  <div class="breadcrumb">Home › Buying Support › Source an Item</div><div class="kicker light">Cannot Find the Exact Product?</div>
-  <h1>Send the Part Number</h1><p>A missing search result should not send a customer away. Submit the SKU, manufacturer part number, brand or description and ask Tillman Tough to check availability.</p>
+<div class="breadcrumb"><a href="index.html">Home</a> › Source an Item</div>
+<div class="kicker light">Cannot Find the Exact Product?</div>
+<h1>Send the Part Number</h1>
+<p>Submit the SKU, manufacturer part number, brand or description and ask Tillman Tough to check availability or recommend an alternative.</p>
 </div></section>
-<section class="page-intro"><div class="container page-intro-grid"><strong>The safety net for the catalogue</strong><p>This captures demand for unavailable, newly released, hard-to-identify or not-yet-listed products.</p></div></section>
+<section class="page-intro"><div class="container page-intro-grid"><strong>The safety net for the catalogue</strong><p>This captures demand for unavailable, newly released, difficult-to-identify and not-yet-listed products.</p></div></section>
 <section class="section off"><div class="container tool-layout">
-  <form class="panel" id="sourceForm"><div class="kicker">Product Details</div><h3>What Should We Look For?</h3><label>SKU or Manufacturer Part Number</label><input id="sourceSku" name="part_number" required><label>Brand</label><input name="brand"><label>Product Description</label><textarea name="description" rows="5"></textarea><label>Quantity</label><input name="quantity" type="number" min="1" value="1"><label>When Do You Need It?</label><input name="deadline" type="date"><label>Your Name</label><input name="name" required><label>Email</label><input name="email" type="email" required><label>Phone</label><input name="phone"><button class="btn btn-yellow">Prepare Sourcing Request</button></form>
-  <aside class="panel"><div class="kicker">Useful For</div><h3>Products That Do Not Fit a Normal Search</h3>
-    <div class="flow-steps"><div class="flow-step"><span>1</span><div><b>Exact part numbers</b><p>The buyer knows the SKU but the store has no match.</p></div></div><div class="flow-step"><span>2</span><div><b>Replacement products</b><p>An older product may have a current alternative.</p></div></div><div class="flow-step"><span>3</span><div><b>Commercial quantities</b><p>Supplier confirmation may be required.</p></div></div><div class="flow-step"><span>4</span><div><b>Unlisted products</b><p>The item may exist before it reaches the website.</p></div></div></div>
-    <div class="note">Inside Wix, this will create a tagged sourcing lead and alert the appropriate sales contact.</div>
-  </aside>
+<form class="panel demo-form" data-form-type="sourcing" novalidate>
+<div class="kicker">Product Details</div><h2>What Should We Look For?</h2>
+<label for="sourceSku">SKU or Manufacturer Part Number</label><input id="sourceSku" name="part_number" required>
+<label for="sourceBrand">Brand</label><input id="sourceBrand" name="brand">
+<label for="sourceDescription">Product Description</label><textarea id="sourceDescription" name="description" rows="5"></textarea>
+<label for="sourceQty">Quantity</label><input id="sourceQty" name="quantity" type="number" min="1" value="1">
+<label for="sourceDeadline">When Do You Need It?</label><input id="sourceDeadline" name="deadline" type="date">
+<label for="sourceFile">Photo or Specification Sheet</label><input id="sourceFile" name="attachment" type="file" accept="image/*,.pdf">
+<label for="sourceName">Your Name</label><input id="sourceName" name="name" autocomplete="name" required>
+<label for="sourceEmail">Email</label><input id="sourceEmail" name="email" type="email" autocomplete="email" required>
+<label for="sourcePhone">Phone</label><input id="sourcePhone" name="phone" type="tel" autocomplete="tel">
+<button class="btn btn-yellow" type="submit">Submit Sourcing Request</button>
+</form>
+<aside class="panel">
+<div class="kicker">Useful For</div><h2>Products That Do Not Fit a Normal Search</h2>
+<div class="flow-steps">
+<div class="flow-step"><span>1</span><div><b>Exact part numbers</b><p>The buyer knows the SKU but the store has no match.</p></div></div>
+<div class="flow-step"><span>2</span><div><b>Replacement products</b><p>An older product may have a current equivalent.</p></div></div>
+<div class="flow-step"><span>3</span><div><b>Commercial quantities</b><p>Supplier confirmation may be required.</p></div></div>
+<div class="flow-step"><span>4</span><div><b>Unlisted products</b><p>The item may exist before it reaches the website.</p></div></div>
+</div>
+<div class="note">In Wix, this request will be tagged as a sourcing lead and routed to the correct sales contact.</div>
+</aside>
 </div></section>
-</main>
-<div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
-document.addEventListener('DOMContentLoaded',()=>{
- $('#sourceSku').value=new URLSearchParams(location.search).get('q')||'';
- $('#sourceForm').onsubmit=e=>{e.preventDefault();const fd=new FormData(e.target);const body=[...fd.entries()].map(([k,v])=>`${k.toUpperCase()}\n${v}`).join('\n\n');location.href=`mailto:info@tillmantough.com?subject=${encodeURIComponent('Product sourcing request')}&body=${encodeURIComponent(body)}`};
-});
-</script></body></html>
+</main><div id="siteFooter"></div></body></html>

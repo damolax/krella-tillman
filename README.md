@@ -1,35 +1,65 @@
-# Tillman Tough — Current Brand Enhanced Mockup
+# Tillman Tough — Phase Two Product Discovery & Commercial Ordering Review
 
-This version preserves the existing Tillman Tough identity and familiar store language.
+This build preserves the current Tillman Tough branding and extends the existing store with a clearer, more useful buying experience.
 
-## Clear homepage flow
+## Content flow
 
-1. Existing Tillman Tough brand promise and hero
-2. Prominent search by SKU, part number, product name or brand
-3. Four simple ways to shop
-4. Promotion, New Products and Editors Pick
-5. Familiar product categories
-6. Featured products
-7. Bulk ordering, quantity quotes and product sourcing
-8. Expert help and trust information
+1. Existing Tillman Tough brand promise
+2. Search by SKU, part number, product name, brand or application
+3. Four clear buying routes
+4. Promotion, new products and guidance
+5. Familiar departments
+6. Featured products and brand navigation
+7. Product finder and comparison
+8. Bulk ordering, quotes and product sourcing
+9. Direct-answer FAQs and buying guides
+10. Support, trust information and newsletter
 
-## Functional demonstrations
+## Working features
 
-- Exact and partial SKU search
-- Product-name, brand and description search
-- Instant suggestions
-- Product filters and pagination
-- Individual product pages
-- Cart demonstration
-- Bulk-order SKU matching
-- Commercial quote request
-- Missing-product sourcing request
-- Responsive desktop and mobile layouts
+- Exact, partial and fuzzy SKU search
+- Search synonyms, recent searches and keyboard navigation
+- Category, brand, availability and price filters
+- Product comparison for up to four items
+- Saved products and persistent demonstration cart
+- Product pages with visible SKUs, specifications and related products
+- Guided product finder
+- Bulk SKU paste, CSV upload, quantity editing, cart and quote handoff
+- Quote, sourcing, contact and newsletter validation
+- Search analytics and private client review dashboard
+- Product, Organization and FAQ structured data
+- Responsive layouts, visible focus and reduced-motion support
 
 ## Catalogue
 
-The supplied Wix snapshot contained 100 complete product records. All 100 are included to demonstrate the functionality.
+The review uses 100 real products from the supplied Wix snapshot. This is enough to demonstrate the complete functionality without fabricating the remaining live-store catalogue.
 
-## Review status
+## Private review protection
 
-The forms currently prepare structured email messages. In the approved Wix implementation they should connect to Wix Forms, Contacts, Automations and the live Wix Stores catalogue.
+This Vercel review is intentionally protected with:
+
+- `meta robots="noindex,nofollow"`
+- `robots.txt` disallowing all crawlers
+- `X-Robots-Tag: noindex, nofollow` in `vercel.json`
+
+Remove these protections only when the public Wix implementation is approved.
+
+## Quality assurance
+
+- 28/28 core desktop/mobile layout checks passed
+- 45/45 responsive-matrix checks passed
+- 12/12 functional journeys passed
+- Zero Chromium console errors
+- JavaScript syntax check passed
+- Static page, metadata, link, form and catalogue checks passed
+
+Open `qa-report.html` for the client-readable QA summary. Raw reports and the Playwright runner are in `tests/`.
+
+## What remains for the approved Wix implementation
+
+- Connect all live Wix products rather than the 100-product preview
+- Connect the cart, checkout and member accounts to Wix Stores
+- Connect forms to Wix Contacts and Automations
+- Confirm inventory, dispatch, returns, quantity-pricing and sourcing rules
+- Add final high-resolution images, verified reviews and confirmed business proof
+- Remove private review notes and noindex protection before public launch

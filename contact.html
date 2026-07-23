@@ -1,20 +1,57 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://static.wixstatic.com"><link rel="stylesheet" href="assets/styles.css"><title>Contact Tillman Tough</title><meta name="description" content="Contact Tillman Tough about products, availability, orders, quotes and sourcing."></head><body><div id="siteHeader"></div>
-<main>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contact Tillman Tough</title>
+<meta name="description" content="Contact Tillman Tough about products, compatibility, availability, orders, quotes and sourcing.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#090909">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tillman Tough">
+<meta property="og:title" content="Contact Tillman Tough">
+<meta property="og:description" content="Contact Tillman Tough about products, compatibility, availability, orders, quotes and sourcing.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/styles.css">
+<script defer src="data/site.js"></script>
+<script defer src="data/products.js"></script>
+<script defer src="scripts/app.js"></script>
+</head>
+<body data-page="contact">
+<div id="siteHeader"></div>
+<main id="main">
 <section class="page-hero"><div class="container">
-  <div class="breadcrumb">Home › Contact</div><div class="kicker light">Customer Support</div>
-  <h1>How Can We Help?</h1><p>Choose the route that matches your need so product, order and sourcing questions reach the right place with enough information.</p>
+<div class="breadcrumb"><a href="index.html">Home</a> › Contact</div>
+<div class="kicker light">Customer Support</div>
+<h1>How Can We Help?</h1>
+<p>Choose the route that matches your need so product, order and sourcing questions reach the right place with useful information.</p>
 </div></section>
 <section class="quick-paths"><div class="container quick-grid">
-  <a class="quick-card" href="#message"><span class="quick-num">1</span><div><b>Product Question</b><p>Ask about specifications or compatibility.</p></div></a>
-  <a class="quick-card" href="quote.html"><span class="quick-num">2</span><div><b>Quantity Quote</b><p>Send products, quantities and delivery details.</p></div></a>
-  <a class="quick-card" href="bulk-order.html"><span class="quick-num">3</span><div><b>Bulk SKU List</b><p>Match several products in one request.</p></div></a>
-  <a class="quick-card" href="source-item.html"><span class="quick-num">4</span><div><b>Product Sourcing</b><p>Submit an item that is not in the catalogue.</p></div></a>
+<a class="quick-card" href="#contactForm"><span class="quick-num">1</span><span><b>Product Question</b><p>Ask about specifications, compatibility or alternatives.</p></span></a>
+<a class="quick-card" href="quote.html"><span class="quick-num">2</span><span><b>Quantity Quote</b><p>Send products, quantities and delivery details.</p></span></a>
+<a class="quick-card" href="bulk-order.html"><span class="quick-num">3</span><span><b>Bulk SKU List</b><p>Match several products in one request.</p></span></a>
+<a class="quick-card" href="source-item.html"><span class="quick-num">4</span><span><b>Product Sourcing</b><p>Submit an item that is not in the catalogue.</p></span></a>
 </div></section>
-<section class="section off" id="message"><div class="container tool-layout">
-  <form class="panel" id="contactForm"><div class="kicker">Send a Message</div><h3>Tell Us What You Need</h3><label>Name</label><input name="name" required><label>Email</label><input name="email" type="email" required><label>Reason</label><select name="reason"><option>Product question</option><option>Existing order</option><option>Availability</option><option>Bulk purchase</option><option>Product sourcing</option></select><label>Message</label><textarea name="message" rows="8" required></textarea><button class="btn btn-yellow">Prepare Message</button></form>
-  <aside class="panel"><div class="kicker">For Faster Help</div><h3>Include the Information the Team Will Need</h3><div class="flow-steps"><div class="flow-step"><span>1</span><div><b>Product name or SKU</b><p>This avoids confusion between similar products.</p></div></div><div class="flow-step"><span>2</span><div><b>Required quantity</b><p>Important for availability and commercial pricing.</p></div></div><div class="flow-step"><span>3</span><div><b>Deadline and location</b><p>Useful when delivery timing matters.</p></div></div></div></aside>
+<section class="section off"><div class="container tool-layout">
+<form class="panel demo-form" id="contactForm" data-form-type="contact" novalidate>
+<div class="kicker">Send a Message</div><h2>Tell Us What You Need</h2>
+<label for="contactName">Name</label><input id="contactName" name="name" autocomplete="name" required>
+<label for="contactEmail">Email</label><input id="contactEmail" name="email" type="email" autocomplete="email" required>
+<label for="contactPhone">Phone</label><input id="contactPhone" name="phone" type="tel" autocomplete="tel">
+<label for="contactReason">Reason</label><select id="contactReason" name="reason"><option>Product question</option><option>Existing order</option><option>Availability</option><option>Bulk purchase</option><option>Product sourcing</option></select>
+<label for="contactSku">SKU or Part Number, if Available</label><input id="contactSku" name="sku">
+<label for="contactMessage">Message</label><textarea id="contactMessage" name="message" rows="8" required></textarea>
+<button class="btn btn-yellow" type="submit">Submit Message</button>
+</form>
+<aside class="panel">
+<div class="kicker">For Faster Help</div><h2>Include the Details the Team Will Need</h2>
+<div class="flow-steps">
+<div class="flow-step"><span>1</span><div><b>Product name or SKU</b><p>This avoids confusion between similar products.</p></div></div>
+<div class="flow-step"><span>2</span><div><b>Required quantity</b><p>Important for availability and commercial pricing.</p></div></div>
+<div class="flow-step"><span>3</span><div><b>Deadline and location</b><p>Useful when delivery timing matters.</p></div></div>
+<div class="flow-step"><span>4</span><div><b>Current equipment model</b><p>Include this when asking about compatibility.</p></div></div>
+</div>
+<div class="note">In the approved Wix implementation, each message will be saved, tagged by enquiry type and routed through Wix Automations.</div>
+</aside>
 </div></section>
-</main>
-<div id="siteFooter"></div><script src="data/products.js"></script><script src="scripts/site.js"></script><script>
-document.addEventListener('DOMContentLoaded',()=>{$('#contactForm').onsubmit=e=>{e.preventDefault();const fd=new FormData(e.target);const body=[...fd.entries()].map(([k,v])=>`${k.toUpperCase()}\n${v}`).join('\n\n');location.href=`mailto:info@tillmantough.com?subject=${encodeURIComponent(fd.get('reason'))}&body=${encodeURIComponent(body)}`}});
-</script></body></html>
+</main><div id="siteFooter"></div></body></html>
