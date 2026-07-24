@@ -211,3 +211,30 @@ button{cursor:pointer}
   .tt-h1{font-size:3.1rem}.tt-logo img{width:205px}.tt-action--cart{display:none}.tt-mobile-menu.is-open{grid-template-columns:1fr;top:142px}.tt-hero__grid{padding-block:48px}.tt-hero__visual{min-height:340px}.tt-hero__label{font-size:.72rem;max-width:210px;left:14px;bottom:14px}.tt-proof__grid,.tt-category-grid,.tt-brand-grid,.tt-product-grid,.tt-guide-grid,.tt-footer__grid{grid-template-columns:1fr}.tt-section-head,.tt-results-head{display:block}.tt-section-head p{margin-top:15px}.tt-search__box{grid-template-columns:1fr auto}.tt-card__media{aspect-ratio:1.08}.tt-modal{inset:10px}.tt-compare-tray.is-open{bottom:8px}.tt-footer__bottom{display:block}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
+
+/* Client-ready navigation refinement */
+.tt-nav-row{gap:28px}
+.tt-category-menu{gap:28px}
+.tt-support-menu{margin-left:0}
+.tt-mega--right{margin-left:auto}
+.tt-mega__panel--right{left:auto;right:0;width:min(620px,82vw)}
+.tt-topbar__group:last-child{color:#77756e}
+@media(max-width:1260px){
+  .tt-nav-row{gap:18px}
+  .tt-category-menu{gap:18px}
+}
+
+/* Supplied Krella Tillman Sales Group master logo */
+.tt-header__main{grid-template-columns:minmax(132px,168px) minmax(320px,1fr) auto;min-height:112px}
+.tt-logo{display:flex;align-items:center;justify-content:flex-start}
+.tt-logo img{width:154px;height:96px;object-fit:contain;border-radius:8px;box-shadow:0 5px 18px rgba(28,26,25,.08)}
+.tt-footer__logo{width:190px;max-width:100%;height:auto;filter:none;opacity:1;border-radius:10px}
+@media(max-width:980px){
+  .tt-header__main{grid-template-columns:122px 1fr auto;min-height:104px}
+  .tt-logo img{width:118px;height:88px}
+}
+@media(max-width:560px){
+  .tt-header__main{grid-template-columns:92px 1fr auto;min-height:92px;gap:10px}
+  .tt-logo img{width:88px;height:78px;border-radius:6px}
+  .tt-header-search{padding-bottom:10px}
+}
