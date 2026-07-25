@@ -1,0 +1,200 @@
+[
+  {
+    "page": "index.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "shop.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "product.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "compare.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "finder.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "bulk-order.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "quote.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "source-item.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "about.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "contact.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "review.html",
+    "mode": "desktop",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "index.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "shop.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "product.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "compare.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "finder.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "bulk-order.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "quote.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "source-item.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "about.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "contact.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  },
+  {
+    "page": "review.html",
+    "mode": "mobile",
+    "overflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "brokenImages": [],
+    "errors": []
+  }
+]

@@ -1,9 +1,12 @@
 {
+  "version": "9.99-v5",
+  "pages": 11,
   "products": 100,
-  "productImageReferences": 109,
-  "uniqueProductImageFiles": 109,
-  "localCatalogJpgFiles": 116,
-  "productsWithGalleries": 5,
-  "htmlPages": 11,
-  "issues": []
+  "catalogImages": 116,
+  "missingInternalReferences": [],
+  "missingProductImages": [],
+  "externalWixImageReferences": 0,
+  "runtimeImageProxyReferences": 0,
+  "comparePage": "interactive starter comparison, product search, add/remove, difference filtering, cart actions",
+  "responsiveAudit": "11 pages passed at 1440px and 390px with no horizontal overflow, page errors or broken images"
 }

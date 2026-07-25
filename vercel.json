@@ -20,7 +20,7 @@
       ]
     },
     {
-      "source": "/assets/images/(.*)",
+      "source": "/assets/images/catalog/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
