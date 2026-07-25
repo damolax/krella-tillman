@@ -26,3 +26,7 @@ What is active in this preview:
   - Product assistant preview
 
 The live Wix website is not changed. Final payment checkout is intentionally not connected.
+
+
+IMAGE DELIVERY FIX
+The preview now routes Wix-hosted product images through /api/image on Vercel and falls back to the original image URL if required. This prevents the deployed mockup from depending on browser hotlink behavior.

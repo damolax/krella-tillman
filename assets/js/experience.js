@@ -7,6 +7,8 @@
   const $ = (selector, root = document) => root.querySelector(selector);
   const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
   const esc = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  const pic = url => /^https?:\/\//i.test(String(url || '')) ? '/api/image?url=' + encodeURIComponent(String(url)) : String(url || '');
+  const imgAttrs = url => `src=\"${esc(pic(url))}\" data-original=\"${esc(url)}\" referrerpolicy=\"no-referrer\"`;
   const money = value => new Intl.NumberFormat('en-US', {style:'currency',currency:'USD'}).format(Number(value || 0));
   const normalize = value => String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
@@ -46,7 +48,7 @@
   function exactProductCard(product) {
     return `<article class="tt-card">
       <a class="tt-card__media" href="${urls['product-preview'] || 'product.html'}?id=${encodeURIComponent(product.id)}">
-        <img loading="lazy" decoding="async" src="${esc(product.image)}" width="500" height="500" alt="${esc(product.name)}">
+        <img loading="lazy" decoding="async" ${imgAttrs(product.image)} width="500" height="500" alt="${esc(product.name)}">
       </a>
       <div class="tt-card__tools">
         <button type="button" data-save="${esc(product.id)}" aria-label="Save ${esc(product.name)}">♡</button>
@@ -86,7 +88,7 @@
         if (!product) return '';
         const count = products.filter(item => item.category === category).length;
         return `<a class="tt-category" href="${urls.shop || 'shop.html'}?category=${encodeURIComponent(category)}">
-          <img loading="lazy" decoding="async" src="${esc(product.image)}" width="520" height="520" alt="${esc(product.name)}">
+          <img loading="lazy" decoding="async" ${imgAttrs(product.image)} width="520" height="520" alt="${esc(product.name)}">
           <b>${esc(category)}</b><span>${count} products in this preview</span>
         </a>`;
       }).join('');
@@ -180,7 +182,7 @@
         return;
       }
       const matches = findProducts(query, 5);
-      resultHost.innerHTML = matches.length ? matches.map(product => `<a class="tt-search-result" href="${urls['product-preview'] || 'product.html'}?id=${encodeURIComponent(product.id)}"><img src="${esc(product.image)}" alt=""><span><strong>${esc(product.name)}</strong><small>${esc(product.brand)} · ${esc(product.sku)}</small></span><b>${money(product.price)}</b></a>`).join('') : `<div class="tt-search-no-result"><strong>No exact product found in this 100-product preview.</strong><p>The full version would search the complete catalogue. You can also submit the part number for sourcing.</p><a class="tt-btn tt-btn--yellow" href="${urls['source-item'] || 'source-item.html'}?q=${encodeURIComponent(query)}">Source this item</a></div>`;
+      resultHost.innerHTML = matches.length ? matches.map(product => `<a class="tt-search-result" href="${urls['product-preview'] || 'product.html'}?id=${encodeURIComponent(product.id)}"><img ${imgAttrs(product.image)} alt=""><span><strong>${esc(product.name)}</strong><small>${esc(product.brand)} · ${esc(product.sku)}</small></span><b>${money(product.price)}</b></a>`).join('') : `<div class="tt-search-no-result"><strong>No exact product found in this 100-product preview.</strong><p>The full version would search the complete catalogue. You can also submit the part number for sourcing.</p><a class="tt-btn tt-btn--yellow" href="${urls['source-item'] || 'source-item.html'}?q=${encodeURIComponent(query)}">Source this item</a></div>`;
     };
 
     document.addEventListener('click', event => {
@@ -255,7 +257,7 @@
     function productReply(query) {
       const matches = findProducts(query, 3);
       if (!matches.length) return '';
-      return `<p>I found ${matches.length === 1 ? 'this match' : 'these strong matches'} in the preview catalogue:</p><div class="tt-assistant-products">${matches.map(product => `<a href="${urls['product-preview'] || 'product.html'}?id=${encodeURIComponent(product.id)}"><img src="${esc(product.image)}" alt=""><span><strong>${esc(product.name)}</strong><small>${esc(product.brand)} · ${esc(product.sku)} · ${money(product.price)}</small></span></a>`).join('')}</div><p>You can open a product, compare it, or add it to the review cart.</p>`;
+      return `<p>I found ${matches.length === 1 ? 'this match' : 'these strong matches'} in the preview catalogue:</p><div class="tt-assistant-products">${matches.map(product => `<a href="${urls['product-preview'] || 'product.html'}?id=${encodeURIComponent(product.id)}"><img ${imgAttrs(product.image)} alt=""><span><strong>${esc(product.name)}</strong><small>${esc(product.brand)} · ${esc(product.sku)} · ${money(product.price)}</small></span></a>`).join('')}</div><p>You can open a product, compare it, or add it to the review cart.</p>`;
     }
 
     function answer(question) {
