@@ -1,0 +1,13 @@
+{
+  "package": "Tillman Tough Final Client Preview Fully Local v4",
+  "productRecords": 100,
+  "remoteWixImageReferencesReplaced": 116,
+  "localCatalogueImages": 116,
+  "productImageSources": 109,
+  "categoryImages": 6,
+  "homepageHeroImages": 1,
+  "missingStaticImgFiles": [],
+  "galleryProductsWithMultipleImages": 5,
+  "note": "All runtime images are local. Product visuals are locally rendered concept assets; final product photography is imported during approved implementation.",
+  "remainingWixProxyOrRemoteFallbackFiles": []
+}

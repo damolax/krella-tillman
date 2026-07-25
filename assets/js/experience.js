@@ -7,8 +7,8 @@
   const $ = (selector, root = document) => root.querySelector(selector);
   const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
   const esc = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
-  const pic = url => /^https?:\/\//i.test(String(url || '')) ? '/api/image?url=' + encodeURIComponent(String(url)) : String(url || '');
-  const imgAttrs = url => `src=\"${esc(pic(url))}\" data-original=\"${esc(url)}\" referrerpolicy=\"no-referrer\"`;
+  const pic = url => String(url || '');
+  const imgAttrs = url => `src=\"${esc(pic(url))}\" decoding=\"async\"`;
   const money = value => new Intl.NumberFormat('en-US', {style:'currency',currency:'USD'}).format(Number(value || 0));
   const normalize = value => String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
@@ -122,7 +122,7 @@
         <button class="tt-preview-guide__close" type="button" data-tt-close-preview aria-label="Close preview guide">×</button>
         <div class="tt-kicker">Working website concept</div>
         <h2 class="tt-h3" id="tt-preview-title">This shows the proposed next stage of Tillman Tough.</h2>
-        <p>The current Wix website remains untouched. This preview lets you test product search, filters, exact product images, comparison, cart review, bulk ordering, quotes, sourcing and the product assistant.</p>
+        <p>The current Wix website remains untouched. This preview lets you test product search, filters, locally packaged product visuals, comparison, cart review, bulk ordering, quotes, sourcing and the product assistant.</p>
         <div class="tt-preview-guide__status"><span></span><strong>Working now:</strong> everything except final payment checkout.</div>
         <a class="tt-btn tt-btn--yellow" href="review.html">Open the concept guide</a>
       </aside>`);
@@ -265,7 +265,7 @@
       const productAnswer = productReply(question);
       const likelyProductQuestion = /dewalt|makita|milwaukee|impact|drill|wrench|jump|starter|multimeter|welder|grinding|flap|brush|chainsaw|blower|trimmer|battery|charger|[a-z]{2,}\d{2,}/i.test(question);
       if (likelyProductQuestion && productAnswer) return productAnswer;
-      if (/what is this|what am i viewing|mockup|concept|preview/.test(q)) return `<p>This is a working Phase Two concept for Tillman Tough. The live Wix site remains unchanged. You can test product search, exact catalogue images, comparison, cart review, the finder, bulk ordering, quotes, sourcing and this assistant.</p><a href="review.html">Open the concept guide</a>`;
+      if (/what is this|what am i viewing|mockup|concept|preview/.test(q)) return `<p>This is a working Phase Two concept for Tillman Tough. The live Wix site remains unchanged. You can test product search, clear catalogue visuals, comparison, cart review, the finder, bulk ordering, quotes, sourcing and this assistant.</p><a href="review.html">Open the concept guide</a>`;
       if (/bulk|csv|spreadsheet|many items|several items/.test(q)) return `<p>The bulk-order tool lets a repeat buyer paste several part numbers and quantities or upload a CSV. The preview matches the products, calculates a subtotal and prepares the list for cart or quote.</p><a href="${urls['bulk-order'] || 'bulk-order.html'}">Try bulk ordering</a>`;
       if (/quote|quantity pricing|discount|commercial price/.test(q)) return `<p>A customer can send product numbers, quantities, delivery location and timing in one structured quote request. That gives the sales team better information and reduces back-and-forth.</p><a href="${urls['request-quote'] || 'quote.html'}">Open the quote form</a>`;
       if (/source|cannot find|missing product|not listed|hard to find/.test(q)) return `<p>The sourcing form keeps an unavailable or unlisted product from becoming a lost visit. The customer can send the part number, brand, quantity and required date.</p><a href="${urls['source-item'] || 'source-item.html'}">Open product sourcing</a>`;
