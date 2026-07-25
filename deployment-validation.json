@@ -1,5 +1,5 @@
 {
-  "version": "9.99-v5",
+  "version": "9.99-v6-refined-type",
   "pages": 11,
   "products": 100,
   "catalogImages": 116,
@@ -8,5 +8,7 @@
   "externalWixImageReferences": 0,
   "runtimeImageProxyReferences": 0,
   "comparePage": "interactive starter comparison, product search, add/remove, difference filtering, cart actions",
-  "responsiveAudit": "11 pages passed at 1440px and 390px with no horizontal overflow, page errors or broken images"
+  "responsiveAudit": "11 pages passed at 1440px and 390px with no horizontal overflow, page errors or broken images",
+  "typography": "Reduced oversized hero and section headings; restrained industrial-commerce hierarchy for desktop and mobile.",
+  "verificationNote": "Static asset/link checks and JavaScript syntax checks passed. Live visual rendering was not available in this environment."
 }
